@@ -1,0 +1,1185 @@
+Return-Path: <699-SXJ-715.0.190883.0.0.78246.9.169446753-52@em-sj-77.mktomail.com>
+X-Original-To: construlista@construlista.com.br
+Delivered-To: construlista@construlista.com.br
+Received: from barrosasaurus.mktdns.com (barrosasaurus.mktdns.com [192.28.146.14])
+	by usve264997.serverprofi24.com (Postfix) with ESMTPS id AD73379
+	for <construlista@construlista.com.br>; Fri,  8 Mar 2019 11:28:46 +0000 (UTC)
+X-MSFBL: Y29uc3RydWxpc3RhQGNvbnN0cnVsaXN0YS5jb20uYnJAZHZwLTE5Mi0yOC0xNDYt
+	MTRAYmctc2pkLTIxNUA2OTktU1hKLTcxNToxMDcyMzM6Mjg0NTM6MTE2ODYxOjA6
+	NzgyNDY6OToxOTA4ODM6MTY5NDQ2NzUzLTUy
+Received: from [10.0.87.249] ([10.0.87.249:33492] helo=sjmas02.marketo.org)
+	by sjmta17.marketo.org (envelope-from <aprender@indeed.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 8D/C5-30548-EE1528C5; Fri, 08 Mar 2019 05:28:46 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1552044526;
+	s=m1; d=indeed.com; i=@indeed.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=zCtuhP2rYstx80COlM7Nl9x76bUhr5kTSqa6nnskFnE=;
+	b=NNOIOgqY7Tx2BFiIBAKa8L9CbFrIhvhHt6KcW3O0MtxBMDrnUVscI0whtuNaEraP
+	0WxMALOC67wHYd8eTkAjcaK5FUarOytE3g3/PuSJZpphOs8jrt1oV8kDyplj0B8pgD/
+	i43afprNpdg2m+trv8Mmyy3dQ/2sUva4WfnycPzs=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1552044526;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=zCtuhP2rYstx80COlM7Nl9x76bUhr5kTSqa6nnskFnE=;
+	b=ZQCo8ehPv5rAhhVOgwwNGdUmYuQGKeH2i+nestBzJdj1HUTNhLQeHDyXSoX241/G
+	eM+gD/gvAe4Bc4Ip1pVIrBa8L+bAvNVhpVUYEWEK/TzFZQELk3OApH5Lc4VH1El+J7A
+	Oz9QyngLQLKAmZJjGErsJC7zBENdWgMpAC8R6NaM=
+Date: Fri, 8 Mar 2019 05:28:46 -0600 (CST)
+From: Indeed para Empresas <aprender@indeed.com>
+Reply-To: aprender@indeed.com
+To: construlista@construlista.com.br
+Message-ID: <3602719.-1933503605.1552044526081.JavaMail.root@sjmas02.marketo.org>
+Subject: =?UTF-8?Q?[Webinar_Gratuito]_Desmistificando_o_ROI:_Como_usar_dad?=
+ =?UTF-8?Q?os_para_maximizar_sua_Estra?=
+ =?UTF-8?Q?t=C3=A9gia_de_Atra=C3=A7=C3=A3o_de_Talentos?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-1933503606_113655376.1552044526081"
+X-PVIQ: mkto-699SXJ715-000001-000000-190883
+X-Binding: bg-sjd-215
+X-MarketoID: 699-SXJ-715:107233:28453:116861:0:78246:9:190883:169446753-52
+X-MKTOID: qcUEhsFcBiTvMa4PdC35pw==
+List-Unsubscribe: <mailto:MJTWCVJRNEWUCZ3JOYZVORSHIVDDKU3VGVBHKX2ZLJMTKTLENJ3UO4JQGZZHM3C2GNQWGPI.190883.78246.9@unsub-sj.mktomail.com>
+X-Mailfrom: 699-SXJ-715.0.190883.0.0.78246.9.169446753-52@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-1933503606_113655376.1552044526081
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Webinar Ao Vivo=20
+Desmistificando o ROI: Como usar dados para maximizar sua Estrat=C3=A9gia d=
+e Atra=C3=A7=C3=A3o de Talentos=20
+
+Quinta-feira, 21 de Mar=C3=A7o de 2019=20
+11h - 12h=20
+
+Inscreva-se Agora <https://offers.indeed.com/BR_March2019_ROIDemystified.ht=
+ml/?utm_source=3DInvite1&utm_content=3Dcta1>
+
+Mesmo entendendo o poder do recrutamento baseado em dados, ainda pode ser d=
+if=C3=ADcil coletar m=C3=A9tricas relevantes e transform=C3=A1-las em a=C3=
+=A7=C3=B5es.
+
+Inscreva-se no nosso webinar gratuito e saiba como aproveitar os dados e to=
+mar decis=C3=B5es de recrutamento mais inteligentes. Voc=C3=AA aprender=C3=
+=A1 =C3=A0:
+ Usar rastreamento automatizado para obter uma fonte precisa de dados de co=
+ntrata=C3=A7=C3=A3o
+ Implementar uma metodologia de pontua=C3=A7=C3=A3o de origem para rastrear=
+ facilmente o desempenho
+ Alcan=C3=A7ar os candidatos certos em um mercado de trabalho competitivo.
+
+Nos vemos l=C3=A1!
+
+Inscreva-se Agora <https://offers.indeed.com/BR_March2019_ROIDemystified.ht=
+ml/?utm_source=3DInvite1&utm_content=3Dcta2>
+
+Apresentado por:
+Tatiana Sayuri=20
+Recruitment Evangelist
+9 anos de experi=C3=AAncia com foco em solu=C3=A7=C3=B5es corporativas incl=
+uindo atua=C3=A7=C3=A3o como evangelista do Google. Atualmente atua como Re=
+cruitment Evangelist do Indeed no Brasil com o objetivo de auxiliar empresa=
+s a desenvolver melhores estrat=C3=A9gias em recrutamento e sele=C3=A7=C3=
+=A3o de talentos.
+
+Inscreva-se Agora <https://offers.indeed.com/BR_March2019_ROIDemystified.ht=
+ml/?utm_source=3DInvite1&utm_content=3Dcta3>
+
+N=C3=A3o poder=C3=A1 participar na Quinta-feira, 21 de Mar=C3=A7o de 2019? =
+Inscreva-se e enviaremos a grava=C3=A7=C3=A3o ap=C3=B3s o webinar!=20
+
+At=C3=A9 l=C3=A1!=20
+Equipe Indeed
+
+
+
+=C2=A9 2019 Indeed <http://content.indeed.com/ZX1s90AmW050bY0Q720JJSK>
+Rua Fid=C3=AAncio Ramos 302 - Torre B - 12=C2=BA=20
+Andar | Vila Olimpia, S=C3=A3o Paulo/SP | CEP 04551-010 | Brasil
+
+ Pol=C3=ADtica de Privacidade <http://content.indeed.com/a025bJ0AYS0Q00nJ8X=
+1Ks9W>
+Termos <http://content.indeed.com/tWJ92YbKSQ0Jo051Xs000A9>
+Ajuda <http://content.indeed.com/wXQJ1sWSJ00509Apb0Y2a0K>
+Cancelar recebimento <http://content.indeed.com/NX00ZSYW00bA9LJ5f1s0Q2J>
+
+-
+
+------=_Part_-1933503606_113655376.1552044526081
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"=E2=80=9Chttp://www.w3.org/1999/xhtml=E2=80=9D" xmlns:v=3D"=
+=E2=80=9Curn:schemas-microsoft-com:vml=E2=80=9D" xmlns:o=3D"=E2=80=9Curn:sc=
+hemas-microsoft-com:office:office=E2=80=9D">
+<head>=20
+<link href=3D"https://fonts.googleapis.com/css?family=3DMontserrat:300,400,=
+500,700" rel=3D"stylesheet">=20
+<meta charset=3D"utf-8">=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->=20
+<!--Variables-->                                        =20
+<title></title>=20
+<style>
+      /* CLIENT-SPECIFIC STYLES */
+      img{-ms-interpolation-mode: bicubic;}=20
+      /* Force IE to smoothly render resized images. */
+      #outlook a{padding:0;}=20
+      /* Force Outlook 2007 and up to provide a "view in browser" message. =
+*/
+      table{mso-table-lspace:0pt;mso-table-rspace:0pt;}=20
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{width:100%;}=20
+      .ExternalClass{width:100%;}=20
+      /* Force Outlook.com to display emails at full width. */
+      p, a, li, td, blockquote{mso-line-height-rule:exactly;}=20
+      /* Force Outlook to render line heights as they're originally set. */
+      a[href^=3D"tel"], a[href^=3D"sms"]{color:inherit;cursor:default; text=
+-decoration:none;}=20
+      /* Force mobile devices to inherit declared link styles. */
+      p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%;-webk=
+it-text-size-adjust:100%;}=20
+      /* Prevent Windows- and Webkit-based mobile platforms from changing d=
+eclared text sizes. */
+      .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass d=
+iv, .ExternalClass span, .ExternalClass font{line-height:100%;}
+      /* Force Outlook.com to display line heights normally. */
+      table{border-collapse:collapse;}
+
+      html {
+        -webkit-text-size-adjust: none;
+      }
+
+      #gmailModule,
+      .mobileOnly{ display:none !important; }
+      /*Hide Full-Width Image on Desktop*/
+
+      a, a:hover{=20
+        color: #085FF7;
+        text-decoration:underline;=20
+      }
+
+      .button a,=20
+      .button a:hover{=20
+        color:#ffffff;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      .bottomMargin{
+        margin-bottom: 15px !important;
+      }
+      @media only screen and (max-width:600px){
+        .bodyTable{ width:100% !important; }
+        .bodyTablePad{ width: 90% !important; }
+
+        img{
+          width:auto !important;
+          max-width:100% !important;
+          height:auto !important;
+        }
+        .hide{
+          display: none !important;
+        }
+        .logoContain img{
+          max-width:215px !important;
+        }
+        .cellStack{
+          width: 100% !important;
+          display: block !important;
+        }
+        .tableStack{ width:100% !important; }
+        table.buttonStack { margin-top: 10px !important; }
+        td.buttonStack,
+        th.buttonStack{=20
+          padding-top: 16px !important;=20
+        }
+
+        .stack{
+          padding-top: 15px !important;
+          padding-right:10% !important;
+          padding-bottom: 15px !important;
+          padding-left:10% !important;
+          width:80% !important;
+        }
+        td.mobileTopPad,
+        th.mobileTopPad{=20
+          padding-top: 20px !important;=20
+        }
+        table.mobileTopPad{ margin-top: 20px !important; }
+
+        td.lessMobileTopPad,
+        th.lessMobileTopPad{=20
+          padding-top: 15px !important;=20
+        }
+        table.lessMobileTopPad{ margin-top: 15px !important; }
+
+        table.button{=20
+          width:100% !important;=20
+          display:table !important;
+        }
+        table.sideBySide{
+          width: 48% !important;
+        }
+        .sm-no-btm-mgn{
+          padding-top: 15px !important;
+          padding-right:5% !important;
+          padding-bottom: 0px !important;
+          padding-left:5% !important;
+          width:90% !important;
+        }
+        .sm-no-top-mgn{
+          padding-top: 0px !important;
+          padding-right:5% !important;
+          padding-bottom: 15px !important;
+          padding-left:5% !important;
+          width:90% !important;
+        }
+        .sm-no-mgn{
+          padding-top: 0px !important;
+          padding-right:5% !important;
+          padding-bottom: 0px !important;
+          padding-left:5% !important;
+          width:90% !important;
+        }
+        .noBorder{
+          border-right: 0px !important;
+        }
+        .imageLeft{
+          margin: 0 !important;;
+        }
+
+        .desktopPad,
+        #gmailModule{
+          display:none !important;
+        }
+        .center img{
+          margin-left:auto !important;
+          margin-right:auto !important;
+        }
+        .center table{
+          margin-right:auto;
+          margin-left:auto;
+        }
+        .center{=20
+          text-align:center !important;
+        }
+        .noPad{
+          padding-top:0px !important;
+          padding-right:0px !important;
+          padding-bottom:0px !important;
+          padding-left:0px !important;
+        }
+        .noSidePad{
+          padding-right:0px !important;
+          padding-left:0px !important;
+        }
+        hr{
+          margin-right:auto !important;
+          margin-left:auto !important;
+        }
+        .bottomMargin{
+          margin-bottom: 0 !important;
+        }
+        .mobileOnly{ display:block !important; }
+      }
+    </style>=20
+<!--[if gte mso 9]>
+<style type=3D"text/css">
+td, p, ul, ol, li {=20
+font-family: Helvetica, sans-serif !important;=20
+}
+ul, ol {
+margin: 0px 0px 0px 26px !important;
+padding: 0px !important;
+list-style-position: inside !important;
+}
+table.outlookPadColumn{
+width:34% !important;
+padding-right:2% !important;
+}
+.bottomPad{
+padding-bottom: 15px !important;
+}
+td.outlookFloat{margin-left:15px;padding-right:0px !important;}
+</style>
+<![endif]-->=20
+</head>=20
+<body style=3D"mso-padding-alt: 0px 0px 0px 0px;background-color:#ffffff;ma=
+rgin:0px;padding:0px;" bgcolor=3D"#ffffff">=20
+<div style=3D"display:none;font-size: 0px;line-height: 0px;height: 0px;">
+ =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=
+=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nb=
+sp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=
+=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C =
+&nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =E2=80=8C &nbsp; =
+=E2=80=8C &nbsp; =E2=80=8C &nbsp;=20
+</div>=20
+<div style=3D"font-size: 0px;line-height: 0px;height: 0px;">=20
+<a href=3D
+"http://content.indeed.com/NX00DSYW00bA9IJ5Q1s0Q2J"
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/transparentGif.=
+gif" width=3D"1" height=3D"1"></a>=20
+</div>=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"mso-padding-alt: 0px 0px 0px 0px;background-colo=
+r:#ffffff;" bgcolor=3D"#ffffff">=20
+<tbody>
+<tr>=20
+<td>=20
+<!--Container-->=20
+<table role=3D"presentation" id=3D"container" class=3D"mktoContainer" width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-=
+collapse:collapse;">
+<tr class=3D"mktoModule" id=3D"persistentSpacer">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr style=3D"white-space:nowrap; background-color:#ffffff;">=20
+<td height=3D"16" style=3D"white-space:normal;background-color:#ffffff; lin=
+e-height:16px;font-size:16px;">&nbsp; </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"logo">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr style=3D"white-space:nowrap; background-color:#FFFFFF;">=20
+<td class=3D"stack" style=3D"text-align:left; white-space:normal; backgroun=
+d-color:#FFFFFF; padding-top: 10px; padding-right:15px; padding-bottom: 10p=
+x; padding-left:15px;">=20
+<div class=3D"mktoSnippet" id=3D"logo01">
+ <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td><a href=3D
+"http://content.indeed.com/CX900Y0LJbIS01WQ2Y5AJ0s" target=3D"_blank"
+> <img src=3D"https://offers.indeed.com/rs/699-SXJ-715/images/ForEmployers-=
+Logo-PT.png" alt=3D"Indeed -" width=3D"200" constrain=3D"true" imagepreview=
+=3D"false" /></a></td>
+</tr>
+</tbody>
+</table>=20
+</div> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"topLip">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr style=3D"white-space:nowrap; background-color:#FFFFFF;">=20
+<td class=3D"sm-no-mgn" style=3D"padding-top: 0px; padding-right:15px; padd=
+ing-bottom: 0px; padding-left:15px;">=20
+<table width=3D"130" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"border-top:6px solid #FFCA4F;padding:16px 0;font-size:0;line-h=
+eight:0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"twoCol-HeadlineTextButton-Image9baa39ce-786e=
+-4df8-b51d-f6331e0afaec">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"sm-no-btm-mgn" style=3D"white-space:normal;background-color:#F=
+FFFFF; padding-top: 10px; padding-right:15px; padding-bottom: 10px; padding=
+-left:15px;">=20
+<table>=20
+<tbody>=20
+<tr>=20
+<!--Left-->=20
+<th class=3D"cellStack" width=3D"58%" style=3D"vertical-align: top;">=20
+<table class=3D"bottomMargin" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"padding-bottom:15px; color:#2A2226;text-align:left; font-famil=
+y: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, san=
+s-serif; font-size:30px; line-height: 34px; font-weight: bold;">=20
+<div class=3D"mktoText" id=3D"leftHeadlineText069baa39ce-786e-4df8-b51d-f63=
+31e0afaec">=20
+<span style=3D"font-size: 26px; color: #000000; font-weight: normal !import=
+ant;">Webinar Ao Vivo</span>=20
+<br>=20
+<strong>Desmistificando o ROI: Como usar dados para maximizar sua Estrat=C3=
+=A9gia de Atra=C3=A7=C3=A3o de Talentos</strong>=20
+<br>=20
+<br>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"padding-bottom:15px; font-weight: normal; color:#2A2226;text-a=
+lign:left;font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans=
+', Roboto, Noto, sans-serif; font-size:20px; line-height: 26px;">=20
+<div class=3D"mktoText" id=3D"leftText069baa39ce-786e-4df8-b51d-f6331e0afae=
+c">
+ Quinta-feira, 21 de Mar=C3=A7o de 2019 11h - 12h=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"bottomPad" style=3D"text-align:left;">=20
+<!--Button-->=20
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation S=
+ans', Roboto, Noto, sans-serif; font-size:14px; line-height:100%; color:#ff=
+ffff;text-align:center; font-weight: bold; -webkit-text-size-adjust: none;"=
+>=20
+<!--[if mso]>
+<a:roundrect=20
+xmlns:a=3D"urn:schemas-microsoft-com:vml"=20
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"  href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMZicjY5joXR5A9QID8XA5hg=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA"=20
+style=3D"height:40pt;v-text-anchor:middle;width:170pt;"=20
+arcsize=3D"125%" strokecolor=3D"#085FF7" fillcolor=3D"#085FF7"
+>
+<w:anchorlock/>
+<center style=3D"color:#FFFFFF;font-family:sans-serif;font-size:13pt;font-w=
+eight:bold;">Inscreva-se Agora</center>
+</a:roundrect>
+<![endif]-->=20
+<div class=3D"mktoText" id=3D"buttonText069baa39ce-786e-4df8-b51d-f6331e0af=
+aec">=20
+<a href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMZicjY5joXR5A9QID8XA5hg=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA" style=3D"back=
+ground-color: #085ff7; border: 2px solid #085FF7; padding-right: 30px; padd=
+ing-left: 30px; border-radius: 50px; color: #ffffff; display: inline-block;=
+ font-family: sans-serif; font-size: 13px; font-weight: bold; line-height: =
+35px; text-align: center; text-decoration: none; -webkit-text-size-adjust: =
+none; mso-hide: all;" target=3D"_blank"
+>Inscreva-se Agora</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--/Button--> </td>=20
+</tr>=20
+</tbody>=20
+</table> </th>=20
+<!--Right-->=20
+<th class=3D"cellStack mobileTopPad" width=3D"38%" style=3D"vertical-align:=
+ bottom; line-height: 100%;">=20
+<div class=3D"mktoImg" id=3D"rightImage069baa39ce-786e-4df8-b51d-f6331e0afa=
+ec" mktolockimgsize=3D"false">=20
+<a href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJC4stvzQJ1S4eIgE99gmwIu8zG8Ke-ByA71J=
+vBe_Sm8u9wBzURqoZT-hNc_UZ3Tgtg=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA" target=3D"_bl=
+ank"
+><img src=3D"https://offers.indeed.com/rs/699-SXJ-715/images/piggybank.png"=
+ width=3D"195" height=3D"198" alt=3D"Indeed Webinar" style=3D"display:block=
+;margin-right:auto;margin-left:auto; max-width: 195px !important;"></a>=20
+</div> </th>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"fullTexta495906e-c37a-4c19-a1eb-d29e77cb43e3=
+">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"font-weight:normal;color:#2A2226;text-align:le=
+ft;white-space:normal;font-family: 'Helvetica Neue', Helvetica, Arial, 'Lib=
+eration Sans', Roboto, Noto, sans-serif; font-size:16px; line-height: 22px;=
+ padding-top: 10px; padding-right:15px; padding-bottom: 10px; padding-left:=
+15px; background-color:#FFFFFF;">=20
+<div class=3D"mktoText" id=3D"text15a495906e-c37a-4c19-a1eb-d29e77cb43e3">
+ <p>Mesmo entendendo o poder do recrutamento baseado em dados, ainda pode s=
+er dif&iacute;cil coletar m&eacute;tricas relevantes e transform&aacute;-la=
+s em a&ccedil;&otilde;es.<br /></p> <p>Inscreva-se no nosso webinar gratuit=
+o e saiba como aproveitar os dados e tomar decis&otilde;es de recrutamento =
+mais inteligentes. Voc&ecirc; aprender&aacute; &agrave;:</p> <ul> <li>Usar =
+rastreamento automatizado para obter uma fonte precisa de dados de contrata=
+&ccedil;&atilde;o<br /></li> <li>Implementar uma metodologia de pontua&cced=
+il;&atilde;o de origem para rastrear facilmente o desempenho<br /></li> <li=
+>Alcan&ccedil;ar os candidatos certos em um mercado de trabalho competitivo=
+.<br /></li> </ul> <p><br /> Nos vemos l&aacute;!</p>=20
+</div> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"buttonca9905a2-888b-48da-8a60-bcc0d3551ed49f=
+0fc116-4d14-4ca0-b5b5-347b29039438">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"text-align:center; white-space:nowrap; backgro=
+und-color:#FFFFFF; padding-top: 10px; padding-right: 15px; padding-bottom: =
+10px; padding-left: 15px;">=20
+<!--Button-->=20
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">=20
+<tbody>=20
+<tr>=20
+<td style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation S=
+ans', Roboto, Noto, sans-serif; font-size:14px; line-height:100%; color:#ff=
+ffff;text-align:center; font-weight: bold; -webkit-text-size-adjust: none;"=
+>=20
+<!--[if mso]>
+<a:roundrect=20
+xmlns:a=3D"urn:schemas-microsoft-com:vml"=20
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"  href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMBHnPVvZIhcJZmrOb1o8gWg=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA"=20
+style=3D"height:40pt;v-text-anchor:middle;width:150pt;"=20
+arcsize=3D"125%" strokecolor=3D"#085FF7" fillcolor=3D"#085FF7"
+>
+<w:anchorlock/>
+<center style=3D"color:#FFFFFF;font-family:sans-serif;font-size:13pt;font-w=
+eight:bold;">Inscreva-se Agora</center>
+</a:roundrect>
+<![endif]-->=20
+<div class=3D"mktoText" id=3D"buttonText32ca9905a2-888b-48da-8a60-bcc0d3551=
+ed49f0fc116-4d14-4ca0-b5b5-347b29039438">=20
+<a href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMBHnPVvZIhcJZmrOb1o8gWg=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA" style=3D"back=
+ground-color: #085ff7; border: 2px solid #085FF7; padding-right: 30px; padd=
+ing-left: 30px; border-radius: 50px; color: #ffffff; display: inline-block;=
+ font-family: sans-serif; font-size: 13px; font-weight: bold; line-height: =
+35px; text-align: center; text-decoration: none; -webkit-text-size-adjust: =
+none; mso-hide: all;" target=3D"_blank"
+>Inscreva-se Agora</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--/Button--> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"twoCol-Image-Textc66c1b3d-94e0-44da-a3bd-486=
+3f9f1af8a">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"white-space:normal;background-color:#ffffff; p=
+adding-top: 10px; padding-right:15px; padding-bottom: 10px; padding-left:15=
+px;">=20
+<!--Left-->=20
+<table class=3D"tableStack" width=3D"38%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" align=3D"left">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<div class=3D"mktoImg" id=3D"leftImage22c66c1b3d-94e0-44da-a3bd-4863f9f1af8=
+a" mktolockimgsize=3D"false">=20
+<img src=3D"https://offers.indeed.com/rs/699-SXJ-715/images/Tatiana Sayuri.=
+jpg" align=3D"center" width=3D"150" style=3D"display:block;margin-right:aut=
+o;margin-left:auto; max-width: 195px !important;" height=3D"148">=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--/Left-->=20
+<!--Right-->=20
+<table class=3D"tableStack mobileTopPad" width=3D"58%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"right">=20
+<tbody>=20
+<tr>=20
+<td style=3D"color:#2A2226;text-align:left; font-family: 'Helvetica Neue', =
+Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; font-size:14=
+px; line-height: 21px; font-weight: normal;">=20
+<div class=3D"mktoText" id=3D"rightHeadline22c66c1b3d-94e0-44da-a3bd-4863f9=
+f1af8a">=20
+<strong><span style=3D"font-size: 16px;">Apresentado por:</span><br></stron=
+g>=20
+<strong>Tatiana Sayuri</strong>=20
+<br>Recruitment Evangelist=20
+<br>=20
+<br>9 anos de experi=C3=AAncia com foco em solu=C3=A7=C3=B5es corporativas =
+incluindo atua=C3=A7=C3=A3o como evangelista do Google. Atualmente atua com=
+o Recruitment Evangelist do Indeed no Brasil com o objetivo de auxiliar emp=
+resas a desenvolver melhores estrat=C3=A9gias em recrutamento e sele=C3=A7=
+=C3=A3o de talentos.=20
+<br>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--/Right--> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"buttonca9905a2-888b-48da-8a60-bcc0d3551ed4">=
+=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"text-align:center; white-space:nowrap; backgro=
+und-color:#FFFFFF; padding-top: 10px; padding-right: 15px; padding-bottom: =
+10px; padding-left: 15px;">=20
+<!--Button-->=20
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">=20
+<tbody>=20
+<tr>=20
+<td style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation S=
+ans', Roboto, Noto, sans-serif; font-size:14px; line-height:100%; color:#ff=
+ffff;text-align:center; font-weight: bold; -webkit-text-size-adjust: none;"=
+>=20
+<!--[if mso]>
+<a:roundrect=20
+xmlns:a=3D"urn:schemas-microsoft-com:vml"=20
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"  href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMdj0SoiTbRv4PlESqMBuD4w=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA"=20
+style=3D"height:40pt;v-text-anchor:middle;width:150pt;"=20
+arcsize=3D"125%" strokecolor=3D"#085FF7" fillcolor=3D"#085FF7"
+>
+<w:anchorlock/>
+<center style=3D"color:#FFFFFF;font-family:sans-serif;font-size:13pt;font-w=
+eight:bold;">Inscreva-se Agora</center>
+</a:roundrect>
+<![endif]-->=20
+<div class=3D"mktoText" id=3D"buttonText32ca9905a2-888b-48da-8a60-bcc0d3551=
+ed4">=20
+<a href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJNXlzUy0PovmBeqrZFGry2-05efAcUUsZftR=
+wvu4ttTMdj0SoiTbRv4PlESqMBuD4w=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA" style=3D"back=
+ground-color: #085ff7; border: 2px solid #085FF7; padding-right: 30px; padd=
+ing-left: 30px; border-radius: 50px; color: #ffffff; display: inline-block;=
+ font-family: sans-serif; font-size: 13px; font-weight: bold; line-height: =
+35px; text-align: center; text-decoration: none; -webkit-text-size-adjust: =
+none; mso-hide: all;" target=3D"_blank"
+>Inscreva-se Agora</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--/Button--> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"fullTexta2ecaa95-a3a0-42b7-ba98-1f8a4d3bb64c=
+">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTablePad" width=3D"550" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-le=
+ft:auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"font-weight:normal;color:#2A2226;text-align:le=
+ft;white-space:normal;font-family: 'Helvetica Neue', Helvetica, Arial, 'Lib=
+eration Sans', Roboto, Noto, sans-serif; font-size:16px; line-height: 22px;=
+ padding-top: 10px; padding-right:15px; padding-bottom: 10px; padding-left:=
+15px; background-color:#FFFFFF;">=20
+<div class=3D"mktoText" id=3D"text15a2ecaa95-a3a0-42b7-ba98-1f8a4d3bb64c">
+ N=C3=A3o poder=C3=A1 participar na Quinta-feira, 21 de Mar=C3=A7o de 2019?=
+=20
+<a href=3D
+"http://content.indeed.com/dc/C6q3Qs5207UViUdwtpZGV-6HUNt8QQhrxdxv0sc-1dbDK=
+pYrEYBQD9hoTMnLbpRgQXwLOfTZV6GFA53IfU8wJC4stvzQJ1S4eIgE99gmwIszlMC24SZzrdHS=
+B0wcSjmkTb6Ih1JXTJgfdIsLzQSiJQ=3D=3D/Y0WsI5R1900YQ0b2JXS0EJA" target=3D"_bl=
+ank" style=3D"color: #0065f7;"
+>Inscreva-se</a> e enviaremos a grava=C3=A7=C3=A3o ap=C3=B3s o webinar!=20
+<br>=20
+<br>At=C3=A9 l=C3=A1!=20
+<br>Equipe Indeed=20
+<br>=20
+</div> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"social0f03f7be-924b-409e-92b8-de4bdaa5d08d">=
+=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTable" width=3D"550" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-left:=
+auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"font-weight:normal;color:#2A2226;text-align:le=
+ft;white-space:normal;font-family: 'Helvetica Neue', Helvetica, Arial, 'Lib=
+eration Sans', Roboto, Noto, sans-serif; font-size:14px; line-height:21px; =
+padding-top: 24px; padding-right:25px; padding-bottom: 10px; padding-left:2=
+5px; background-color:#F6F5F6;">=20
+<div class=3D"mktoSnippet" id=3D"socialSnippet0f03f7be-924b-409e-92b8-de4bd=
+aa5d08d">
+ <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td>
+<table width=3D"170" style=3D"max-width: 170px !important;" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td width=3D"36" align=3D"left"><a href=3D
+"http://content.indeed.com/b0005WXJJSkbJ9Ay020YQs1" target=3D"_blank"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-facebook.p=
+ng" width=3D"32" alt=3D"" style=3D"max-width: 32px !important;" /> </a></td=
+>
+<td width=3D"36" align=3D"left"><a href=3D
+"http://content.indeed.com/JX2JSY0lAJ01zJQ5W900bs0" target=3D"_blank"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-twitter.pn=
+g" width=3D"32" alt=3D"" style=3D"max-width: 32px !important;" /> </a></td>
+<td width=3D"36" align=3D"left"><a href=3D
+"http://content.indeed.com/I0AbhSQ0Js9v1W2Y0J0XJ05" target=3D"_blank"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-indeed.png=
+" width=3D"32" alt=3D"" style=3D"max-width: 32px !important;" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>=20
+</div> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"footer">=20
+<td>=20
+<!--Body Table-->=20
+<table role=3D"presentation" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" style=3D"margin-left:auto;margin-right:a=
+uto;" bgcolor=3D"#F6F5F6">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<!--inner mod-->=20
+<table role=3D"presentation" class=3D"bodyTable" width=3D"550" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin-left:=
+auto;margin-right:auto;">=20
+<!--[if gte mso 9]>
+<tr>
+<td>
+<table role=3D"presentation" width=3D"550" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"width:550px;">
+<![endif]-->=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack" style=3D"font-weight:normal;color:#2A2226;text-align:le=
+ft;white-space:normal;font-family: 'Helvetica Neue', Helvetica, Arial, 'Lib=
+eration Sans', Roboto, Noto, sans-serif; font-size:14px; line-height:21px; =
+padding-top: 10px; padding-right:25px; padding-bottom: 10px; padding-left:2=
+5px; background-color:#F6F5F6;">=20
+<div class=3D"mktoSnippet" id=3D"footerSnippet">
+=20
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-weight: normal; color: #6f6f6f; text-align: left; white-s=
+pace: normal; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation =
+Sans', Roboto, Noto, sans-serif; font-size: 11px; line-height: 15px;">&copy=
+; 2019 <a href=3D
+"http://content.indeed.com/ZX1s90AmW050bY0Q720JJSK" style=3D"color: #085ff7=
+; text-decoration: none;" target=3D"_blank"
+>Indeed</a><br />Rua Fid&ecirc;ncio Ramos 302 - Torre B - 12&ordm;=20
+Andar | Vila Olimpia, S&atilde;o Paulo/SP | CEP 04551-010 | Brasil<br /><br=
+ /> <a href=3D
+"http://content.indeed.com/a025bJ0AYS0Q00nJ8X1Ks9W" style=3D"text-decoratio=
+n: none; color: #085ff7;"
+>Pol&iacute;tica de Privacidade</a> | <a href=3D
+"http://content.indeed.com/tWJ92YbKSQ0Jo051Xs000A9" style=3D"text-decoratio=
+n: none; color: #085ff7;"
+>Termos</a> | <a href=3D
+"http://content.indeed.com/wXQJ1sWSJ00509Apb0Y2a0K" style=3D"text-decoratio=
+n:=20
+none; color: #085ff7;" target=3D"_blank"
+>Ajuda</a> | <a href=3D
+"http://content.indeed.com/DSbs50q0JXQ00KbAJ1290WY" style=3D"text-decoratio=
+n: none; color: #085ff7;" target=3D"_blank"
+>Cancelar recebimento</a></td>
+</tr>
+</tbody>
+</table>
+=20
+</div> </td>=20
+</tr>=20
+<!--[if gte mso 9]>
+</table>
+</td>
+</tr>
+<![endif]-->=20
+</tbody>=20
+</table>=20
+<!--END inner mod--> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--END Body Table--> </td>=20
+</tr>
+</table>=20
+<!--END Container--> </td>=20
+</tr>=20
+<!--Full Width Image for Gmail to render desktop version on mobile-->=20
+<tr>=20
+<td>=20
+<table role=3D"presentation" class=3D"hide" id=3D"gmailModule" width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"min-width:100%=
+;">=20
+<tbody>
+<tr style=3D"white-space:nowrap; background-color:#ffffff">=20
+<td height=3D"1" class=3D"hide" style=3D"min-width:600px;opacity:0; font-si=
+ze:0px;line-height:0px;"> <img height=3D"1" src=3D"#" style=3D"min-width: 6=
+00px;max-height:0px; text-decoration: none; border: none; -ms-interpolation=
+-mode: bicubic;"> </td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+<!--END Full Width Image for Gmail to render desktop version on mobile-->=
+=20
+</tbody>
+</table> =20
+<a href=3D
+"http://content.indeed.com/x0S0050I2FAbJ1X0SWs9QJY"
+></a>
+<img src=3D"http://content.indeed.com/trk?t=3D1&mid=3DNjk5LVNYSi03MTU6MTA3M=
+jMzOjI4NDUzOjExNjg2MTowOjc4MjQ2Ojk6MTkwODgzOjE2OTQ0Njc1My01Mjpjb25zdHJ1bGlz=
+dGFAY29uc3RydWxpc3RhLmNvbS5icg%3D%3D" width=3D"1" height=3D"1" style=3D"dis=
+play:none !important;" alt=3D"" />
+
+<!-- Unsubscribe Blank Comment -->
+</body>
+</html>
+------=_Part_-1933503606_113655376.1552044526081--

@@ -1,0 +1,1135 @@
+Return-Path: <msprvs1=17962SygiX_FB=bounces-218171@bounce.asana.com>
+X-Original-To: construlista@construlista.com.br
+Delivered-To: construlista@construlista.com.br
+Received: from mta175d.sparkpostmail.com (mta175d.sparkpostmail.com [54.245.133.15])
+	by usve264997.serverprofi24.com (Postfix) with ESMTPS id A1BED7E
+	for <construlista@construlista.com.br>; Thu, 28 Feb 2019 19:29:17 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email1.asana.com;
+	s=scph0518; t=1551382156; i=@email1.asana.com;
+	bh=6CIdfvVCTpVaXIZ7eVm63oCZdXcyO8IGEYdDjcWB5bg=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=p3TNbiWNgyDnqpCuHbSWH859JJMalquHYLhh1/Gi4qwPysuRbW4gDNxWBbIGjucd3
+	 pDrZ/yaFfj3cNNMbcxfo2Owb1w7zniSZ8CxxGHJ4KURLksl3TdrLyPO5VZUNUZ4j1X
+	 5/cWGrz2F46VCIUeeasSlxVz6MjDp+wuGl/lotaY=
+X-MSFBL: Hvn/R3we4lbj8YnJS1X+E0GTjVMOvsCuzTqi0jUyK6s=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJzdWJhY2NvdW50X2lkIjoiMCIsIm1lc3NhZ2VfaWQiOiIwMDIwOGMzNjc
+	4NWNjNzhjOTlmZCIsImN1c3RvbWVyX2lkIjoiMjE4MTcxIiwiciI6ImNvbnN0cnV
+	saXN0YUBjb25zdHJ1bGlzdGEuY29tLmJyIn0=
+To: construlista@construlista.com.br
+Message-ID: <99.DF.36039.C86387C5@af.mta1vrest.cc.prd.sparkpost>
+Date: Thu, 28 Feb 2019 19:29:16 +0000
+Content-Type: multipart/alternative; boundary="_----fTki/6mwdeOPutFQbzG3mA===_48/DF-36039-C86387C5"
+MIME-Version: 1.0
+Reply-To: news@asana.com
+Subject: =?utf-8?B?SW50cm9kdXppbmRvIG5vdmFzIGZlcnJhbWVudGFzIHBhcmEgYXMg?=
+	=?utf-8?B?ZXF1aXBlcyBkZSBtYXJrZXRpbmcgZSBkZSBjcmlhw6fDo28=?=
+X-Campaign-ID: 549819
+From: "Asana" <news@email1.asana.com>
+X-Message-ID: b101009aff654bf5b04604267b1d4178
+X-Feedback-ID: 776994:549819:12212:iterable
+Feedback-ID: 776994:549819:12212:iterable
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:ECeIGGGNcEyiplRixIvQkkxTkZMcC0VnPedXW3RMJzI~|eyAicmNwdF90byI6ICJjb25zdHJ1bGlzdGFAY29uc3RydWxpc3RhLmNvbS5iciIsICJ0ZW5hbnRfaWQiOiAic3BjIiwgImN1c3RvbWVyX2lkIjogIjIxODE3MSIsICJtZXNzYWdlX2lkIjogIjAwMjA4YzM2Nzg1Y2M3OGM5OWZkIiwgInN1YmFjY291bnRfaWQiOiAiMCIgfQ~~>
+List-Id: <spc-218171-0>
+
+--_----fTki/6mwdeOPutFQbzG3mA===_48/DF-36039-C86387C5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+O seu segredo para um marketing de destaque=0ARealize todos os processos de=
+ marketing e de cria=C3=A7=C3=A3o numa =C3=BAnica plataforma.=0A =0ADo pont=
+ap=C3=A9 inicial =C3=A0 aprova=C3=A7=C3=A3o, voc=C3=AA pode agora gerenciar=
+ todo o marketing na Asana para entregar melhores campanhas, conte=C3=BAdos=
+, lan=C3=A7amentos e outros em menos tempo.=0A=0AVeja como > https://asana.=
+com/pt/teams/marketing=0A=09=0AAgilizar e economizar tempo:=0A=0AD=C3=AA in=
+=C3=ADcio aos projetos mais rapidamente=0ACrie formul=C3=A1rios de f=C3=A1c=
+il preenchimento na Asana para assegurar-se de que sua equipe recebe tudo o=
+ que precisa para come=C3=A7ar com o p=C3=A9 direito.=0A=0A=0AD=C3=AA feedb=
+ack interativo=0AFa=C3=A7a anota=C3=A7=C3=B5es nas imagens sem sair da Asan=
+a para converter automaticamente seus coment=C3=A1rios em novas tarefas. =
+=0A=0A=0ACrie em contexto=0AOs designers encontram os detalhes das tarefas =
+ao seu alcance com a integra=C3=A7=C3=A3o com a Adobe Creative Cloud.=0A=0A=
+=0ARevis=C3=A3o e aprova=C3=A7=C3=A3o=0ARemova os gargalos e certifique-se =
+de que todos est=C3=A3o a par do andamento do trabalho com as notifica=C3=
+=A7=C3=B5es de campos personalizados.=0A=0A=0ACrie e-mails melhores=0AColab=
+ore no processo de produ=C3=A7=C3=A3o de e-mails e realize campanhas mais r=
+apidamente com a integra=C3=A7=C3=A3o com Litmus.=0A=0AExperimente o Busine=
+ss gratuitamente > https://asana.com/pt/business=0A=0A=0A1550 Bryant Street=
+, San Francisco, CA 94103=0A=0ACancelar inscri=C3=A7=C3=A3o: https://connec=
+t.asana.com/e/encryptedConfirmUnsubscribe=3F_r=3D8cb45ebcfb7c4c8189af4a5ff6=
+ca1a98&amp;_s=3Db101009aff654bf5b04604267b1d4178&amp;_t=3D_aOmS2VKPO2WkrLXt=
+PE0WsR9HOsGggomVWnaFYvqrtQrZjMhGRgCS-LWVtjx11Xdj1WWnPMbyxyE5QvIf8owwu5EizUU=
+5jhTAKPxn1zDtha1SNDe8wz2Lckg2gxIsNfnn_K4bvWeonkaOSW964lhoc_n4PGxyn-R3_At6x1=
+sc_x3C2YlzkZ7rLRP_B1zcnyNNOIRZ7P-PBS2v8rI_G7rzXfW4T0jsWGSQ8nA5CpLGGvTeLtQAm=
+JJ0VDjhJFp2DHs
+--_----fTki/6mwdeOPutFQbzG3mA===_48/DF-36039-C86387C5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html lang=3D"en" style=3D"m=
+in-height: 100%; font-family: Helvetica, Arial, sans-serif !important; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; position: relative;=
+ box-sizing: border-box; font-size: 12px; width: 100%; background: #fff; ma=
+rgin: 0;"> <head><meta http-equiv=3D"Content-Type" content=3D"text/html; ch=
+arset=3Dutf-8"><meta charset=3D"utf-8"><meta http-equiv=3D"X-UA-Compatible"=
+ content=3D"IE=3Dedge"><meta name=3D"viewport" content=3D"width=3Ddevice-wi=
+dth, initial-scale=3D1"><meta name=3D"description"><meta name=3D"author"> <=
+title>Asana</title> </head> <body bgcolor=3D"#fff !important" style=3D"widt=
+h: 100% !important; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-te=
+xt-size-adjust: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: bord=
+er-box; box-sizing: border-box; color: #0a0a0a; font-family: Helvetica, Ari=
+al, sans-serif !important; font-weight: normal; text-align: left; line-heig=
+ht: 130%; font-size: 16px; position: relative; background-color: #fff !impo=
+rtant; margin: 0; padding: 0;" class=3D"w-grey"><span style=3D"color:transp=
+arent;visibility:hidden;display:none;opacity:0;height:0;width:0;font-size:0=
+;">Importantes atualiza=C3=A7=C3=B5es do produto =C3=A0 frente</span><img s=
+rc=3D"https://connect.asana.com/e/eo=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a9=
+8&amp;_m=3Db101009aff654bf5b04604267b1d4178&amp;_e=3D_aOmS2VKPO2WkrLXtPE0Ws=
+R9HOsGggomVWnaFYvqrtQrZjMhGRgCS-LWVtjx11XdDQQslzlyZssjpkCjA0TR2DCcEqzWBjxcX=
+QiTBi9RB889VSAjmLsktsb_jDoXHSXglfiVvztay2eZ-GhgJg7cJt0kd7MRhGZIBY5hGHu23ItN=
+Me4yR6c4S3EIBrWPL6rg" style=3D"border:0;width:1px;height:1px;border-width:0=
+px!important;display:none!important;line-height:0!important;" width=3D"1" h=
+eight=3D"1"/><style type=3D"text/css">@media only screen and (max-width:716=
+px){.small-float-center{margin:0 auto!important;float:none!important;text-a=
+lign:center!important}.padding-fix-logo{padding-left:10px!important;padding=
+-right:10px!important}.small-text-center{text-align:center!important}.small=
+-text-left{text-align:left!important}.small-text-right{text-align:right!imp=
+ortant}.hide-for-large{display:block!important;width:auto!important;overflo=
+w:visible!important;max-height:none!important;font-size:inherit!important;l=
+ine-height:inherit!important}table.body table.container .hide-for-large{dis=
+play:table!important;width:100%!important}table.body table.container .row.h=
+ide-for-large{display:table!important;width:100%!important}table.body table=
+.container .callout-inner.hide-for-large{display:table-cell!important;widt=
+h:100%!important}table.body table.container .show-for-large{display:none!im=
+portant;width:0;mso-hide:all;overflow:hidden}.menu.small-vertical .menu-ite=
+m{padding-left:0!important;padding-right:0!important}table.body img{width:a=
+uto;height:auto}table.body center{min-width:0!important}table.body .contain=
+er{width:95%!important}table.body .columns{height:auto!important;-moz-box-s=
+izing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;paddin=
+g-left:16px!important;padding-right:16px!important}table.body .column{heigh=
+t:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;b=
+ox-sizing:border-box;padding-left:16px!important;padding-right:16px!importa=
+nt}table.body .columns .column{padding-left:0!important;padding-right:0!imp=
+ortant}table.body .columns .columns{padding-left:0!important;padding-right:=
+0!important}table.body .column .column{padding-left:0!important;padding-rig=
+ht:0!important}table.body .column .columns{padding-left:0!important;padding=
+-right:0!important}table.body .collapse .columns{padding-left:0!important;p=
+adding-right:0!important}table.body .collapse .column{padding-left:0!import=
+ant;padding-right:0!important}td.small-1{display:inline-block!important;wid=
+th:8.33333%!important}th.small-1{display:inline-block!important;width:8.333=
+33%!important}td.small-2{display:inline-block!important;width:16.66667%!imp=
+ortant}th.small-2{display:inline-block!important;width:16.66667%!important}=
+td.small-3{display:inline-block!important;width:25%!important}th.small-3{di=
+splay:inline-block!important;width:25%!important}td.small-4{display:inline-=
+block!important;width:33.33333%!important}th.small-4{display:inline-block!i=
+mportant;width:33.33333%!important}td.small-5{display:inline-block!importan=
+t;width:41.66667%!important}th.small-5{display:inline-block!important;width=
+:41.66667%!important}td.small-6{display:inline-block!important;width:50%!im=
+portant}th.small-6{display:inline-block!important;width:50%!important}td.sm=
+all-7{display:inline-block!important;width:58.33333%!important}th.small-7{d=
+isplay:inline-block!important;width:58.33333%!important}td.small-8{display:=
+inline-block!important;width:66.66667%!important}th.small-8{display:inline-=
+block!important;width:66.66667%!important}td.small-9{display:inline-block!i=
+mportant;width:75%!important}th.small-9{display:inline-block!important;widt=
+h:75%!important}td.small-10{display:inline-block!important;width:83.33333%!=
+important}th.small-10{display:inline-block!important;width:83.33333%!import=
+ant}td.small-11{display:inline-block!important;width:91.66667%!important}th=
+.small-11{display:inline-block!important;width:91.66667%!important}td.smal=
+l-12{display:inline-block!important;width:100%!important}th.small-12{displa=
+y:inline-block!important;width:100%!important}.columns td.small-12{display:=
+block!important;width:100%!important}.column td.small-12{display:block!impo=
+rtant;width:100%!important}.columns th.small-12{display:block!important;wid=
+th:100%!important}.column th.small-12{display:block!important;width:100%!im=
+portant}table.body td.small-offset-1{margin-left:8.33333%!important}table.b=
+ody th.small-offset-1{margin-left:8.33333%!important}table.body td.small-of=
+fset-2{margin-left:16.66667%!important}table.body th.small-offset-2{margin-=
+left:16.66667%!important}table.body td.small-offset-3{margin-left:25%!impor=
+tant}table.body th.small-offset-3{margin-left:25%!important}table.body td.s=
+mall-offset-4{margin-left:33.33333%!important}table.body th.small-offset-4{=
+margin-left:33.33333%!important}table.body td.small-offset-5{margin-left:41=
+.66667%!important}table.body th.small-offset-5{margin-left:41.66667%!impor=
+tant}table.body td.small-offset-6{margin-left:50%!important}table.body th.s=
+mall-offset-6{margin-left:50%!important}table.body td.small-offset-7{margin=
+-left:58.33333%!important}table.body th.small-offset-7{margin-left:58.33333=
+%!important}table.body td.small-offset-8{margin-left:66.66667%!important}ta=
+ble.body th.small-offset-8{margin-left:66.66667%!important}table.body td.sm=
+all-offset-9{margin-left:75%!important}table.body th.small-offset-9{margin-=
+left:75%!important}table.body td.small-offset-10{margin-left:83.33333%!impo=
+rtant}table.body th.small-offset-10{margin-left:83.33333%!important}table.b=
+ody td.small-offset-11{margin-left:91.66667%!important}table.body th.small-=
+offset-11{margin-left:91.66667%!important}table.body table.columns td.expan=
+der{display:none!important}table.body table.columns th.expander{display:non=
+e!important}table.body .right-text-pad{padding-left:10px!important}table.bo=
+dy .text-pad-right{padding-left:10px!important}table.body .left-text-pad{pa=
+dding-right:10px!important}table.body .text-pad-left{padding-right:10px!imp=
+ortant}table.menu{width:100%!important}table.menu td{width:auto!important;d=
+isplay:inline-block!important}table.menu th{width:auto!important;display:in=
+line-block!important}table.menu.vertical td{display:block!important}table.m=
+enu.vertical th{display:block!important}table.menu.small-vertical td{displa=
+y:block!important}table.menu.small-vertical th{display:block!important}tabl=
+e.menu[align=3D"center"]{width:auto!important}table.button.small-expand{wid=
+th:100%!important}table.button.small-expanded{width:100%!important}table.bu=
+tton.small-expand table{width:100%}table.button.small-expanded table{width:=
+100%}table.button.small-expand table a{text-align:center!important;width:10=
+0%!important;padding-left:0!important;padding-right:0!important}table.butto=
+n.small-expanded table a{text-align:center!important;width:100%!important;p=
+adding-left:0!important;padding-right:0!important}table.button.small-expand=
+ center{min-width:0}table.button.small-expanded center{min-width:0}.show-fo=
+r-large{display:none!important;width:0;mso-hide:all;overflow:hidden}.hide-f=
+or-large{display:block!important;width:auto!important;overflow:visible!impo=
+rtant;max-height:none!important;font-size:inherit!important;line-height:inh=
+erit!important}.margin-auto-small{margin:0 auto}.padding-mobile-adjust{padd=
+ing:30px 0 36px 0!important}.padding-mobile-adjust-image-block{padding:0 0 =
+30px 0!important}.mw50{max-width:49%!important}.padding-template-mobile{pad=
+ding:0 15px!important}.txtcntr{text-align:center!important}}@media(min-widt=
+h:600px){html{font-size:13px}}@media(min-width:800px){html{font-size:14px}}=
+@media(min-width:716px){.w-card-block-text-2{padding:25px 30px 0}.w-card:fi=
+rst-of-type{padding-right:30px!important}.w-card:nth-of-type(2){padding-lef=
+t:30px!important}}@media only screen and (min-width:716px){.w-purple .wrapp=
+er-inner{padding-left:30px!important;padding-right:30px!important}}@media o=
+nly screen and (max-width:480px){.imglink{max-width:100%!important;width:10=
+0%!important}}@font-face{font-family:'Gordita';src:url('https://fonts.luna1=
+.co/gordita/hinted/hinted-Gordita-Regular.eot');src:url('https://fonts.lun=
+a1.co/gordita/hinted/hinted-Gordita-Regular.eot=3F#iefix') format('embedded=
+-opentype'),url('https://fonts.luna1.co/gordita/hinted/hinted-Gordita-Regul=
+ar.woff2') format('woff2'),url('https://fonts.luna1.co/gordita/hinted/hinte=
+d-Gordita-Regular.woff') format('woff'),url('https://fonts.luna1.co/gordita=
+/hinted/hinted-Gordita-Regular.ttf') format('truetype'),url('https://fonts.=
+luna1.co/gordita/hinted/hinted-Gordita-Regular.svg#Gordita-Regular') format=
+('svg');font-weight:normal;font-style:normal}@font-face{font-family:'Gordit=
+a';src:url('https://fonts.luna1.co/gordita/hinted/hinted-Gordita-Light.eot'=
+);src:url('https://fonts.luna1.co/gordita/hinted/hinted-Gordita-Light.eot=
+=3F#iefix') format('embedded-opentype'),url('https://fonts.luna1.co/gordita=
+/hinted/hinted-Gordita-Light.woff2') format('woff2'),url('https://fonts.lun=
+a1.co/gordita/hinted/hinted-Gordita-Light.woff') format('woff'),url('https:=
+//fonts.luna1.co/gordita/hinted/hinted-Gordita-Light.ttf') format('truetype=
+'),url('https://fonts.luna1.co/gordita/hinted/hinted-Gordita-Light.svg#Gord=
+ita-Light') format('svg');font-weight:300;font-style:normal}@font-face{font=
+-family:'Gordita';src:url('https://fonts.luna1.co/gordita/hinted/hinted-Gor=
+dita-Medium.eot');src:url('https://fonts.luna1.co/gordita/hinted/hinted-Gor=
+dita-Medium.eot=3F#iefix') format('embedded-opentype'),url('https://fonts.l=
+una1.co/gordita/hinted/hinted-Gordita-Medium.woff2') format('woff2'),url('h=
+ttps://fonts.luna1.co/gordita/hinted/hinted-Gordita-Medium.woff') format('w=
+off'),url('https://fonts.luna1.co/gordita/hinted/hinted-Gordita-Medium.ttf'=
+) format('truetype'),url('https://fonts.luna1.co/gordita/hinted/hinted-Gord=
+ita-Medium.svg#Gordita-Medium') format('svg');font-weight:500;font-style:no=
+rmal}</style> <!--[if mso]><style type=3D"text/css">body,table,td{font-fami=
+ly:Arial,Helvetica,sans-serif!important}</style><![endif]--> <table align=
+=3D"center" cellspacing=3D"0" style=3D"border-collapse:collapse; border-spa=
+cing:0; box-sizing:border-box; font-family:helvetica,arial,sans-serif !impo=
+rtant; margin:0 auto; max-width:600px; padding:0; position:relative; text-a=
+lign:inherit; vertical-align:top" class=3D"container"> <tbody style=3D"posi=
+tion: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans=
+-serif !important;"> <tr align=3D"left" style=3D"box-sizing:border-box; fon=
+t-family:Helvetica,Arial,sans-serif !important; padding:0; position:relativ=
+e; text-align:left; vertical-align:top"> <td align=3D"left" style=3D"-moz-h=
+yphens:none; -webkit-hyphens:none; border-collapse:collapse !important; box=
+-sizing:border-box; color:#0a0a0a; font-family:Helvetica,Arial,sans-serif !=
+important; font-size:16px; font-weight:normal; hyphens:none; line-height:13=
+0%; margin:0; padding:0; position:relative; text-align:left; vertical-align=
+:top; word-wrap:break-word"><table align=3D"center" cellspacing=3D"0" style=
+=3D"border-collapse:collapse; border-spacing:0; box-sizing:border-box; font=
+-family:helvetica,arial,sans-serif !important; padding:0; position:relative=
+; text-align:left; vertical-align:top; width:100%" class=3D"header w-outer =
+wrapper"> <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font-f=
+amily:Helvetica,Arial,sans-serif !important; padding:0; position:relative; =
+text-align:left; vertical-align:top"> <td align=3D"left" style=3D"-moz-hyph=
+ens:none; -webkit-hyphens:none; border-collapse:collapse !important; box-si=
+zing:border-box; color:#0a0a0a; font-family:Helvetica,Arial,sans-serif !imp=
+ortant; font-size:16px; font-weight:normal; hyphens:none; line-height:130%;=
+ margin:0; padding:0; position:relative; text-align:left; vertical-align:to=
+p; word-wrap:break-word" class=3D"wrapper-inner"> <table align=3D"center" b=
+gcolor=3D"#fff" cellspacing=3D"0" style=3D"background:#ffffff; border-colla=
+pse:collapse; border-spacing:0; box-sizing:border-box; font-family:helvetic=
+a,arial,sans-serif !important; margin:0; padding:35px 0 0; position:relativ=
+e; text-align:left; vertical-align:top; width:100%" class=3D"header w-grey =
+w-inner w-mine w-no-margin w-no-padding wrapper"> <tbody> <tr align=3D"left=
+" style=3D"box-sizing:border-box; font-family:Helvetica,Arial,sans-serif !i=
+mportant; padding:0; position:relative; text-align:left; vertical-align:top=
+"> <td align=3D"right" style=3D"-moz-hyphens:none; -webkit-hyphens:none; bo=
+rder-collapse:collapse !important; box-sizing:border-box; color:#0a0a0a; fo=
+nt-family:Helvetica,Arial,sans-serif !important; font-size:16px; font-weigh=
+t:normal; hyphens:none; line-height:130%; margin:0; padding:20px 0 0; posit=
+ion:relative; text-align:right; vertical-align:top; word-wrap:break-word" c=
+lass=3D"wrapper-inner"><a style=3D"color: #aaa; text-decoration: underline;=
+ font-family: Helvetica, Arial, sans-serif !important; font-weight: normal;=
+ text-align: right; line-height: 2; position: relative; box-sizing: border-=
+box; font-size: 11px; padding: 0;" class=3D"text-viewinbrowser" href=3D"htt=
+ps://connect.asana.com/e/evib=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3D=
+b101009aff654bf5b04604267b1d4178&_e=3D_aOmS2VKPO2WkrLXtPE0WsR9HOsGggomVWnaF=
+YvqrtQrZjMhGRgCS-LWVtjx11Xd4XpagBI11BWFLfKSA1yZE-gLImHi5KC_tlW1U-TIC8pqR3qD=
+gsqjvVHYr9wLD2NL">Ver no navegador</a> <table cellspacing=3D"0" style=3D"al=
+ign-items:center; border-collapse:collapse; border-spacing:0; box-sizing:bo=
+rder-box; display:table; font-family:helvetica,arial,sans-serif !important;=
+ padding:0; position:relative; text-align:left; vertical-align:top; width:1=
+00%" class=3D"row"> <tbody style=3D"position: relative; box-sizing: border-=
+box; font-family: Helvetica, Arial, sans-serif !important;"> <tr align=3D"l=
+eft" style=3D"box-sizing:border-box; font-family:Helvetica,Arial,sans-serif=
+ !important; padding:0; position:relative; text-align:left; vertical-align:=
+top"> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </t=
+body> </table> <table align=3D"center" cellspacing=3D"0" style=3D"border-co=
+llapse:collapse; border-spacing:0; box-sizing:border-box; font-family:helve=
+tica,arial,sans-serif !important; padding:0; position:relative; text-align:=
+left; vertical-align:top; width:100%" class=3D"header w-outer wrapper"> <tb=
+ody> <tr align=3D"left" style=3D"box-sizing:border-box; font-family:Helveti=
+ca,Arial,sans-serif !important; padding:0; position:relative; text-align:le=
+ft; vertical-align:top"> <td align=3D"left" style=3D"-moz-hyphens:none; -we=
+bkit-hyphens:none; border-collapse:collapse !important; box-sizing:border-b=
+ox; color:#0a0a0a; font-family:Helvetica,Arial,sans-serif !important; font-=
+size:16px; font-weight:normal; hyphens:none; line-height:130%; margin:0; pa=
+dding:0; position:relative; text-align:left; vertical-align:top; word-wrap:=
+break-word" class=3D"wrapper-inner"> <table align=3D"center" bgcolor=3D"#ff=
+f" cellspacing=3D"0" style=3D"background:#ffffff; border-collapse:collapse;=
+ border-spacing:0; box-sizing:border-box; font-family:helvetica,arial,sans-=
+serif !important; margin:0; padding:35px 0 0; position:relative; text-align=
+:left; vertical-align:top; width:100%" class=3D"header w-grey w-inner w-no-=
+margin w-no-padding wrapper"> <tbody> <tr align=3D"left" style=3D"box-sizin=
+g:border-box; font-family:Helvetica,Arial,sans-serif !important; padding:0;=
+ position:relative; text-align:left; vertical-align:top"> <td align=3D"left=
+" style=3D"-moz-hyphens:none; -webkit-hyphens:none; border-collapse:collaps=
+e !important; box-sizing:border-box; color:#0a0a0a; font-family:Helvetica,A=
+rial,sans-serif !important; font-size:16px; font-weight:normal; hyphens:non=
+e; line-height:130%; margin:0; padding:0; position:relative; text-align:lef=
+t; vertical-align:top; word-wrap:break-word" class=3D"wrapper-inner"> <tabl=
+e cellspacing=3D"0" style=3D"align-items:center; border-collapse:collapse; =
+border-spacing:0; box-sizing:border-box; display:table; font-family:helveti=
+ca,arial,sans-serif !important; padding:0; position:relative; text-align:le=
+ft; vertical-align:top; width:100%" class=3D"row"> <tbody style=3D"position=
+: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-ser=
+if !important;"> <tr align=3D"left" style=3D"box-sizing:border-box; font-fa=
+mily:Helvetica,Arial,sans-serif !important; padding:0; position:relative; t=
+ext-align:left; vertical-align:top"> <th align=3D"center" style=3D"width: 6=
+84px; text-align: center; color: #0a0a0a; font-family: Helvetica, Arial, sa=
+ns-serif !important; font-weight: normal; line-height: 130%; font-size: 16p=
+x; position: relative; box-sizing: border-box; margin: 0 auto; padding: 40p=
+x;" class=3D"w-logo text-center small-12 large-12 columns first last"> <tab=
+le cellspacing=3D"0" style=3D"border-collapse:collapse; border-spacing:0; b=
+ox-sizing:border-box; font-family:helvetica,arial,sans-serif !important; pa=
+dding:0; position:relative; text-align:left; vertical-align:top; width:100%=
+"> <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font-family:H=
+elvetica,Arial,sans-serif !important; padding:0; position:relative; text-al=
+ign:left; vertical-align:top"> <th align=3D"center" style=3D"color: #0a0a0a=
+; font-family: Helvetica, Arial, sans-serif !important; font-weight: normal=
+; text-align: center; line-height: 130%; font-size: 16px; position: relativ=
+e; box-sizing: border-box; margin: 0; padding: 0;"><a href=3D"https://conne=
+ct.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009af=
+f654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphbw_X23iMOAVa6hQgJF_EjE4Gka=
+znWADWfhHuaCVBAn9DpAAt7Okrgykf5SlCfhk9rhCLXQsRbpTlK48wnEeAPQREUvnNIJ9UJipxa=
+ZIV6DYhGH3fshD9bOBNFsmBWjqO9FpqMpnztWGEnIQj2n8-0fyueUwCzycsI1RTiXsdN9bXzSUE=
+eUoBz3V6tIcwYFE1_GDu6HT1fSQljdGopsPPYdkQlAjLmCo9BTyCvmudETewJuk0k_Mrvb6GYUy=
+HKbjKuDd7RSof1uXjYwcuCCW_IrmVRme6fvPe6KoOetdvuwty"><span style=3D"display:i=
+nline-block"><img alt=3D"" border=3D"0" width=3D"160" style=3D"box-sizing: =
+border-box; clear: both; display: inline-block; max-width: 100%; outline: n=
+one; position: relative; text-decoration: none; font-family: helvetica, ari=
+al, sans-serif !important; width: 160px; border-width: 0px; border-style: s=
+olid;" class=3D"img-logo" src=3D"https://d15k2d11r6t6rl.cloudfront.net/publ=
+ic/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/0787efa0fd7c4f659=
+2eaa6bd406f389d/2eddb8.png"/></span></a></th> <th align=3D"center" style=3D=
+"visibility: hidden; width: 0; color: #0a0a0a; font-family: Helvetica, Aria=
+l, sans-serif !important; font-weight: normal; text-align: center; line-hei=
+ght: 130%; font-size: 16px; position: relative; box-sizing: border-box; mar=
+gin: 0; padding: 0;" class=3D"expander"></th> </tr> </tbody> </table> </th>=
+ </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody>=
+ </table> <!-- ################################################### HERO BLO=
+CK 01 ################################################# --> <table align=3D=
+"center" class=3D"hero-block-1 w-outer wrapper" style=3D"border-collapse:co=
+llapse; border-spacing:0; box-sizing:border-box; font-family:helvetica,aria=
+l,sans-serif !important; padding:0; position:relative; text-align:left; ver=
+tical-align:top; width:100%"> <tbody> <tr align=3D"left" style=3D"vertical-=
+align: top; text-align: left; position: relative; box-sizing: border-box; f=
+ont-family: Helvetica, Arial, sans-serif !important; padding: 0;"> <td alig=
+n=3D"left" class=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-=
+hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse=
+ !important; vertical-align: top; text-align: left; color: #0a0a0a; font-fa=
+mily: Helvetica, Arial, sans-serif !important; font-weight: normal; line-he=
+ight: 130%; font-size: 16px; position: relative; box-sizing: border-box; ma=
+rgin: 0; padding: 0;" valign=3D"top"> <table align=3D"center" bgcolor=3D"#f=
+ff" class=3D"hero-block-1 text-center w-inner wrapper" style=3D"background:=
+#fff; border-collapse:collapse; border-spacing:0; border:1px solid #eff0f1;=
+ box-sizing:border-box; font-family:helvetica,arial,sans-serif !important; =
+padding:35px 0 0; position:relative; text-align:center; vertical-align:top;=
+ width:100%"> <tbody> <tr align=3D"left" style=3D"vertical-align: top; text=
+-align: left; position: relative; box-sizing: border-box; font-family: Helv=
+etica, Arial, sans-serif !important; padding: 0;"> <td align=3D"left" class=
+=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-hyphens: none; -=
+moz-hyphens: none; hyphens: none; border-collapse: collapse !important; ver=
+tical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica,=
+ Arial, sans-serif !important; font-weight: normal; line-height: 130%; font=
+-size: 16px; position: relative; box-sizing: border-box; margin: 0; padding=
+: 35px 0 36px;" valign=3D"top"> <table class=3D"row" style=3D"align-items:c=
+enter; border-collapse:collapse; border-spacing:0; box-sizing:border-box; d=
+isplay:table; font-family:helvetica,arial,sans-serif !important; padding:0;=
+ position:relative; text-align:left; vertical-align:top; width:100%"> <tbod=
+y style=3D"position: relative; box-sizing: border-box; font-family: Helveti=
+ca, Arial, sans-serif !important;"> <tr align=3D"left" style=3D"vertical-al=
+ign: top; text-align: left; position: relative; box-sizing: border-box; fon=
+t-family: Helvetica, Arial, sans-serif !important; padding: 0;"> <th align=
+=3D"left" class=3D"w-text-spacing small-12 large-12 columns first last" sty=
+le=3D"width: 684px; color: #0a0a0a; font-family: Helvetica, Arial, sans-ser=
+if !important; font-weight: normal; text-align: left; line-height: 130%; fo=
+nt-size: 16px; position: relative; box-sizing: border-box; margin: 0 auto; =
+padding: 0 33px;" text-center=3D""> <table style=3D"border-collapse:collaps=
+e; border-spacing:0; box-sizing:border-box; font-family:helvetica,arial,san=
+s-serif !important; padding:0; position:relative; text-align:left; vertical=
+-align:top; width:100%"> <tbody> <tr align=3D"left" style=3D"vertical-align=
+: top; text-align: left; position: relative; box-sizing: border-box; font-f=
+amily: Helvetica, Arial, sans-serif !important; padding: 0;"> <th align=3D"=
+left" style=3D"color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !i=
+mportant; font-weight: normal; text-align: left; line-height: 130%; font-si=
+ze: 16px; position: relative; box-sizing: border-box; margin: 0; padding: 0=
+;"> <h1 align=3D"center" class=3D"hl" style=3D"color: inherit; font-family:=
+ Helvetica, Arial, sans-serif !important; font-weight: normal; text-align: =
+center; line-height: 130%; word-wrap: normal; font-size: 30px; position: re=
+lative; box-sizing: border-box; margin: 0; padding: 0;">O seu segredo para =
+um marketing&nbsp;de&nbsp;destaque</h1> <p align=3D"center" class=3D"text-r=
+egular text-light-grey spacing-xlarge" style=3D"color: #676D76; font-family=
+: Helvetica, Arial, sans-serif !important; font-weight: normal; text-align:=
+ center; line-height: 1.38; font-size: 18px; position: relative; box-sizing=
+: border-box; margin: 0 0 35px; padding: 0;">Realize todos os processos de =
+marketing e de cria=C3=A7=C3=A3o numa =C3=BAnica&nbsp;plataforma.</p> </th>=
+ <th align=3D"left" class=3D"expander" style=3D"visibility: hidden; width: =
+0; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; fo=
+nt-weight: normal; text-align: left; line-height: 130%; font-size: 16px; po=
+sition: relative; box-sizing: border-box; margin: 0; padding: 0;"></th> </t=
+r> </tbody> </table> </th> </tr> </tbody> </table> <a target=3D"_blank" hre=
+f=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1=
+a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphby3jn6Xl=
+S1Y-ocOU5t7BlRYo__Ps5UJXjCO2UDEt8KachdVCnZuaGKMwnxU27PFFiyLlo5qgOcDrKQZnvtf=
+kxkhwmaw2bQPUoZE193ACPjX3FTlW29DyQ9LsGNybuyc4CDJoPm5Qc3WTZV6bNaz9T2dDP0TeIV=
+w4eMRJz3qx4U_4llVlzsX4EbM_VBCwEnE2BlWfhi7DJ9LafO0AMqJdEny_juGnevFmtaVKvKGxK=
+oSrhCvVy40vdDGv8c3NO-rOZbwWhqoaPIgpC6zZEkuu1okD9YqQo7MBSj5JXYqQEjfx"><img a=
+lt=3D"" border=3D"0" class=3D"float-center img-hero-block-1" style=3D"box-s=
+izing: border-box; clear: both; display: inline-block; margin: 0px auto; ma=
+x-width: 100%; outline: none; position: relative; text-align: center; text-=
+decoration: none; width: 600px; border-width: 0px; border-style: solid; fon=
+t-family: helvetica, arial, sans-serif !important;" width=3D"600" src=3D"ht=
+tps://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-=
+46bb-bd7e-c542cff6dd6a/8cb45ebcfb7c4c8189af4a5ff6ca1a98/AFMC-launch-hero.pn=
+g"/></a> <table class=3D"row" style=3D"align-items:center; border-collapse:=
+collapse; border-spacing:0; box-sizing:border-box; display:table; font-fami=
+ly:helvetica,arial,sans-serif !important; padding:0; position:relative; tex=
+t-align:left; vertical-align:top; width:100%"> <tbody style=3D"position: re=
+lative; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !=
+important;"> <tr align=3D"left" style=3D"vertical-align: top; text-align: l=
+eft; position: relative; box-sizing: border-box; font-family: Helvetica, Ar=
+ial, sans-serif !important; padding: 0;"> </tr> </tbody> </table> &nbsp; <t=
+able class=3D"row" style=3D"align-items:center; border-collapse:collapse; b=
+order-spacing:0; box-sizing:border-box; display:table; font-family:helvetic=
+a,arial,sans-serif !important; padding:0; position:relative; text-align:lef=
+t; vertical-align:top; width:100%"> <tbody style=3D"position: relative; box=
+-sizing: border-box; font-family: Helvetica, Arial, sans-serif !important;"=
+> <tr align=3D"left" style=3D"vertical-align: top; text-align: left; positi=
+on: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-s=
+erif !important; padding: 0;"> <th align=3D"left" class=3D"w-text-spacing s=
+mall-12 large-12 columns first last" style=3D"width: 684px; color: #0a0a0a;=
+ font-family: Helvetica, Arial, sans-serif !important; font-weight: normal;=
+ text-align: left; line-height: 130%; font-size: 16px; position: relative; =
+box-sizing: border-box; margin: 0 auto; padding: 0 33px;"> <table style=3D"=
+border-collapse:collapse; border-spacing:0; box-sizing:border-box; font-fam=
+ily:helvetica,arial,sans-serif !important; padding:0; position:relative; te=
+xt-align:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left" =
+style=3D"vertical-align: top; text-align: left; position: relative; box-siz=
+ing: border-box; font-family: Helvetica, Arial, sans-serif !important; padd=
+ing: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetic=
+a, Arial, sans-serif !important; font-weight: normal; text-align: left; lin=
+e-height: 130%; font-size: 16px; position: relative; box-sizing: border-box=
+; margin: 0; padding: 0;"> <p align=3D"center" class=3D"text-light-grey spa=
+cing-xlarge" style=3D"color: #676D76; font-family: Helvetica, Arial, sans-s=
+erif !important; font-weight: normal; text-align: center; line-height: 1.38=
+; font-size: 18px; position: relative; box-sizing: border-box; margin: 0 0 =
+35px; padding: 0;">Do pontap=C3=A9 inicial =C3=A0 aprova=C3=A7=C3=A3o, voc=
+=C3=AA pode agora <a style=3D"color:#796EFF;text-decoration:none;" target=
+=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c=
+8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5ta=
+vR_AYphby3jn6XlS1Y-ocOU5t7BlRYo__Ps5UJXjCO2UDEt8KachdVCnZuaGKMwnxU27PFFi-7W=
+DmwaqBUPBr2J3gcsxYUgXa19sCLMsg80oGmrL4IeUkHWWgyonXYE77UGZC7XUNf0JjzGSgQHAG4=
+vROjffQjU5v36l4_2KAbYiyQgVW23I89SN0MXOglUd8IyzVpCPjo9gX6Ww-OTe0pDPOY2FwvBhR=
+f6E98dalAwQ7Ek72Eh_wHMODeqwLgNDv2NUsxZIUWowzTl54dFEQas6uouKVluGs-Ws3ru7xoK6=
+UVGZiwl">gerenciar todo o marketing na Asana</a> para entregar melhores cam=
+panhas, conte=C3=BAdos, lan=C3=A7amentos e outros em menos tempo.</p> </th>=
+ <th align=3D"left" class=3D"expander" style=3D"visibility: hidden; width: =
+0; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; fo=
+nt-weight: normal; text-align: left; line-height: 130%; font-size: 16px; po=
+sition: relative; box-sizing: border-box; margin: 0; padding: 0;"></th> </t=
+r> </tbody> </table> </th> </tr> </tbody> </table> <table cellspacing=3D"0"=
+ style=3D"align-items:center; border-collapse:collapse; border-spacing:0; b=
+ox-sizing:border-box; display:table; font-family:Helvetica,Arial,sans-serif=
+ !important; padding:0; position:relative; text-align:left; vertical-align:=
+top; width:100%" class=3D"row"> <tbody style=3D"position: relative; box-siz=
+ing: border-box; font-family: Helvetica, Arial, sans-serif !important;"> <t=
+r align=3D"left" style=3D"box-sizing:border-box; font-family:Helvetica,Aria=
+l,sans-serif !important; padding:0; position:relative; text-align:left; ver=
+tical-align:top"> <th align=3D"left" style=3D"width: 684px; color: #0a0a0a;=
+ font-family: Helvetica, Arial, sans-serif !important; font-weight: normal;=
+ text-align: left; line-height: 130%; font-size: 16px; position: relative; =
+box-sizing: border-box; margin: 0 auto; padding: 0 16px 16px;" class=3D"sma=
+ll-12 large-12 columns first last"> <table cellspacing=3D"0" style=3D"borde=
+r-collapse:collapse; border-spacing:0; box-sizing:border-box; font-family:H=
+elvetica,Arial,sans-serif !important; padding:0; position:relative; text-al=
+ign:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left" style=
+=3D"box-sizing:border-box; font-family:Helvetica,Arial,sans-serif !importan=
+t; padding:0; position:relative; text-align:left; vertical-align:top"> <th =
+align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, Arial, sans=
+-serif !important; font-weight: normal; text-align: left; line-height: 130%=
+; font-size: 16px; position: relative; box-sizing: border-box; margin: 0; p=
+adding: 0;"> <div align=3D"center" style=3D"position: relative; box-sizing:=
+ border-box; font-family: Helvetica, Arial, sans-serif !important; text-ali=
+gn: center;" class=3D"text-center"><!--[if mso]><v:roundrect xmlns:v=3D"urn=
+:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:wor=
+d" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5=
+ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphby=
+3jn6XlS1Y-ocOU5t7BlRYo__Ps5UJXjCO2UDEt8KachdVCnZuaGKMwnxU27PFFi6s26Hl8XvkOc=
+bN2xAmgVghb36jX7iVeTOqCDSvZ8e2uXgEpVtLOgrlV0LRTzzexzu3Pe-x_ICSpofUb1Bt_j8V8=
+86EwDfCRDTyXNStCAyrimf7K0YqbI-wU4llHJq5bhTbiIZ0RKgBTSSshWJLHY1OyHpfieEukrZN=
+aEDcHHI1rFOPgHVyKBYZZIbbKYUZA29A3JnjXk3S3sjS648X2aEHrt6Lhb2kac2K8l565BSRX" =
+style=3D"height:48px;v-text-anchor:middle;width:226px;" arcsize=3D"7%" stro=
+ke=3D"f" fillcolor=3D"#7968FF"> <w:anchorlock></w:anchorlock> <center><![en=
+dif]--><a style=3D"border-radius: 3px; color: #ffffff; display: inline-bloc=
+k; font-size: 18px; font-weight: bold; line-height: 48px; text-align: cente=
+r; text-decoration: none; width: 226px; -webkit-text-size-adjust: none; fon=
+t-family: Helvetica, Arial, sans-serif !important; position: relative; box-=
+sizing: border-box; background: #7968FF; padding: 0;" class=3D"text-center"=
+ target=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45eb=
+cfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_Jt=
+Kyed5tavR_AYphby3jn6XlS1Y-ocOU5t7BlRYo__Ps5UJXjCO2UDEt8KachdVCnZuaGKMwnxU27=
+PFFi9cVSX1qEcOZO5fh0EccYYQ698OXGIVQD3EERbXu7AMrYei6DYXgcBABJffkhEhqhsC-yTBm=
+t28Taa1j4uJOmqLYWHDuytkJrS0nPEnN5rEkL_6Ttt5_3o92x55p5ukjVaV0a0ZJxtrmgQq9zh_=
+-B-JxmQF1OM5UWZNDZI9SeSU_rC352tXyYVJcfvp7zPiu39uX1NSDIGnfqk6_cuIxWiSBOHWcNd=
+XH5rvLH_3deDyh">Veja como</a> <!--[if mso]></center> </v:roundrect><![endif=
+]--></div> </th> <th align=3D"left" style=3D"visibility: hidden; width: 0; =
+color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-=
+weight: normal; text-align: left; line-height: 130%; font-size: 16px; posit=
+ion: relative; box-sizing: border-box; margin: 0; padding: 0;" class=3D"exp=
+ander"></th> </tr> </tbody> </table> </th> </tr> </tbody> </table> </td> </=
+tr> </tbody> </table> </td> </tr> </tbody> </table> <br style=3D"position: =
+relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif=
+ !important;"/> <!-- ################################################### LI=
+ST BLOCK (List of elements that have a circular photo left with text right)=
+ ################################################# --> <table align=3D"cent=
+er" class=3D"wrapper list-block w-outer" style=3D"width: 100%; border-spaci=
+ng: 0; border-collapse: collapse; vertical-align: top; text-align: left; po=
+sition: relative; box-sizing: border-box; font-family: Helvetica, Arial, sa=
+ns-serif !important; padding: 0;"> <tbody> <tr align=3D"left" style=3D"vert=
+ical-align: top; text-align: left; position: relative; box-sizing: border-b=
+ox; font-family: Helvetica, Arial, sans-serif !important; padding: 0;"> <td=
+ align=3D"left" class=3D"wrapper-inner" style=3D"word-wrap: break-word; -we=
+bkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: col=
+lapse !important; vertical-align: top; text-align: left; color: #0a0a0a; fo=
+nt-family: Helvetica, Arial, sans-serif !important; font-weight: normal; li=
+ne-height: 130%; font-size: 16px; position: relative; box-sizing: border-bo=
+x; margin: 0; padding: 0;" valign=3D"top"> <table align=3D"center" bgcolor=
+=3D"#fff" class=3D"wrapper list-block w-inner" style=3D"width: 100%; border=
+-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: le=
+ft; position: relative; box-sizing: border-box; font-family: Helvetica, Ari=
+al, sans-serif !important; background: #fff; padding: 35px 0 0; border: 1px=
+ solid #eff0f1;"> <tbody> <tr align=3D"left" style=3D"vertical-align: top; =
+text-align: left; position: relative; box-sizing: border-box; font-family: =
+Helvetica, Arial, sans-serif !important; padding: 0;"> <td align=3D"left" c=
+lass=3D"wrapper-inner" style=3D"word-wrap: break-word; -webkit-hyphens: non=
+e; -moz-hyphens: none; hyphens: none; border-collapse: collapse !important;=
+ vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvet=
+ica, Arial, sans-serif !important; font-weight: normal; line-height: 130%; =
+font-size: 16px; position: relative; box-sizing: border-box; margin: 0; pad=
+ding: 35px 0 36px;" valign=3D"top"> <table class=3D"row" style=3D"border-sp=
+acing: 0; border-collapse: collapse; vertical-align: top; text-align: left;=
+ width: 100%; position: relative; display: table; align-items: center; box-=
+sizing: border-box; font-family: Helvetica, Arial, sans-serif !important; p=
+adding: 0;"> <tbody style=3D"position: relative; box-sizing: border-box; fo=
+nt-family: Helvetica, Arial, sans-serif !important;"> <tr align=3D"left" st=
+yle=3D"vertical-align: top; text-align: left; position: relative; box-sizin=
+g: border-box; font-family: Helvetica, Arial, sans-serif !important; paddin=
+g: 0;"> <th align=3D"left" class=3D"small-12 large-12 columns first last" s=
+tyle=3D"width: 684px; color: #0a0a0a; font-family: Helvetica, Arial, sans-s=
+erif !important; font-weight: normal; text-align: left; line-height: 130%; =
+font-size: 16px; position: relative; box-sizing: border-box; margin: 0 auto=
+; padding: 0 16px 16px;"> <table style=3D"border-spacing: 0; border-collaps=
+e: collapse; vertical-align: top; text-align: left; width: 100%; position: =
+relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif=
+ !important; padding: 0;"> <tbody> <tr align=3D"left" style=3D"vertical-ali=
+gn: top; text-align: left; position: relative; box-sizing: border-box; font=
+-family: Helvetica, Arial, sans-serif !important; padding: 0;"> <th align=
+=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, Arial, sans-seri=
+f !important; font-weight: normal; text-align: left; line-height: 130%; fon=
+t-size: 16px; position: relative; box-sizing: border-box; margin: 0; paddin=
+g: 0;"> <h1 align=3D"center" class=3D"hl" style=3D"color: inherit; font-fam=
+ily: Helvetica, Arial, sans-serif !important; font-weight: normal; text-ali=
+gn: center; line-height: 130%; word-wrap: normal; font-size: 30px; position=
+: relative; box-sizing: border-box; margin: 0; padding: 0;">Agilizar e econ=
+omizar tempo:</h1> </th> <th align=3D"left" class=3D"expander" style=3D"vis=
+ibility: hidden; width: 0; color: #0a0a0a; font-family: Helvetica, Arial, s=
+ans-serif !important; font-weight: normal; text-align: left; line-height: 1=
+30%; font-size: 16px; position: relative; box-sizing: border-box; margin: 0=
+; padding: 0;"></th> </tr> </tbody> </table> </th> </tr> </tbody> </table> =
+<table class=3D"row w-80" style=3D"align-items:center; border-collapse:coll=
+apse; border-spacing:0; box-sizing:border-box; display:table; font-family:h=
+elvetica,arial,sans-serif !important; margin:0 auto; padding:0; position:re=
+lative; text-align:left; vertical-align:top; width:80% !important"> <tbody =
+style=3D"position: relative; box-sizing: border-box; font-family: Helvetica=
+, Arial, sans-serif !important;"> <tr align=3D"left" style=3D"vertical-alig=
+n: top; text-align: left; position: relative; box-sizing: border-box; font-=
+family: Helvetica, Arial, sans-serif !important; padding: 0;"> <th align=3D=
+"left" class=3D"small-text-center small-12 large-3 columns first" style=3D"=
+width: 159px; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !im=
+portant; font-weight: normal; text-align: left; line-height: 130%; font-siz=
+e: 16px; position: relative; box-sizing: border-box; margin: 0 auto; paddin=
+g: 0 8px 16px 16px;"> <table style=3D"border-collapse:collapse; border-spac=
+ing:0; box-sizing:border-box; font-family:helvetica,arial,sans-serif !impor=
+tant; padding:0; position:relative; text-align:left; vertical-align:top; wi=
+dth:100%"> <tbody> <tr align=3D"left" style=3D"vertical-align: top; text-al=
+ign: left; position: relative; box-sizing: border-box; font-family: Helveti=
+ca, Arial, sans-serif !important; padding: 0;"> <th align=3D"left" style=3D=
+"color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font=
+-weight: normal; text-align: left; line-height: 130%; font-size: 16px; posi=
+tion: relative; box-sizing: border-box; margin: 0; padding: 0;"> <div class=
+=3D"img-circle margin-auto-small" style=3D"position: relative; box-sizing: =
+border-box; font-family: Helvetica, Arial, sans-serif !important; overflow:=
+ hidden; width: 80px; height: 80px; background: url('../images/gradient.jpg=
+');"><a target=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D=
+8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=
+=3DNEf_JtKyed5tavR_AYphb0S3IrkDUefnUXqQCFrjQdVtPrcoWC85hGiiYetHV5Rpe2tTQMlS=
+W7vSadwSUSkfMA4GOGNuAgHZqWpV_-lqZxOi6F0AzVIHzVahQ7oW16WJ-COeI5qpVJOZVDyYZkp=
+vuHPnAdUmDMXl943n-S-yzKqLBbNtZIHRGTie6ut3FL3VsVVFDwr-u83MF1wFnBk1WC6YD25jEU=
+RFm4PkzRYl9GWq3_nZcQ2oERolM3WY3QmTic7asJ0LVzY0NEpr7463sOz_DzK5H2oKyp8ABG8QI=
+dDULe_EC1VaHfjFGpiBh37DvaNhKdX_yBhtoQz5x-59mw%3D%3D"><img alt=3D"" border=
+=3D"0" style=3D"box-sizing: border-box; clear: both; display: inline-block;=
+ max-width: 100%; outline: none; position: relative; text-decoration: none;=
+ border-width: 0px; border-style: solid; font-family: helvetica, arial, san=
+s-serif !important; width: 80px; height: 80px;" width=3D"80" src=3D"https:/=
+/d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-=
+bd7e-c542cff6dd6a/8cb45ebcfb7c4c8189af4a5ff6ca1a98/forms-icon%20copy.png"/>=
+</a></div> </th> </tr> </tbody> </table> </th> <th align=3D"left" class=3D"=
+small-text-left small-12 large-9 columns last" style=3D"width: 509px; color=
+: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-weigh=
+t: normal; text-align: left; line-height: 130%; font-size: 16px; position: =
+relative; box-sizing: border-box; margin: 0 auto; padding: 0 16px 16px 8px;=
+"> <table style=3D"border-collapse:collapse; border-spacing:0; box-sizing:b=
+order-box; font-family:helvetica,arial,sans-serif !important; padding:0; po=
+sition:relative; text-align:left; vertical-align:top; width:100%"> <tbody> =
+<tr align=3D"left" style=3D"vertical-align: top; text-align: left; position=
+: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-ser=
+if !important; padding: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; fo=
+nt-family: Helvetica, Arial, sans-serif !important; font-weight: normal; te=
+xt-align: left; line-height: 130%; font-size: 16px; position: relative; box=
+-sizing: border-box; margin: 0; padding: 0;"> <div style=3D"position: relat=
+ive; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !imp=
+ortant;"> <h3 align=3D"left" class=3D"title small-text-center text-left" st=
+yle=3D"text-align: left; color: inherit; font-family: Helvetica, Arial, san=
+s-serif !important; font-weight: normal; line-height: 130%; word-wrap: norm=
+al; font-size: 24px; position: relative; box-sizing: border-box; margin: 0;=
+ padding: 0;">D=C3=AA in=C3=ADcio aos projetos mais rapidamente</h3> <p ali=
+gn=3D"left" class=3D"text-small text-light-grey small-text-center text-left=
+ spacing-xlarge" style=3D"text-align: left; color: #676D76; font-family: He=
+lvetica, Arial, sans-serif !important; font-weight: normal; line-height: 1.=
+38; font-size: 16px; position: relative; box-sizing: border-box; margin: 0 =
+0 35px; padding: 0;">Crie <a style=3D"color: #796EFF; text-decoration: none=
+;" target=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45=
+ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_=
+JtKyed5tavR_AYphb0S3IrkDUefnUXqQCFrjQdVtPrcoWC85hGiiYetHV5Rpe2tTQMlSW7vSadw=
+SUSkfMA4GOGNuAgHZqWpV_-lqZxOgWil-zVO2IJSMA7IkuRc2yAKdBqIzcSHo1U3x7i_7kKICme=
+AySLs7oA-BZ4stLTdLS2vue1zVdVISzT81Hc1-XJiYA4Xvlej0tB7l6r-49zNM1ecs9I5WcVUcp=
+UgCrG3aYa5w0C44HTiPVeRepd84maXhIfUyl0vvlUzDFQyIW3AvHPDsvNzcYy3SUMa3Xcp6PEkT=
+cbQRVpTVxmtq7_dpjnDiXaECcH11aGbqLjFrOQ%3D%3D">formul=C3=A1rios de f=C3=A1ci=
+l preenchimento</a> na Asana para assegurar-se de que sua equipe recebe tud=
+o o que precisa para come=C3=A7ar com o p=C3=A9 direito.</p> </div> </th> <=
+/tr> </tbody> </table> </th> </tr> </tbody> </table> <table class=3D"row w-=
+80" style=3D"align-items:center; border-collapse:collapse; border-spacing:0=
+; box-sizing:border-box; display:table; font-family:helvetica,arial,sans-se=
+rif !important; margin:0 auto; padding:0; position:relative; text-align:lef=
+t; vertical-align:top; width:80% !important"> <tbody style=3D"position: rel=
+ative; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !i=
+mportant;"> <tr align=3D"left" style=3D"vertical-align: top; text-align: le=
+ft; position: relative; box-sizing: border-box; font-family: Helvetica, Ari=
+al, sans-serif !important; padding: 0;"> <th align=3D"left" class=3D"small-=
+text-center small-12 large-3 columns first" style=3D"width: 159px; color: #=
+0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-weight: =
+normal; text-align: left; line-height: 130%; font-size: 16px; position: rel=
+ative; box-sizing: border-box; margin: 0 auto; padding: 0 8px 16px 16px;"> =
+<table style=3D"border-collapse:collapse; border-spacing:0; box-sizing:bord=
+er-box; font-family:helvetica,arial,sans-serif !important; padding:0; posit=
+ion:relative; text-align:left; vertical-align:top; width:100%"> <tbody> <tr=
+ align=3D"left" style=3D"vertical-align: top; text-align: left; position: r=
+elative; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif =
+!important; padding: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-=
+family: Helvetica, Arial, sans-serif !important; font-weight: normal; text-=
+align: left; line-height: 130%; font-size: 16px; position: relative; box-si=
+zing: border-box; margin: 0; padding: 0;"> <div class=3D"img-circle margin-=
+auto-small" style=3D"position: relative; box-sizing: border-box; font-famil=
+y: Helvetica, Arial, sans-serif !important; overflow: hidden; width: 80px; =
+height: 80px; background: url('../images/gradient.jpg');"><a target=3D"_bla=
+nk" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a=
+5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphb=
+0S3IrkDUefnUXqQCFrjQdVtPrcoWC85hGiiYetHV5RpMu9W_GGJy_je_n3UJ91vo1cmjY4DGeYV=
+voA2biKd6N3EAx-XiUF6BoE7opuwUAPjimwpVsBZ4SvREs-rLAZ-NC0JVOVZ8IwARZvLT8XZaAf=
+6WBU6j6JtaPsymKC1VjvqAYJehNtbpI6YCNt8kswBw0teqS6Vw9SG7TSl_m6MXd7JaUs7vDfHy5=
+MBZ5MV1urKJAcunlny8wj3C1BllJlc_vi3fbrgVHgeZo0hH0DiZgQ5s-Nl9ssvpvJfMt9ICypM_=
+P0KoDjn4RRPYr4DeiFo6Q%3D%3D"><img alt=3D"" border=3D"0" style=3D"box-sizing=
+: border-box; clear: both; display: inline-block; max-width: 100%; outline:=
+ none; position: relative; text-decoration: none; border-width: 0px; border=
+-style: solid; font-family: helvetica, arial, sans-serif !important; width:=
+ 80px; height: 80px;" width=3D"80" src=3D"https://d15k2d11r6t6rl.cloudfront=
+.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/8cb45eb=
+cfb7c4c8189af4a5ff6ca1a98/proofing-icon%20copy.png"/></a></div> </th> </tr>=
+ </tbody> </table> </th> <th align=3D"left" class=3D"small-text-left small-=
+12 large-9 columns last" style=3D"width: 509px; color: #0a0a0a; font-family=
+: Helvetica, Arial, sans-serif !important; font-weight: normal; text-align:=
+ left; line-height: 130%; font-size: 16px; position: relative; box-sizing: =
+border-box; margin: 0 auto; padding: 0 16px 16px 8px;"> <table style=3D"bor=
+der-collapse:collapse; border-spacing:0; box-sizing:border-box; font-family=
+:helvetica,arial,sans-serif !important; padding:0; position:relative; text-=
+align:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left" sty=
+le=3D"vertical-align: top; text-align: left; position: relative; box-sizing=
+: border-box; font-family: Helvetica, Arial, sans-serif !important; padding=
+: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, =
+Arial, sans-serif !important; font-weight: normal; text-align: left; line-h=
+eight: 130%; font-size: 16px; position: relative; box-sizing: border-box; m=
+argin: 0; padding: 0;"> <div style=3D"position: relative; box-sizing: borde=
+r-box; font-family: Helvetica, Arial, sans-serif !important;"> <h3 align=3D=
+"left" class=3D"title small-text-center text-left" style=3D"text-align: lef=
+t; color: inherit; font-family: Helvetica, Arial, sans-serif !important; fo=
+nt-weight: normal; line-height: 130%; word-wrap: normal; font-size: 24px; p=
+osition: relative; box-sizing: border-box; margin: 0; padding: 0;">D=C3=AA =
+feedback interativo</h3> <p align=3D"left" class=3D"text-small text-light-g=
+rey small-text-center text-left spacing-xlarge" style=3D"text-align: left; =
+color: #676D76; font-family: Helvetica, Arial, sans-serif !important; font-=
+weight: normal; line-height: 1.38; font-size: 16px; position: relative; box=
+-sizing: border-box; margin: 0 0 35px; padding: 0;"><a style=3D"color: #796=
+EFF; text-decoration: none;" target=3D"_blank" href=3D"https://connect.asan=
+a.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5=
+b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphb0S3IrkDUefnUXqQCFrjQdVtPrcoWC85h=
+GiiYetHV5RpMu9W_GGJy_je_n3UJ91vo1cmjY4DGeYVvoA2biKd6N3zSDnDymJ-2BCB49Mb4TAK=
+G5B1kUTWAcAIb3x1v8jyfElbEWkhd_aZAufF2gDJzKsdHGhgUKKQHZBJlf5t0QALWGtvx3mJijA=
+gnNX2coNtQMqzAU53L-GDKb8AU1Ej4OotS85JCfj_Op3E9q2_bGFHlJrnGNvQL0okwOVpPSD_Xc=
+MFVpfRwUsxNJobqx9lsCsXK-sJ5CIukyxOySXIuQitJ18qy1DQKlcLjiyY3jD2vQ%3D%3D">Fa=
+=C3=A7a anota=C3=A7=C3=B5es nas imagens</a> sem sair da Asana para converte=
+r automaticamente seus coment=C3=A1rios em novas tarefas.&nbsp;</p> </div> =
+</th> </tr> </tbody> </table> </th> </tr> </tbody> </table> <table class=3D=
+"row w-80" style=3D"align-items:center; border-collapse:collapse; border-sp=
+acing:0; box-sizing:border-box; display:table; font-family:helvetica,arial,=
+sans-serif !important; margin:0 auto; padding:0; position:relative; text-al=
+ign:left; vertical-align:top; width:80% !important"> <tbody style=3D"positi=
+on: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-s=
+erif !important;"> <tr align=3D"left" style=3D"vertical-align: top; text-al=
+ign: left; position: relative; box-sizing: border-box; font-family: Helveti=
+ca, Arial, sans-serif !important; padding: 0;"> <th align=3D"left" class=3D=
+"small-text-center small-12 large-3 columns first" style=3D"width: 159px; c=
+olor: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-w=
+eight: normal; text-align: left; line-height: 130%; font-size: 16px; positi=
+on: relative; box-sizing: border-box; margin: 0 auto; padding: 0 8px 16px 1=
+6px;"> <table style=3D"border-collapse:collapse; border-spacing:0; box-sizi=
+ng:border-box; font-family:helvetica,arial,sans-serif !important; padding:0=
+; position:relative; text-align:left; vertical-align:top; width:100%"> <tbo=
+dy> <tr align=3D"left" style=3D"vertical-align: top; text-align: left; posi=
+tion: relative; box-sizing: border-box; font-family: Helvetica, Arial, sans=
+-serif !important; padding: 0;"> <th align=3D"left" style=3D"color: #0a0a0a=
+; font-family: Helvetica, Arial, sans-serif !important; font-weight: normal=
+; text-align: left; line-height: 130%; font-size: 16px; position: relative;=
+ box-sizing: border-box; margin: 0; padding: 0;"> <div class=3D"img-circle =
+margin-auto-small" style=3D"position: relative; box-sizing: border-box; fon=
+t-family: Helvetica, Arial, sans-serif !important; overflow: hidden; width:=
+ 80px; height: 80px; background: url('../images/gradient.jpg');"><a target=
+=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c=
+8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5ta=
+vR_AYphb0qV4OCSIgkCP_WsVnv2tCsI7RYn-e8mltc62Zo6VdiVyAoCX-z_rhRwXGP4iLb0DA1U=
+P1EREnpgYcu-JMxDnML09mFPZxEXli3lvPkY9i9sUVg6YVLW1V2Aog9vJYkmvDbL6jzTKbYmxcX=
+QxkiVBPyYlOy4of55Vl-i-hifcqmCu8xKN8GFMQ7ekJF55VsgLfur24TUVYRMAueG8S-WFTWFFz=
+BI575_ahorzv4Qh_zsk3TdYhtxPy1BF3OaYcv-2-LbbdanO1cxOvrAw9j1mZSKSbBjtF2m0t0Ai=
+lSZBHazwgdujba09y6RNsAqmA28mw%3D%3D"><img alt=3D"" border=3D"0" style=3D"bo=
+x-sizing: border-box; clear: both; display: inline-block; max-width: 100%; =
+outline: none; position: relative; text-decoration: none; border-width: 0px=
+; border-style: solid; font-family: helvetica, arial, sans-serif !important=
+; width: 80px; height: 80px;" width=3D"80" src=3D"https://d15k2d11r6t6rl.cl=
+oudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/=
+8cb45ebcfb7c4c8189af4a5ff6ca1a98/adobe-icon%20copy.png"/></a></div> </th> <=
+/tr> </tbody> </table> </th> <th align=3D"left" class=3D"small-text-left sm=
+all-12 large-9 columns last" style=3D"width: 509px; color: #0a0a0a; font-fa=
+mily: Helvetica, Arial, sans-serif !important; font-weight: normal; text-al=
+ign: left; line-height: 130%; font-size: 16px; position: relative; box-sizi=
+ng: border-box; margin: 0 auto; padding: 0 16px 16px 8px;"> <table style=3D=
+"border-collapse:collapse; border-spacing:0; box-sizing:border-box; font-fa=
+mily:helvetica,arial,sans-serif !important; padding:0; position:relative; t=
+ext-align:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left"=
+ style=3D"vertical-align: top; text-align: left; position: relative; box-si=
+zing: border-box; font-family: Helvetica, Arial, sans-serif !important; pad=
+ding: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helveti=
+ca, Arial, sans-serif !important; font-weight: normal; text-align: left; li=
+ne-height: 130%; font-size: 16px; position: relative; box-sizing: border-bo=
+x; margin: 0; padding: 0;"> <div style=3D"position: relative; box-sizing: b=
+order-box; font-family: Helvetica, Arial, sans-serif !important;"> <h3 alig=
+n=3D"left" class=3D"title small-text-center text-left" style=3D"text-align:=
+ left; color: inherit; font-family: Helvetica, Arial, sans-serif !important=
+; font-weight: normal; line-height: 130%; word-wrap: normal; font-size: 24p=
+x; position: relative; box-sizing: border-box; margin: 0; padding: 0;">Crie=
+ em contexto</h3> <p align=3D"left" class=3D"text-small text-light-grey sma=
+ll-text-center text-left spacing-xlarge" style=3D"text-align: left; color: =
+#676D76; font-family: Helvetica, Arial, sans-serif !important; font-weight:=
+ normal; line-height: 1.38; font-size: 16px; position: relative; box-sizing=
+: border-box; margin: 0 0 35px; padding: 0;">Os designers encontram os deta=
+lhes das tarefas ao seu alcance com a <a style=3D"color: #796EFF; text-deco=
+ration: none;" target=3D"_blank" href=3D"https://connect.asana.com/u/click=
+=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4=
+178&_e=3DNEf_JtKyed5tavR_AYphb0qV4OCSIgkCP_WsVnv2tCsI7RYn-e8mltc62Zo6VdiVyA=
+oCX-z_rhRwXGP4iLb0DA1UP1EREnpgYcu-JMxDnMLv-fUvoGyVvTuyBEotlRSQRulrZM_AQVXgq=
+teHjzaa-nOL03o27le1Llbycan5FM3w68l4m3MAXsCsB5KAFYOemDbQIOLrO_VRk7iiNLnDLSEW=
+DAoFs4T9qDTTQ2GJa8q0H4wkzHjC_4PlWWXAxGMUSYbOwPG93pNxYnM3mQXubSRCIq6EBSJTbkR=
+C2SlxnI3uVQUDU2ZVC_Ua7wmpSoqvZdSO6ld-HDOFXx83nXUKtQ%3D%3D">integra=C3=A7=C3=
+=A3o com a Adobe Creative Cloud</a>.</p> </div> </th> </tr> </tbody> </tabl=
+e> </th> </tr> </tbody> </table> <table class=3D"row w-80" style=3D"align-i=
+tems:center; border-collapse:collapse; border-spacing:0; box-sizing:border-=
+box; display:table; font-family:helvetica,arial,sans-serif !important; marg=
+in:0 auto; padding:0; position:relative; text-align:left; vertical-align:to=
+p; width:80% !important"> <tbody style=3D"position: relative; box-sizing: b=
+order-box; font-family: Helvetica, Arial, sans-serif !important;"> <tr alig=
+n=3D"left" style=3D"vertical-align: top; text-align: left; position: relati=
+ve; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !impo=
+rtant; padding: 0;"> <th align=3D"left" class=3D"small-text-center small-12=
+ large-3 columns first" style=3D"width: 159px; color: #0a0a0a; font-family:=
+ Helvetica, Arial, sans-serif !important; font-weight: normal; text-align: =
+left; line-height: 130%; font-size: 16px; position: relative; box-sizing: b=
+order-box; margin: 0 auto; padding: 0 8px 16px 16px;"> <table style=3D"bord=
+er-collapse:collapse; border-spacing:0; box-sizing:border-box; font-family:=
+helvetica,arial,sans-serif !important; padding:0; position:relative; text-a=
+lign:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left" styl=
+e=3D"vertical-align: top; text-align: left; position: relative; box-sizing:=
+ border-box; font-family: Helvetica, Arial, sans-serif !important; padding:=
+ 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, A=
+rial, sans-serif !important; font-weight: normal; text-align: left; line-he=
+ight: 130%; font-size: 16px; position: relative; box-sizing: border-box; ma=
+rgin: 0; padding: 0;"> <div class=3D"img-circle margin-auto-small" style=3D=
+"position: relative; box-sizing: border-box; font-family: Helvetica, Arial,=
+ sans-serif !important; overflow: hidden; width: 80px; height: 80px; backgr=
+ound: url('../images/gradient.jpg');"><a target=3D"_blank" href=3D"https://=
+connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101=
+009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphb0S3IrkDUefnUXqQCFrjQ=
+dVtPrcoWC85hGiiYetHV5RpyqFNoX9GAugLbWpuW0fZqe3920Nbgn8xerJF6satbwLG_weJ9Bi1=
+_rjOpWJ87j0y2gjiyQvyu8D4Hcf9YLM3UOIv-L5VunZy7VHyVYETLqVErOLFG6LI98MQfBHHoWx=
+MWTdzoSk_q1_Qszs3seyWean5Dofx9vD_gkbBXYL4uDIulJrZVS2VN1rK728XGosPQ0qHQSrvUb=
+f_MYQA4p_GZTnMxIT6QtXREk_ieTXX0JU3RVPOPotpQ5QcfIR2SjeroX5lMB1rnTm5BQbKC5knb=
+vkEvd6oifxECidqdgfzPfQ%3D"><img alt=3D"" border=3D"0" style=3D"box-sizing: =
+border-box; clear: both; display: inline-block; max-width: 100%; outline: n=
+one; position: relative; text-decoration: none; border-width: 0px; border-s=
+tyle: solid; font-family: helvetica, arial, sans-serif !important; width: 8=
+0px; height: 80px;" width=3D"80" src=3D"https://d15k2d11r6t6rl.cloudfront.n=
+et/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/8cb45ebcfb=
+7c4c8189af4a5ff6ca1a98/approvals-icon%20copy.png"/></a></div> </th> </tr> <=
+/tbody> </table> </th> <th align=3D"left" class=3D"small-text-left small-12=
+ large-9 columns last" style=3D"width: 509px; color: #0a0a0a; font-family: =
+Helvetica, Arial, sans-serif !important; font-weight: normal; text-align: l=
+eft; line-height: 130%; font-size: 16px; position: relative; box-sizing: bo=
+rder-box; margin: 0 auto; padding: 0 16px 16px 8px;"> <table style=3D"borde=
+r-collapse:collapse; border-spacing:0; box-sizing:border-box; font-family:h=
+elvetica,arial,sans-serif !important; padding:0; position:relative; text-al=
+ign:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"left" style=
+=3D"vertical-align: top; text-align: left; position: relative; box-sizing: =
+border-box; font-family: Helvetica, Arial, sans-serif !important; padding: =
+0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, Ar=
+ial, sans-serif !important; font-weight: normal; text-align: left; line-hei=
+ght: 130%; font-size: 16px; position: relative; box-sizing: border-box; mar=
+gin: 0; padding: 0;"> <div style=3D"position: relative; box-sizing: border-=
+box; font-family: Helvetica, Arial, sans-serif !important;"> <h3 align=3D"l=
+eft" class=3D"title small-text-center text-left" style=3D"text-align: left;=
+ color: inherit; font-family: Helvetica, Arial, sans-serif !important; font=
+-weight: normal; line-height: 130%; word-wrap: normal; font-size: 24px; pos=
+ition: relative; box-sizing: border-box; margin: 0; padding: 0;">Revis=C3=
+=A3o e aprova=C3=A7=C3=A3o</h3> <p align=3D"left" class=3D"text-small text-=
+light-grey small-text-center text-left spacing-xlarge" style=3D"text-align:=
+ left; color: #676D76; font-family: Helvetica, Arial, sans-serif !important=
+; font-weight: normal; line-height: 1.38; font-size: 16px; position: relati=
+ve; box-sizing: border-box; margin: 0 0 35px; padding: 0;">Remova os gargal=
+os e certifique-se de que todos est=C3=A3o a par do andamento do trabalho c=
+om as&nbsp;<a style=3D"color: #796EFF; text-decoration: none;" target=3D"_b=
+lank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af=
+4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYp=
+hb0S3IrkDUefnUXqQCFrjQdVtPrcoWC85hGiiYetHV5RpyqFNoX9GAugLbWpuW0fZqe3920Nbgn=
+8xerJF6satbwLG_weJ9Bi1_rjOpWJ87j0y5xyeDhkrRf5Dtw_LgWRhu9V6xfrcUpyQqdMXjc0qd=
+_9LyWTaX09gvBHpMyryaZmR9lehuh9EWSxGoVLHt0JVCmeX4p2xbsQ-AzKiMAarM6X5KWmOjPoF=
+auQLpZPlqQw4SkGXkNanAfdv65CeC0QCWpIJ5ZdvG528qha359KALkAPMSjO1LhFbn3QPic9cv2=
+p9NCIrwHQ8CllEc5DpzJ-PCu3OakhRGI53zxMafy06x0%3D">notifica=C3=A7=C3=B5es de =
+campos personalizados</a>.</p> </div> </th> </tr> </tbody> </table> </th> <=
+/tr> </tbody> </table> <table class=3D"row w-80" style=3D"align-items:cente=
+r; border-collapse:collapse; border-spacing:0; box-sizing:border-box; displ=
+ay:table; font-family:helvetica,arial,sans-serif !important; margin:0 auto;=
+ padding:0; position:relative; text-align:left; vertical-align:top; width:8=
+0% !important"> <tbody style=3D"position: relative; box-sizing: border-box;=
+ font-family: Helvetica, Arial, sans-serif !important;"> <tr align=3D"left"=
+ style=3D"vertical-align: top; text-align: left; position: relative; box-si=
+zing: border-box; font-family: Helvetica, Arial, sans-serif !important; pad=
+ding: 0;"> <th align=3D"left" class=3D"small-text-center small-12 large-3 c=
+olumns first" style=3D"width: 159px; color: #0a0a0a; font-family: Helvetica=
+, Arial, sans-serif !important; font-weight: normal; text-align: left; line=
+-height: 130%; font-size: 16px; position: relative; box-sizing: border-box;=
+ margin: 0 auto; padding: 0 8px 16px 16px;"> <table style=3D"border-collaps=
+e:collapse; border-spacing:0; box-sizing:border-box; font-family:helvetica,=
+arial,sans-serif !important; padding:0; position:relative; text-align:left;=
+ vertical-align:top; width:100%"> <tbody> <tr align=3D"left" style=3D"verti=
+cal-align: top; text-align: left; position: relative; box-sizing: border-bo=
+x; font-family: Helvetica, Arial, sans-serif !important; padding: 0;"> <th =
+align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, Arial, sans=
+-serif !important; font-weight: normal; text-align: left; line-height: 130%=
+; font-size: 16px; position: relative; box-sizing: border-box; margin: 0; p=
+adding: 0;"> <div class=3D"img-circle margin-auto-small" style=3D"position:=
+ relative; box-sizing: border-box; font-family: Helvetica, Arial, sans-seri=
+f !important; overflow: hidden; width: 80px; height: 80px; background: url(=
+'../images/gradient.jpg');"><a target=3D"_blank" href=3D"https://connect.as=
+ana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654b=
+f5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphb0qV4OCSIgkCP_WsVnv2tCuglyW6RzJ=
+VMsxzkanudOji9znTN206rDBQydUjrQzuWKpJZ9PQxLmkIsZXuiKNIcTVePwQ6D6NqbjzwtA-qB=
+tUZwIqj1hDn-SlLTgtzy7WnO90RBYSTL_CfgWEUM2gonOcug76z4kMdRG7Na5IQTP0nTQHSbQn6=
+DNqzXt1QDtpP7BzTWy2x9AKkxWVWOlfILHWNzX-q7rbi-0tgSg2MZj1Rvb4P6OzxPiDglF7kwm-=
+z-jsjfc0oOS6erHVj7yO-K8nVkkfA9PxAmawZ4jrcX2e"><img alt=3D"" border=3D"0" st=
+yle=3D"box-sizing: border-box; clear: both; display: inline-block; max-widt=
+h: 100%; outline: none; position: relative; text-decoration: none; border-w=
+idth: 0px; border-style: solid; font-family: helvetica, arial, sans-serif !=
+important; width: 80px; height: 80px;" width=3D"80" src=3D"https://d15k2d11=
+r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542=
+cff6dd6a/8cb45ebcfb7c4c8189af4a5ff6ca1a98/litmus-icon%20copy.png"/></a></di=
+v> </th> </tr> </tbody> </table> </th> <th align=3D"left" class=3D"small-te=
+xt-left small-12 large-9 columns last" style=3D"width: 509px; color: #0a0a0=
+a; font-family: Helvetica, Arial, sans-serif !important; font-weight: norma=
+l; text-align: left; line-height: 130%; font-size: 16px; position: relative=
+; box-sizing: border-box; margin: 0 auto; padding: 0 16px 16px 8px;"> <tabl=
+e style=3D"border-collapse:collapse; border-spacing:0; box-sizing:border-bo=
+x; font-family:helvetica,arial,sans-serif !important; padding:0; position:r=
+elative; text-align:left; vertical-align:top; width:100%"> <tbody> <tr alig=
+n=3D"left" style=3D"vertical-align: top; text-align: left; position: relati=
+ve; box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !impo=
+rtant; padding: 0;"> <th align=3D"left" style=3D"color: #0a0a0a; font-famil=
+y: Helvetica, Arial, sans-serif !important; font-weight: normal; text-align=
+: left; line-height: 130%; font-size: 16px; position: relative; box-sizing:=
+ border-box; margin: 0; padding: 0;"> <div style=3D"position: relative; box=
+-sizing: border-box; font-family: Helvetica, Arial, sans-serif !important;"=
+> <h3 align=3D"left" class=3D"title small-text-center text-left" style=3D"t=
+ext-align: left; color: inherit; font-family: Helvetica, Arial, sans-serif =
+!important; font-weight: normal; line-height: 130%; word-wrap: normal; font=
+-size: 24px; position: relative; box-sizing: border-box; margin: 0; padding=
+: 0;">Crie e=E2=80=93mails melhores</h3> <p align=3D"left" class=3D"text-sm=
+all text-light-grey small-text-center text-left spacing-xlarge" style=3D"te=
+xt-align: left; color: #676D76; font-family: Helvetica, Arial, sans-serif !=
+important; font-weight: normal; line-height: 1.38; font-size: 16px; positio=
+n: relative; box-sizing: border-box; margin: 0 0 35px; padding: 0;">Colabor=
+e no processo de produ=C3=A7=C3=A3o de e=E2=80=93mails e realize campanhas =
+mais rapidamente com a <a style=3D"color: #796EFF; text-decoration: none;" =
+target=3D"_blank" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebc=
+fb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtK=
+yed5tavR_AYphb0qV4OCSIgkCP_WsVnv2tCuglyW6RzJVMsxzkanudOji9znTN206rDBQydUjrQ=
+zuWCghPvhor2slI5m5hEXuQjHdahWNqaUIS-ozDZMb-28NZSIFC7DHswsQyJPPA1pVqFyk58P7L=
+QD75aeWq_Z9qN0XNXLvFOHpVq7aC-7OkaF_K3WEbE2cWvFsm_1ZmPPMGv5cF934sZly1twajmML=
+z846Uh9RHZf9OUhjblgSFWP8KLH6ZDDc7s8JhWpLSwQ-NMN150WR0HILV4MtCW7ZNBPPmdIMRE8=
+30ksiIilcbDrB">integra=C3=A7=C3=A3o com Litmus</a>.</p> </div> </th> </tr> =
+</tbody> </table> </th> </tr> </tbody> </table> <div align=3D"center" class=
+=3D"text-center" style=3D"position: relative; box-sizing: border-box; font-=
+family: Helvetica, Arial, sans-serif !important; text-align: center;"><!--[=
+if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"u=
+rn:schemas-microsoft-com:office:word" href=3D"https://connect.asana.com/u/c=
+lick=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267=
+b1d4178&_e=3DNEf_JtKyed5tavR_AYphb_9bFR_XgEQbufaSjnJ3sirV25jnzyhqWAh4gbXO2h=
+vj8ZiomBc7RqyJHklE_ZQJOPKBpDpSIzZxmBv2gfVlVBTEOWNZe6J0OQEiDPsiEBv_W1xNRucs4=
+LQmLj7T0ZOlVcwv0v-DcGax_iO89cNGOqsPLV1qFxOA1d7S9nqBVioo4ZMzhi_Cyyd65c_mH6IP=
+hSOvdlB_NbotuBXd8hLj46aRjXFlpLu4Ysj52kMgvk8A1Cvsv_xr9t4IR9rcnJ1WtYZmpAGYFH4=
+Pp9SsWbbnrg_iVzSIr6lNu8SNz4Q7cHv-" style=3D"height:48px;v-text-anchor:middl=
+e;width:226px;" arcsize=3D"7%" stroke=3D"f" fillcolor=3D"#796EFF"> <w:ancho=
+rlock></w:anchorlock> <center><![endif]--><a class=3D"text-center" style=3D=
+"border-radius: 3px; color: #ffffff; display: inline-block; font-size: 18px=
+; font-weight: bold; line-height: 48px; text-align: center; text-decoration=
+: none; width: 375px; -webkit-text-size-adjust: none; font-family: Helvetic=
+a, Arial, sans-serif !important; position: relative; box-sizing: border-box=
+; background: #796EFF; padding: 0;" target=3D"_blank" href=3D"https://conne=
+ct.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009af=
+f654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tavR_AYphb_9bFR_XgEQbufaSjnJ3sirV25=
+jnzyhqWAh4gbXO2hvj8ZiomBc7RqyJHklE_ZQJOPe5KyvhsTyek4aKRGTDoNQTeSCru8ZiDKKNt=
+3VVdndeQgjcFXrOrI9Q0VqXvCnv5l3Yq6Wpc_xhI0F14mkZSZnU0cDLiPJ9RjRhzpnUqRQK7Ise=
+Ep4ySk5vFOkhLf1UNM8A6MkeE5F9MqDqzFWWWjABnlkTjrHbqo7ClW1PDTGOZmFZQ0n31aGp3DY=
+nrkjwC-12anR1mXsZteqSLiwxkQPdo7-Pl89MRqCe-v_d6fGO">Experimente o Business g=
+ratuitamente</a> <!--[if mso]></center> </v:roundrect><![endif]--></div> <t=
+able class=3D"row w-80" style=3D"align-items:center; border-collapse:collap=
+se; border-spacing:0; box-sizing:border-box; display:table; font-family:hel=
+vetica,arial,sans-serif !important; margin:0 auto; padding:0; position:rela=
+tive; text-align:left; vertical-align:top; width:80% !important"> <tbody st=
+yle=3D"position: relative; box-sizing: border-box; font-family: Helvetica, =
+Arial, sans-serif !important;"> <tr align=3D"left" style=3D"vertical-align:=
+ top; text-align: left; position: relative; box-sizing: border-box; font-fa=
+mily: Helvetica, Arial, sans-serif !important; padding: 0;"> <th align=3D"l=
+eft" class=3D"small-text-center small-12 large-3 columns first" style=3D"wi=
+dth: 159px; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !impo=
+rtant; font-weight: normal; text-align: left; line-height: 130%; font-size:=
+ 16px; position: relative; box-sizing: border-box; margin: 0 auto; padding:=
+ 0 8px 16px 16px;"> <table style=3D"border-collapse:collapse; border-spacin=
+g:0; box-sizing:border-box; font-family:helvetica,arial,sans-serif !importa=
+nt; padding:0; position:relative; text-align:left; vertical-align:top; widt=
+h:100%"> <tbody> </tbody> </table> </th> <th align=3D"left" class=3D"small-=
+text-left small-12 large-9 columns last" style=3D"width: 509px; color: #0a0=
+a0a; font-family: Helvetica, Arial, sans-serif !important; font-weight: nor=
+mal; text-align: left; line-height: 130%; font-size: 16px; position: relati=
+ve; box-sizing: border-box; margin: 0 auto; padding: 0 16px 16px 8px;"> <ta=
+ble style=3D"border-collapse:collapse; border-spacing:0; box-sizing:border-=
+box; font-family:helvetica,arial,sans-serif !important; padding:0; position=
+:relative; text-align:left; vertical-align:top; width:100%"> <tbody> </tbod=
+y> </table> </th> </tr> </tbody> </table> </td> </tr> </tbody> </table> </t=
+d> </tr> </tbody> </table> <br style=3D"position: relative; box-sizing: bor=
+der-box; font-family: Helvetica, Arial, sans-serif !important;"/> <!-- &nbs=
+p; <!-- ################################################### FOOTER ########=
+######################################### --> <table align=3D"center" bgcol=
+or=3D"#fff" cellspacing=3D"0" style=3D"background:#ffffff; border-collapse:=
+collapse; border-spacing:0; box-sizing:border-box; font-family:helvetica,ar=
+ial,sans-serif !important; padding:35px 0 0; position:relative; text-align:=
+left; vertical-align:top; width:100%" class=3D"footer w-grey w-inner wrappe=
+r"> <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font-family:=
+Helvetica,Arial,sans-serif !important; padding:0; position:relative; text-a=
+lign:left; vertical-align:top"> <td align=3D"left" style=3D"-moz-hyphens:no=
+ne; -webkit-hyphens:none; border-collapse:collapse !important; box-sizing:b=
+order-box; color:#0a0a0a; font-family:Helvetica,Arial,sans-serif !important=
+; font-size:16px; font-weight:normal; hyphens:none; line-height:130%; margi=
+n:0; padding:35px 0 36px; position:relative; text-align:left; vertical-alig=
+n:top; word-wrap:break-word" class=3D"wrapper-inner"> <table cellspacing=3D=
+"0" style=3D"align-items:center; border-collapse:collapse; border-spacing:0=
+; box-sizing:border-box; display:table; font-family:helvetica,arial,sans-se=
+rif !important; margin:0 auto; padding:0; position:relative; text-align:lef=
+t; vertical-align:top; width:80% !important" class=3D"row w-80"> <tbody sty=
+le=3D"position: relative; box-sizing: border-box; font-family: Helvetica, A=
+rial, sans-serif !important;"> <tr align=3D"left" style=3D"box-sizing:borde=
+r-box; font-family:Helvetica,Arial,sans-serif !important; padding:0; positi=
+on:relative; text-align:left; vertical-align:top"> <th align=3D"left" style=
+=3D"width: 684px; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif=
+ !important; font-weight: normal; text-align: left; line-height: 130%; font=
+-size: 16px; position: relative; box-sizing: border-box; margin: 0 auto; pa=
+dding: 0 16px 16px;" class=3D"small-12 large-12 columns first last"> <table=
+ cellspacing=3D"0" style=3D"border-collapse:collapse; border-spacing:0; box=
+-sizing:border-box; font-family:helvetica,arial,sans-serif !important; padd=
+ing:0; position:relative; text-align:left; vertical-align:top; width:100%">=
+ <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font-family:Hel=
+vetica,Arial,sans-serif !important; padding:0; position:relative; text-alig=
+n:left; vertical-align:top"> <th align=3D"left" style=3D"color: #0a0a0a; fo=
+nt-family: Helvetica, Arial, sans-serif !important; font-weight: normal; te=
+xt-align: left; line-height: 130%; font-size: 16px; position: relative; box=
+-sizing: border-box; margin: 0; padding: 0;"> <p align=3D"center" style=3D"=
+color: #A1A4AA; font-family: Helvetica, Arial, sans-serif !important; font-=
+weight: normal; text-align: center; line-height: 16px; font-size: 11px; pos=
+ition: relative; box-sizing: border-box; margin: 0 0 20px; padding: 0;" cla=
+ss=3D"text-footer spacing-large">Voc=C3=AA registrou <a style=3D"color:#A1A=
+4AA;" href=3D"construlista@construlista.com.br">construlista@construlista.c=
+om.br</a>. <a style=3D"text-decoration:underline;color: #A1A4AA;" href=3D"h=
+ttps://connect.asana.com/e/encryptedConfirmUnsubscribe=3F_r=3D8cb45ebcfb7c4=
+c8189af4a5ff6ca1a98&_s=3Db101009aff654bf5b04604267b1d4178&_t=3D_aOmS2VKPO2W=
+krLXtPE0WsR9HOsGggomVWnaFYvqrtQrZjMhGRgCS-LWVtjx11Xdj1WWnPMbyxyE5QvIf8owwu5=
+EizUU5jhTAKPxn1zDtha1SNDe8wz2Lckg2gxIsNfnn_K4bvWeonkaOSW964lhoc_n4PGxyn-R3_=
+At6x1sc_x3C2YlzkZ7rLRP_B1zcnyNNOIRZ7P-PBS2v8rI_G7rzXfW4T0jsWGSQ8nA5CpLGGvTe=
+LtQAmJJ0VDjhJFp2DHs">Cancelar inscri=C3=A7=C3=A3o</a>.<br/> <br/> 1550 Brya=
+nt Street, San Francisco, CA 94103</p> </th> <th align=3D"left" style=3D"vi=
+sibility: hidden; width: 0; color: #0a0a0a; font-family: Helvetica, Arial, =
+sans-serif !important; font-weight: normal; text-align: left; line-height: =
+130%; font-size: 16px; position: relative; box-sizing: border-box; margin: =
+0; padding: 0;" class=3D"expander"></th> </tr> </tbody> </table> </th> </tr=
+> </tbody> </table> </td> </tr> </tbody> </table> <table align=3D"center" b=
+gcolor=3D"#fff" cellspacing=3D"0" style=3D"background:#ffffff; border-colla=
+pse:collapse; border-spacing:0; box-sizing:border-box; font-family:helvetic=
+a,arial,sans-serif !important; padding:35px 0 0; position:relative; text-al=
+ign:left; vertical-align:top; width:100%" class=3D"footer w-grey w-inner wr=
+apper"> <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font-fam=
+ily:Helvetica,Arial,sans-serif !important; padding:0; position:relative; te=
+xt-align:left; vertical-align:top"> <td align=3D"left" style=3D"-moz-hyphen=
+s:none; -webkit-hyphens:none; border-collapse:collapse !important; box-sizi=
+ng:border-box; color:#0a0a0a; font-family:Helvetica,Arial,sans-serif !impor=
+tant; font-size:16px; font-weight:normal; hyphens:none; line-height:130%; m=
+argin:0; padding:10px 0 36px; position:relative; text-align:left; vertical-=
+align:top; word-wrap:break-word" class=3D"wrapper-inner"> <table cellspacin=
+g=3D"0" style=3D"align-items:center; border-collapse:collapse; border-spaci=
+ng:0; box-sizing:border-box; display:table; font-family:helvetica,arial,san=
+s-serif !important; padding:0; position:relative; text-align:left; vertical=
+-align:top; width:100%" class=3D"row"> <tbody style=3D"position: relative; =
+box-sizing: border-box; font-family: Helvetica, Arial, sans-serif !importan=
+t;"> <tr align=3D"left" style=3D"box-sizing:border-box; font-family:Helveti=
+ca,Arial,sans-serif !important; padding:0; position:relative; text-align:le=
+ft; vertical-align:top"> <th align=3D"left" style=3D"width: 217.33333px; co=
+lor: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-we=
+ight: normal; text-align: left; line-height: 130%; font-size: 16px; positio=
+n: relative; box-sizing: border-box; margin: 0 auto; padding: 0 8px 16px 16=
+px;" class=3D"small-4 large-4 columns first"> <table cellspacing=3D"0" styl=
+e=3D"border-collapse:collapse; border-spacing:0; box-sizing:border-box; fon=
+t-family:helvetica,arial,sans-serif !important; padding:0; position:relativ=
+e; text-align:left; vertical-align:top; width:100%"> <tbody> <tr align=3D"l=
+eft" style=3D"box-sizing:border-box; font-family:Helvetica,Arial,sans-serif=
+ !important; padding:0; position:relative; text-align:left; vertical-align:=
+top"> <th align=3D"left" style=3D"color: #0a0a0a; font-family: Helvetica, A=
+rial, sans-serif !important; font-weight: normal; text-align: left; line-he=
+ight: 130%; font-size: 16px; position: relative; box-sizing: border-box; ma=
+rgin: 0; padding: 0;"> </th> </tr> </tbody> </table> </th> <th align=3D"lef=
+t" style=3D"width: 100.66667px; color: #0a0a0a; font-family: Helvetica, Ari=
+al, sans-serif !important; font-weight: normal; text-align: left; line-heig=
+ht: 130%; font-size: 16px; position: relative; box-sizing: border-box; marg=
+in: 0 auto; padding: 0 8px 16px;" class=3D"center-img small-2 large-2 colum=
+ns"> <table cellspacing=3D"0" style=3D"border-collapse:collapse; border-spa=
+cing:0; box-sizing:border-box; font-family:helvetica,arial,sans-serif !impo=
+rtant; padding:0; position:relative; text-align:left; vertical-align:top; w=
+idth:100%"> <tbody> <tr align=3D"left" style=3D"box-sizing:border-box; font=
+-family:Helvetica,Arial,sans-serif !important; padding:0; position:relative=
+; text-align:left; vertical-align:top"> <th align=3D"center" style=3D"color=
+: #0a0a0a; font-family: Helvetica, Arial, sans-serif !important; font-weigh=
+t: normal; text-align: center; line-height: 130%; font-size: 16px; position=
+: relative; box-sizing: border-box; margin: 0; padding: 0;"><a style=3D" fo=
+nt-family: Helvetica, Arial, sans-serif !important; font-weight: normal; te=
+xt-align: left; line-height: 130%; position: relative; box-sizing: border-b=
+ox; padding: 0;color: #2199e8;" href=3D"https://connect.asana.com/u/click=
+=3F_t=3D8cb45ebcfb7c4c8189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4=
+178&_e=3DNEf_JtKyed5tavR_AYphb0nEaJNpsj-hLeVwWoPXumxsFYculp5-cddLR4fZ2Pfkqp=
+569MxOgCT4IVJlXchLywrhHcefTtghZ5EZrQNvikl_iBsyt97r90gtH9bCemgaUsvsC0v0g0Vuf=
+qqTCeTxWGm30E1MQSUMWnJ0agTmQV_8TpNaWLSkQRaIGeE4dyTlbXelLVsIOz6yAsPQ6Ml0TrpF=
+i1OIaHt5InOlWj16jMvlsurMe4Nb1VEbIMgFnxpZ26hHNP8j9o0q40oOnzd6lDvxw8Xp7z6Uy6F=
+gmGFThUGRnSw3elAgnfp5TvqPmI5A7BmJwZ77LHRZmZ0uS8HwrA%3D%3D"><img alt=3D"Link=
+ to Asana's Facebook'" style=3D"box-sizing: border-box; clear: both; displa=
+y: inline-block; margin: 0px auto; max-width: 100%; outline: none; position=
+: relative; text-align: center; text-decoration: none; font-family: helveti=
+ca, arial, sans-serif !important;" class=3D"float-center img-footer" src=3D=
+"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b=
+6a-46bb-bd7e-c542cff6dd6a/0787efa0fd7c4f6592eaa6bd406f389d/e6a544.png"/></a=
+> </th> </tr> </tbody> </table> </th> <th align=3D"left" style=3D"width: 10=
+0.66667px; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !impor=
+tant; font-weight: normal; text-align: left; line-height: 130%; font-size: =
+16px; position: relative; box-sizing: border-box; margin: 0 auto; padding: =
+0 8px 16px;" class=3D"center-img small-2 large-2 columns"> <table cellspaci=
+ng=3D"0" style=3D"border-collapse:collapse; border-spacing:0; box-sizing:bo=
+rder-box; font-family:helvetica,arial,sans-serif !important; padding:0; pos=
+ition:relative; text-align:left; vertical-align:top; width:100%"> <tbody> <=
+tr align=3D"left" style=3D"box-sizing:border-box; font-family:Helvetica,Ari=
+al,sans-serif !important; padding:0; position:relative; text-align:left; ve=
+rtical-align:top"> <th align=3D"center" style=3D"color: #0a0a0a; font-famil=
+y: Helvetica, Arial, sans-serif !important; font-weight: normal; text-align=
+: center; line-height: 130%; font-size: 16px; position: relative; box-sizin=
+g: border-box; margin: 0; padding: 0;"><a style=3D" font-family: Helvetica,=
+ Arial, sans-serif !important; font-weight: normal; text-align: left; line-=
+height: 130%; position: relative; box-sizing: border-box; padding: 0;color:=
+ #2199e8;" href=3D"https://connect.asana.com/u/click=3F_t=3D8cb45ebcfb7c4c8=
+189af4a5ff6ca1a98&_m=3Db101009aff654bf5b04604267b1d4178&_e=3DNEf_JtKyed5tav=
+R_AYphbzkmesfgy1lsQujeywQERP_Wyo8FMi35PBqnYbELOi45iUVje2V1Roq_sE7IaUupoDtNC=
+mgTnigeBc8qPX56DbAa1hrPJIEenVYimVPKvyiJXZb0SexofZFO3IP-Iq5GTbwrD-SN0ZYeaw-4=
+KVB9m4IFs7iVIv8y9SxfhnxZe5cG8KaWrZe1LaKQn1O0zyxufodpJjigjD0dF6blkqVsCiXtG_Z=
+G9E6-IxZu0Yj-ESDpxgwMUhin7CTjMUTj04QeEGR1wSuCIsyUdiX1cr8X0eEhi4LEyDfFq1M73X=
+YR5rsNgXzzSBmyIj0tFvFAJEETgpZqSeq5-38mOB_FQAdK_xWqGtUtNQknhlu7a1l06-S_xVhG0=
+ZIcVPocFCplkRn3xQ%3D%3D"><img alt=3D"Link to Asana's Twitter" style=3D"box-=
+sizing: border-box; clear: both; display: inline-block; margin: 0px auto; m=
+ax-width: 100%; outline: none; position: relative; text-align: center; text=
+-decoration: none; font-family: helvetica, arial, sans-serif !important;" c=
+lass=3D"float-center img-footer" src=3D"https://d15k2d11r6t6rl.cloudfront.n=
+et/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/0787efa0fd=
+7c4f6592eaa6bd406f389d/58de78.png"/></a><a style=3D"color: #2199e8; text-de=
+coration: none; font-family: Helvetica, Arial, sans-serif !important; font-=
+weight: normal; text-align: left; line-height: 130%; position: relative; bo=
+x-sizing: border-box; padding: 0;"> </a> </th> </tr> </tbody> </table> </th=
+> <th align=3D"left" style=3D"width: 217.33333px; color: #0a0a0a; font-fami=
+ly: Helvetica, Arial, sans-serif !important; font-weight: normal; text-alig=
+n: left; line-height: 130%; font-size: 16px; position: relative; box-sizing=
+: border-box; margin: 0 auto; padding: 0 16px 16px 8px;" class=3D"small-4 l=
+arge-4 columns last"> <table cellspacing=3D"0" style=3D"border-collapse:col=
+lapse; border-spacing:0; box-sizing:border-box; font-family:helvetica,arial=
+,sans-serif !important; padding:0; position:relative; text-align:left; vert=
+ical-align:top; width:100%"> <tbody> <tr align=3D"left" style=3D"box-sizing=
+:border-box; font-family:Helvetica,Arial,sans-serif !important; padding:0; =
+position:relative; text-align:left; vertical-align:top"> <th align=3D"left"=
+ style=3D"color: #0a0a0a; font-family: Helvetica, Arial, sans-serif !import=
+ant; font-weight: normal; text-align: left; line-height: 130%; font-size: 1=
+6px; position: relative; box-sizing: border-box; margin: 0; padding: 0;"> <=
+/th> </tr> </tbody> </table> </th> </tr> </tbody> </table> </td> </tr> </tb=
+ody> </table> </td> </tr> </tbody> </table> =0D=0A<img border=3D"0" width=
+=3D"1" height=3D"1" alt=3D"" src=3D"http://post.spmailtechnol.com/q/spDSkyr=
+3Gs-7aHy9nfY39w~~/AANUOwA~/RgReWruMPlcDc3BjQgoAIIw2eFzHjJn9UiBjb25zdHJ1bGlz=
+dGFAY29uc3RydWxpc3RhLmNvbS5iclgEAAAAAA~~">=0D=0A</body> </html>
+--_----fTki/6mwdeOPutFQbzG3mA===_48/DF-36039-C86387C5--
+

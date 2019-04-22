@@ -1,0 +1,2266 @@
+Return-Path: <bounces+919415-7062-construlista=construlista.com.br@email.notifications.workana.com>
+X-Original-To: construlista@construlista.com.br
+Delivered-To: construlista@construlista.com.br
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by construlista.com.br (Postfix) with ESMTP id 1FBA62F5
+	for <construlista@construlista.com.br>; Thu, 14 Mar 2019 22:16:39 +0000 (UTC)
+X-Virus-Scanned: Debian amavisd-new at usve264997.serverprofi24.com
+Received: from construlista.com.br ([127.0.0.1])
+	by localhost (usve264997.serverprofi24.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id R2ZMaFjmA_ck for <construlista@construlista.com.br>;
+	Thu, 14 Mar 2019 22:16:30 +0000 (UTC)
+Received: from o1.email.notifications.workana.com (o1.email.notifications.workana.com [50.31.46.126])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by construlista.com.br (Postfix) with ESMTPS id B9F892F0
+	for <construlista@construlista.com.br>; Thu, 14 Mar 2019 22:16:30 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=email.notifications.workana.com; 
+	h=content-type:from:mime-version:reply-to:subject:to; s=smtpapi; 
+	bh=Is7KjEXU3bHbRaJz3aRc1pvSY7Y=; b=hfnROPVTlup7pFwWn1DBp3drw+7Ts
+	sa3kQ/5w2vP0HHBLjaYn8lBOH4wshls37Uq8jTfBiqEK+VQ1nXKF7o7eynA/k2fC
+	545T9VpHyG4zD4rCt31uz/sJaLwDosmUkzN6YNto+VfIozYxXYT84wRZpnZvihzR
+	vVCfMRhGrdDlvs=
+Received: by filter1609p1mdw1.sendgrid.net with SMTP id filter1609p1mdw1-4341-5C8A5FDE-4C
+        2019-03-14 14:06:22.756398289 +0000 UTC m=+224912.874541261
+Received: from localhost (1.worker.customeriomail.com [104.154.232.87])
+	by ismtpd0039p1iad1.sendgrid.net (SG) with ESMTP id PHfprP2KR6-eCjy4lfx0XQ
+	for <construlista@construlista.com.br>; Thu, 14 Mar 2019 14:06:22.554 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="7438897087bf4657a889579c8cc4699c6e8078581e1c515987d896aea921"; charset="utf-8"
+Date: Thu, 14 Mar 2019 14:06:22 +0000 (UTC)
+From: "Guillermo Bracciaforte" <hola@workana.com>
+Message-Id: <RPEyAwABaXyA5ccEaYNPPwQqwCvj.1552572382@workana.com>
+Mime-Version: 1.0
+Reply-To: "Equipo Workana" <noreply-es@workana.com>
+Subject: Saiba como obter os melhores resultados trabalhando com freelancers
+To: <construlista@construlista.com.br>
+X-Mailer: Customer.io (RPEyAwABaXyA5ccEaYNPPwQqwCvj; +https://whatis.customeriomail.com)
+X-Report-Abuse-To: badactor@customer.io
+X-SG-EID: aDfxDd5iagqbMh/CHC3MGvDeGQvIHlrg6ExLKqvTYRsWnCqa9p7mnq7LU2eM00OXCdwcphdpJgpQMi
+ cv3Oj4M5IjqN6OETgF4wlmkUZUuteKDg4JZeIajHbZnwQ/gvfcLdOB/MMmZNHP8oC/eudBfVOokFI3
+ 65aPJvTwjoyqy2UWGxG0+S5U6bPdLSBbqBWmzfmJbh2rrQ/K2fgpYpk2LvUhyoV4s9LgGrkkQ6uysd
+ nJ9/P7KTRBQuiUjcisZ6Du
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZuwFBFUnJJm5LpWYxVYDTfL3Oj07pwbrQb6clQoZzDEfPh2frdF9b1mHYe
+ UJ4lUQDg==
+
+--7438897087bf4657a889579c8cc4699c6e8078581e1c515987d896aea921
+Content-Id: text/plain.RPEyAwABaXyA5ccEaYNPPwQqwCvj.1552572382@workana.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Date: Thu, 14 Mar 2019 14:06:22 +0000
+Mime-Version: 1.0
+
+( http://www.workana.com?utm_source=3Dcustomerio&utm_medium=3Demail&utm_cam=
+paign=3DOnboarding_Lead20&utm_content=3DWorkanaLogo )
+
+15 conselhos para obter melhores
+resultados trabalhando com freelancers da Workana
+-------------------------------------------------
+
+( https://www.workana.com/blog/pt/emprendimientopt/como-obter-melhores-resu=
+ltados-com-freelancers-da-workana/?utm_source=3DCustomerIO&utm_medium=3Dema=
+il&utm_campaign=3DWeek1119_LeadClient )
+Muito provavelmente voc=C3=AA j=C3=A1 saiba e conhe=C3=A7a as vantagens de =
+se trabalhar com freelancers. Uma grande quantidade de empresas est=C3=A3o =
+confiando seus projetos para estes profissionais com a finalidade de alcan=
+=C3=A7ar o sucesso.
+Hoje vamos te dar 15 conselhos para que voc=C3=AA possa desfrutar dos benef=
+=C3=ADcios da contrata=C3=A7=C3=A3o freelancer e obter os melhores resultad=
+os.
+
+Leia mais ( https://www.workana.com/blog/pt/emprendimientopt/como-obter-mel=
+hores-resultados-com-freelancers-da-workana/?utm_source=3DCustomerIO&utm_me=
+dium=3Demail&utm_campaign=3DWeek1119_LeadClient )
+
+Te apresentando algumas mulheres
+de destaque na Workana!
+--------------------------------
+
+( https://www.workana.com/blog/pt/emprendimientopt/conheca-algumas-mulheres=
+-freelancers-de-destaque-na-workana/?utm_source=3DCustomerIO&utm_medium=3De=
+mail&utm_campaign=3DWeek1119_LeadClient )
+Neste m=C3=AAs da mulher, queremos que voc=C3=AA conhe=C3=A7a as mulheres p=
+rofissionais melhor ranqueadas em nossa plataforma. A quantidade de projeto=
+s conclu=C3=ADdos, as avalia=C3=A7=C3=B5es de seus clientes e o n=C3=ADvel =
+que cada uma delas j=C3=A1 alcan=C3=A7ou s=C3=A3o provas infal=C3=ADveis da=
+ excel=C3=AAncia de cada uma delas. Est=C3=A1 pronto para conhec=C3=AA-las =
+e contrat=C3=A1-las?
+
+Leia mais ( https://www.workana.com/blog/pt/emprendimientopt/conheca-alguma=
+s-mulheres-freelancers-de-destaque-na-workana/?utm_source=3DCustomerIO&utm_=
+medium=3Demail&utm_campaign=3DWeek1119_LeadClient )
+
+Lan=C3=A7amento de nova se=C3=A7=C3=A3o chamada Minha Equipe!
+-------------------------------------------------
+
+( https://www.workana.com/myteam/?utm_source=3DCustomerIO&utm_medium=3Demai=
+l&utm_campaign=3DWeek1119_LeadClient )
+Muitas vezes =C3=A9 melhor trabalhar com algu=C3=A9m com quem voc=C3=AA j=
+=C3=A1 trabalhou e que voc=C3=AA j=C3=A1 conhece ao inv=C3=A9s de contratar=
+ algu=C3=A9m novo.
+
+Sabemos que para isso, =C3=A9 importante poder acessar de forma f=C3=A1cil =
+a lista de seus freelancers.
+
+Agora na Workana voc=C3=AA j=C3=A1 pode ver todos eles na nova se=C3=A7=C3=
+=A3o chamada Minha Equipe! L=C3=A1 voc=C3=AA poder=C3=A1 enxergar todos os =
+freelancers com quem voc=C3=AA j=C3=A1 trabalhou, seus freelancers favorito=
+s e acess=C3=A1-los facilmente para voltar a contrat=C3=A1-los!
+
+QUERO VOLTAR A TRABALHAR COM MEUS FREELANCERS ( https://www.workana.com/myt=
+eam/?utm_source=3DCustomerIO&utm_medium=3Demail&utm_campaign=3DWeek1119_Lea=
+dClient )
+
+LinkedIn ( https://www.linkedin.com/company/workana?utm_source=3DCustomerIO=
+&utm_medium=3Demail&utm_campaign=3DWeek0719_Potentials )
+
+Siga-nos no LinkedIn
+--------------------
+
+( https://www.linkedin.com/company/workana?utm_source=3DCustomerIO&utm_medi=
+um=3Demail&utm_campaign=3DWeek0719_Potentials )
+
+Saiba mais novidades do mundo empreendedor e as melhores dicas para fazer o=
+ seu neg=C3=B3cio crescer
+
+( https://www.linkedin.com/company/workana?utm_source=3DCustomerIO&utm_medi=
+um=3Demail&utm_campaign=3DWeek0719_Potentials )
+
+( http://www.workana.com )
+
+=C2=A9 2012 - 2019 | Workana
+
+( https://twitter.com/workanabr )
+
+( https://www.facebook.com/workanabrasil/ )
+
+( https://www.instagram.com/workanabr/ )
+
+Feito com amor e talento pelos freelancers da Am=C3=A9rica Latina.
+
+Voc=C3=AA n=C3=A3o quer receber estes e-mails? Modifique as suas notifica=
+=C3=A7=C3=B5es ( https://www.workana.com/account?#notifications?utm_source=
+=3Dcustomerio&utm_medium=3Demail&utm_campaign=3DOnboarding_Lead20&utm_conte=
+nt=3DUnsubscribe )=
+
+--7438897087bf4657a889579c8cc4699c6e8078581e1c515987d896aea921
+Content-Id: text/html.RPEyAwABaXyA5ccEaYNPPwQqwCvj.1552572382@workana.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Date: Thu, 14 Mar 2019 14:06:22 +0000
+Mime-Version: 1.0
+
+<!DOCTYPE html><!-- Use mcnImageBlockOuter for img on tbody container --><h=
+tml xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft=
+-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+      <!-- NAME: CUTOUT -->
+        <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset=3D"UTF-8"/>
+         <meta content=3D"telephone=3Dno" name=3D"format-detection"/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0"/>
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"/>
+  <meta name=3D"x-apple-disable-message-reformatting"/>
+    <title>Workana - Milhares de freelancers prontos para come=C3=A7ar a tr=
+abalhar no seu projeto</title>
+
+    <style type=3D"text/css">
+      @import url('https://fonts.googleapis.com/css?family=3DOpen+Sans');
+    p{
+      margin:10px 0;
+      padding:0;
+    }
+    table{
+      border-collapse:collapse;
+    }
+    h1,h2,h3,h4,h5,h6{
+      display:block;
+      margin:0;
+      padding:10px 0px;
+      text-transform: none;
+    }
+    img,a img{
+      border:0;
+      height:auto;
+      outline:none;
+      text-decoration:none;
+    }
+    body,#bodyTable,#bodyCell{
+      height:100%;
+      margin:0;
+      padding:0;
+      width:100%;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+    }
+    .mcnPreviewText{
+      display:none !important;
+    }
+    #outlook a{
+      padding:0;
+    }
+    img{
+      -ms-interpolation-mode:bicubic;
+    }
+    table{
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+    }
+    .ReadMsgBody{
+      width:100%;
+    }
+    .ExternalClass{
+      width:100%;
+    }
+    p,a,li,td,blockquote{
+      mso-line-height-rule:exactly;
+    }
+    a[href^=3Dtel],a[href^=3Dsms]{
+      color:inherit;
+      cursor:default;
+      text-decoration:none;
+    }
+    p,a,li,td,body,table,blockquote{
+      -ms-text-size-adjust:100%;
+      -webkit-text-size-adjust:100%;
+    }
+    .ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.E=
+xternalClass span,.ExternalClass font{
+      line-height:100%;
+    }
+    a[x-apple-data-detectors]{
+      color:inherit !important;
+      text-decoration:none !important;
+      font-size:inherit !important;
+      font-family:inherit !important;
+      font-weight:inherit !important;
+      line-height:inherit !important;
+    }
+    a.mcnButton{
+      display:block;
+    }
+    .mcnImage{
+      vertical-align:bottom;
+    }
+    .mcnTextContent{
+      word-break:break-word;
+    }
+    .mcnTextContent img{
+      height:auto !important;
+    }
+    .mcnDividerBlock{
+      table-layout:fixed !important;
+    }
+    .templateContainerBody {
+      background-color: #FFFFFF;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .mcnButtonBlockInner a{
+      color: #FFFFFF;
+    }
+  /*
+  @tab Page
+  @section background style
+  @tip Set the background color and top border for your email. You may want=
+ to choose colors that match your company's branding.
+  */
+    body,#bodyTable{
+      /*@editable*/background-color:#EFEFEF;
+    }
+    #templateFooter{
+      /*@editable*/background-color:transparent;
+    }
+  /*
+  @tab Page
+  @section background style
+  @tip Set the background color and top border for your email. You may want=
+ to choose colors that match your company's branding.
+  */
+    #bodyCell{
+      /*@editable*/border-top:0;
+    }
+  /*
+  @tab Page
+  @section heading 1
+  @tip Set the styling for all first-level headings in your emails. These s=
+hould be the largest of your headings.
+  @style heading 1
+  */
+    h1{
+      /*@editable*/color:#4A4A4A !important;
+      display:block;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:26px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:400;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Page
+  @section heading 2
+  @tip Set the styling for all second-level headings in your emails.
+  @style heading 2
+  */
+    h2{
+      /*@editable*/color:#4A4A4A !important;
+      display:block;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:22px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:400;
+      /*@editable*/line-height:150%;
+      /*@editable*/letter-spacing:normal;
+      text-transform: none;
+      margin:0;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Page
+  @section heading 3
+  @tip Set the styling for all third-level headings in your emails.
+  @style heading 3
+  */
+    h3{
+      /*@editable*/color:#4A4A4A !important;
+      display:block;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:18px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:400;
+      /*@editable*/line-height:150%;
+      /*@editable*/letter-spacing:-.5px;
+      margin:0;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Page
+  @section heading 4
+  @tip Set the styling for all fourth-level headings in your emails. These =
+should be the smallest of your headings.
+  @style heading 4
+  */
+    h4{
+      /*@editable*/color:#4A4A4A !important;
+      display:block;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:14px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:100%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Preheader
+  @section preheader style
+  @tip Set the background color and borders for your email's preheader area.
+  */
+    #templatePreheader{
+      /*@editable*/background-color:transparent;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+    }
+  /*
+  @tab Preheader
+  @section preheader text
+  @tip Set the styling for your email's preheader text. Choose a size and c=
+olor that is easy to read.
+  */
+    .preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent=
+ p{
+      /*@editable*/color:#808080;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Preheader
+  @section preheader link
+  @tip Set the styling for your email's header links. Choose a color that h=
+elps them stand out from your text.
+  */
+    .preheaderContainer .mcnTextContent a{
+      /*@editable*/color:#FFFFFF;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  /*
+  @tab Header
+  @section header style
+  @tip Set the background color and borders for your email's header area.
+  */
+    #templateHeader{
+      /*@editable*/background-color:#FFFFFF;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+    }
+  /*
+  @tab Header
+  @section header text
+  @tip Set the styling for your email's header text. Choose a size and colo=
+r that is easy to read.
+  */
+    .headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+      /*@editable*/color:#404040;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:13px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Header
+  @section header link
+  @tip Set the styling for your email's header links. Choose a color that h=
+elps them stand out from your text.
+  */
+    .headerContainer .mcnTextContent a{
+      /*@editable*/color:#2F9AEE;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  /*
+  @tab Body
+  @section body style
+  @tip Set the background color and borders for your email's body area.
+  */
+    #templateBody{
+      /*@editable*/background-color:#EFEFEF;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+    }
+  /*
+  @tab Body
+  @section body container
+  @tip Set the styling for your email's body container. Choose a size and c=
+olor that is easy to read.
+  */
+    #bodyBlock{
+      /*@editable*/background-color:#FFFFFF;
+      border-radius: 3px;
+    }
+  /*
+  @tab Body
+  @section body text
+  @tip Set the styling for your email's body text. Choose a size and color =
+that is easy to read.
+  */
+    .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+      /*@editable*/color:#404040;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:13px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Body
+  @section body link
+  @tip Set the styling for your email's body links. Choose a color that hel=
+ps them stand out from your text.
+  */
+    .bodyContainer .mcnTextContent a{
+      /*@editable*/color:#2F9AEE;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  /*
+  @tab Columns
+  @section column style
+  @tip Set the background color and borders for your email's columns area.
+  */
+    #templateColumns{
+      /*@editable*/background-color:transparent;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+    }
+  /*
+  @tab Columns
+  @section left column text
+  @tip Set the styling for your email's left column text. Choose a size and=
+ color that is easy to read.
+  */
+    .leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextConte=
+nt p{
+      /*@editable*/color:#404040;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:13px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      font-weight: normal;
+    }
+  /*
+  @tab Columns
+  @section left column link
+  @tip Set the styling for your email's left column links. Choose a color t=
+hat helps them stand out from your text.
+  */
+    .leftColumnContainer .mcnTextContent a{
+      /*@editable*/color:#253556;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  /*
+  @tab Columns
+  @section right column text
+  @tip Set the styling for your email's right column text. Choose a size an=
+d color that is easy to read.
+  */
+    .rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextCon=
+tent p{
+      /*@editable*/color:#404040;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:13px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Columns
+  @section right column link
+  @tip Set the styling for your email's right column links. Choose a color =
+that helps them stand out from your text.
+  */
+    .rightColumnContainer .mcnTextContent a{
+      /*@editable*/color:#253556;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  /*
+  @tab Footer
+  @section footer style
+  @tip Set the background color and borders for your email's footer area.
+  */
+    #templateFooter{
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+    }
+  /*
+  @tab Footer
+  @section footer text
+  @tip Set the styling for your email's footer text. Choose a size and colo=
+r that is easy to read.
+  */
+    .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+      /*@editable*/color:#686868;
+      /*@editable*/font-family: Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:13px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+    }
+  /*
+  @tab Footer
+  @section footer link
+  @tip Set the styling for your email's footer links. Choose a color that h=
+elps them stand out from your text.
+  */
+    .footerContainer .mcnTextContent a{
+      /*@editable*/color:#AAAAAA;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+    }
+  @media only screen and (max-width: 600px){
+    body,table,td,p,a,li,blockquote{
+      -webkit-text-size-adjust:none !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    body{
+      width:100% !important;
+      min-width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .templateContainer{
+      max-width:600px !important;
+      width:100% !important;
+    }
+    .templateContainerBody{
+      max-width:600px !important;
+      width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .columnsContainer{
+      display:block!important;
+      max-width:600px !important;
+      padding-bottom:18px !important;
+      padding-left:0 !important;
+      width:100%!important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImage{
+      height:auto !important;
+      width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCap=
+tionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.m=
+cnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptio=
+nRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaption=
+RightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageC=
+ardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnIma=
+geCardRightImageContentContainer{
+      max-width:100% !important;
+      width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnBoxedTextContentContainer{
+      min-width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageGroupContent{
+      padding:9px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOute=
+r .mcnTextContent{
+      padding-top:9px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCa=
+ptionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-ch=
+ild .mcnTextContent{
+      padding-top:18px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageCardBottomImageContent{
+      padding-bottom:9px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageGroupBlockInner{
+      padding-top:0 !important;
+      padding-bottom:0 !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageGroupBlockOuter{
+      padding-top:9px !important;
+      padding-bottom:9px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnTextContent,.mcnBoxedTextContentColumn{
+      padding-right:18px !important;
+      padding-left:18px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+      padding-right:18px !important;
+      padding-bottom:0 !important;
+      padding-left:18px !important;
+    }
+
+} @media only screen and (max-width: 600px){
+    .mcpreview-image-uploader{
+      display:none !important;
+      width:100% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section heading 1
+  @tip Make the first-level headings larger in size for better readability =
+on small screens.
+  */
+    h1{
+      /*@editable*/font-size:24px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section heading 2
+  @tip Make the second-level headings larger in size for better readability=
+ on small screens.
+  */
+    h2{
+      /*@editable*/font-size:20px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section heading 3
+  @tip Make the third-level headings larger in size for better readability =
+on small screens.
+  */
+    h3{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section heading 4
+  @tip Make the fourth-level headings larger in size for better readability=
+ on small screens.
+  */
+    h4{
+      /*@editable*/font-size:16px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Boxed Text
+  @tip Make the boxed text larger in size for better readability on small s=
+creens. We recommend a font size of at least 16px.
+  */
+    .mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentConta=
+iner .mcnTextContent p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Preheader Visibility
+  @tip Set the visibility of the email's preheader on small screens. You ca=
+n hide it to save space.
+  */
+    #templatePreheader{
+      /*@editable*/display:block !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Preheader Text
+  @tip Make the preheader text larger in size for better readability on sma=
+ll screens.
+  */
+    .preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent=
+ p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Header Text
+  @tip Make the header text larger in size for better readability on small =
+screens.
+  */
+    .headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Body Text
+  @tip Make the body text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+  */
+    .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+      /*@editable*/font-size:13px !important;
+      /*@editable*/line-height:125% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Left Column Text
+  @tip Make the left column text larger in size for better readability on s=
+mall screens. We recommend a font size of at least 16px.
+  */
+    .leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextConte=
+nt p{
+      /*@editable*/font-size:13px !important;
+      /*@editable*/line-height:150% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section Right Column Text
+  @tip Make the right column text larger in size for better readability on =
+small screens. We recommend a font size of at least 16px.
+  */
+    .rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextCon=
+tent p{
+      /*@editable*/font-size:13px !important;
+      /*@editable*/line-height:150% !important;
+    }
+
+} @media only screen and (max-width: 600px){
+  /*
+  @tab Mobile Styles
+  @section footer text
+  @tip Make the body content text larger in size for better readability on =
+small screens.
+  */
+    .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+      /*@editable*/font-size:12px !important;
+      /*@editable*/line-height:145% !important;
+    }
+
+}
+.bidBlock {
+  padding: 18px;
+  max-width: 600px;
+}@media only screen and (max-width: 600px){
+    .bidBlock{
+      /*@editable*/padding:0px 0px 18px 0px !important;
+    }
+
+}
+.blue {
+  background-color: #2F9AEE;
+  color: #FFFFFF;
+}
+.blue h1,
+.blue h2,
+.blue h3,
+.blue h4,
+.blue h5{
+  color: #FFFFFF !important;
+}
+.leftColumnContainer .blue  .mcnTextContent,
+.leftColumnContainer .blue  .mcnTextContent p,
+.rightColumnContainer .blue  .mcnTextContent,
+.rightColumnContainer .blue  .mcnTextContent p{
+  color: #FFFFFF;
+}
+.leftColumnContainer .blue  .mcnTextContent a,
+.rightColumnContainer .blue  .mcnTextContent a{
+  text-decoration: underline;
+  color: #253556;
+}
+.blueDark {
+  background-color: #253556;
+  color: #FFFFFF;
+}
+.blueDark h1,
+.blueDark h2,
+.blueDark h3,
+.blueDark h4,
+.blueDark h5{
+  color: #FFFFFF !important;
+}
+.blueDark  .mcnTextContent,
+.blueDark  .mcnTextContent p,
+.blueDark  .mcnTextContent,
+.blueDark  .mcnTextContent p{
+  color: #FFFFFF;
+  font-size: 13px;
+}
+.blueDark  .mcnTextContent a,
+.blueDark  .mcnTextContent a{
+  text-decoration: underline;
+  color: #2F9AEE;
+}
+</style>
+</head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"height: 100%; width: 100%; font-family: Arial,=
+ Helvetica, sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%; background-color: #EFEFEF; margin: 0; padding: 0;" bgcolor=3D"#EFE=
+FEF">
+        <!--*|IF:MC_PREVIEW_TEXT|*-->
+        <!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"=
+display: none !important; font-size: 0px; line-height: 0px; max-height: 0px=
+; max-width: 0px; opacity: 0; overflow: hidden; visibility: hidden; mso-hid=
+e: all;"></span><!--<![endif]-->
+        <!--*|END:IF|*-->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border-c=
+ollapse: collapse; height: 100%; width: 100%; font-family: Arial, Helvetica=
+, sans-serif; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; background-color: #EFEFEF; mar=
+gin: 0; padding: 0;" bgcolor=3D"#EFEFEF">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" sty=
+le=3D"height: 100%; width: 100%; font-family: Arial, Helvetica, sans-serif;=
+ mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%; border-top-width: 0; margin: 0; padding: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding-bottom: 10px; mso-line-height-rule: exactly; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"border-co=
+llapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: transpar=
+ent; border-top-width: 0; border-bottom-width: 0;" bgcolor=3D"transparent">
+                                        <tbody><tr>
+                                          <td align=3D"center" valign=3D"to=
+p" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" styl=
+e=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                    <tbody><tr>
+                                                        <td valign=3D"top" =
+class=3D"preheaderContainer" style=3D"padding-top: 20px; padding-bottom: 0p=
+x; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 100%; border-col=
+lapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 9px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width: 100%; min-width: 100%; border-collapse: col=
+lapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextConte=
+ntContainer">
+                    <tbody>
+<tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"text-align: left; mso-line-height-rule: exactly; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; word-break: break-word; color: #80808=
+0; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height:=
+ 125%; padding: 0px 18px 9px;" align=3D"left">
+
+                            <a href=3D"http://email.notifications.workana.c=
+om/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2t=
+FRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2s=
+WJ5ycLDHyjaFdnpg5ygzh0nOCK4uIYxIKhDTktnlNYlJjxqdGy4i4XHSiTlpK16IxKhXwBUGrQ7=
+OBccv3iX8nAEAhrIn9QK29e4xhsnvx8ialw1CO-2FgHsNwPq2CTyi9Lr-2F8bKU0nI5uMTMK6YM=
+4lVvek7gwY5C8HYM34pEpUuSHiFh3q5NLRoJb0I8RxBL9QFTO30wpx738d-2FUTOUbNHgiWXOng=
+ocuPHlqFsLXJjABLMiA44ZwVimBydDd89x3hEhSKpxY7rSWmDfoF8VrUIS-2BE0JhANUw-2BzyI=
+LvD2a4vsg6n6gwZMBP9ZTceHrkW2HP1cnUpR-2BQHsDbt-2FC3R-2B8mFQV-2F8CvGP2zpgFw3Y=
+MAUvidnQGf3HuQVEOd52EmPEascK9oFgieLarOQsPvRyoa6Xw-3D-3D_zxu-2BTqkwsyvChmoPe=
+5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3Ux=
+X2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLKoPco51SLe=
+ZI9yCkeOzHdMPs2Zh6cA0BQiGfOZAnlPaXUJIkNo34ikkGq3g7-2FFOBOoPuugfXH6cdo-2FNcL=
+ayetcqwPwPR9pcBtrYtZVmq6-2Fqh6u2dmVlvo8iFOBV-2BME2DoMMjUE-2FfM9HPoohtojcizR=
+OobebwgqEXIKppTXv2RUR" target=3D"_blank" alt=3D"Workana" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; color: #FFFFFF; font-weight: normal; text-decoration: underline;">
+                              <img src=3D"https://gallery.mailchimp.com/fdd=
+b141830b67e52809a5a1c3/images/99d31b64-43c3-4225-b06b-e7683cfce07d.png" wid=
+th=3D"143" style=3D"max-width: 143px; padding-bottom: 0; display: inline !i=
+mportant; vertical-align: bottom; height: auto !important; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; border: 0;" class=3D=
+"mcnImage"/>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+</table>
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+
+
+
+                            <!-- BEGIN ELEMENT TEXT -->
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding-left: 10px; padding-right: 10px; mso-line-height-rule: exactly;=
+ -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN COLUMNS // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateColumns" style=3D"border-coll=
+apse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: transparen=
+t; border-top-width: 0; border-bottom-width: 0;" bgcolor=3D"transparent">
+                                        <tbody><tr>
+                                            <td align=3D"center" valign=3D"=
+top" style=3D"padding-top: 10px; padding-bottom: 10px; mso-line-height-rule=
+: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainerBody" =
+style=3D"background-color: #FFFFFF; padding-top: 20px; border-collapse: col=
+lapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; border-radius: 3px; overflow: hidden;=
+" bgcolor=3D"#FFFFFF">
+                                                    <tbody><tr>
+                                                        <td align=3D"left" =
+valign=3D"top" class=3D"columnsContainer" width=3D"50%" style=3D"mso-line-h=
+eight-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%;">
+                                                            <table align=3D=
+"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"templateColumn" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%;">
+                                                                <tbody><tr>
+                                                                    <td val=
+ign=3D"top" class=3D"leftColumnContainer" style=3D"padding-bottom: 0px; mso=
+-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-a=
+djust: 100%;">
+
+                                    <!-- CONTENIDO -->
+    <!-- BEGIN BODY // -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+  <!-- STANDALONE IMAGE -->
+  <tbody><tr>
+      <td align=3D"center" valign=3D"top" style=3D"mso-line-height-rule: ex=
+actly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <!-- BEGIN COLUMNS // -->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" id=3D"templateColumns" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; background-color: transparent; border-top-width: 0; bo=
+rder-bottom-width: 0;" bgcolor=3D"transparent">
+              <tbody><tr>
+                  <td align=3D"center" valign=3D"top" style=3D"padding-top:=
+ 0px; padding-bottom: 10px; mso-line-height-rule: exactly; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%;">
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"600" class=3D"templateContainer" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%;">
+                          <tbody><tr>
+                              <td align=3D"left" valign=3D"top" class=3D"co=
+lumnsContainer" width=3D"100%" style=3D"mso-line-height-rule: exactly; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                  <table align=3D"left" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                      <tbody><tr>
+                                          <td valign=3D"top" class=3D"leftC=
+olumnContainer" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"mi=
+n-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                          <tbody class=3D"mcnImageBlockOuter">
+                                  <tr>
+                                      <td valign=3D"top" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; padding: 0px;" class=3D"mcnImageBlockInner">
+                                          <table align=3D"left" width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageConte=
+ntContainer" style=3D"min-width: 100%; border-collapse: collapse; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;">
+                                              <tbody>
+<tr>
+                                                  <td class=3D"mcnImageCont=
+ent" valign=3D"top" style=3D"text-align: center; mso-line-height-rule: exac=
+tly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 0=
+ 0px;" align=3D"center">
+
+
+                                                              <a href=3D"ht=
+tp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0=
+BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj=
+0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK=
+3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFmP=
+2TiLn8JYyiPfXvMiUkV4r5nZ3uqzIsuM8Sj2y0ruCo-2B2qWiH7v0PSAA4b6KKT-2F3PFeA4nvA=
+T3GZsO-2FeIVEMFcliwsZPVVibQR0GuBU1KYypzKerrLuaK3K2O4eYnXtdSdbe6PT8iBHBzQRza=
+VdxgwfNOcn0DNBWUfGGOtLhYUMTB4jr2Zpc8dHTiWCprrXLs6IMBS9ALOqZKa-2FgEgaoXZSqBS=
+4B-2BHxvAEQqZGToVJBjsaHmWv-2FR9-2Bb1Nz3WdT-2FXbKYjFIWeMt9Z8SvQuC1-2FKOh5WL5=
+aILp3xBirGzdCF4Zw5d8tZFtugzFhxydGDHjhb6lf20QcF4-2BEI5RdBaLor3cn5nRX5gMzomTl=
+Mp9i2eSACYg0-2FPG8ouwXiSJeBHkPCU-2B3qq2kDq11ZEFTxdgsI_zxu-2BTqkwsyvChmoPe5L=
+2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2=
+peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLFC-2BdjY2BjJ=
+SomrG1ebohXzDTsxQl8krljCvFVYl-2BumDwV85ylagZLC-2FIa7Qpq-2FnX8rtUyJUgz415-2B=
+kP9dEbCCWU0P7dOhILKVZGQjERhHDKfdxXrw2gYzGy17-2FCQ8yhUdt95sK0CkQcXIcUlQ8IBQa=
+gZTWVN9iwpYYFcmgwM9iz" style=3D"mso-line-height-rule: exactly; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%;"><img align=3D"center" alt=
+=3D"" src=3D"https://s3.amazonaws.com/images.workana.com/newsletter-images/=
+Week10-19/1.png" width=3D"100%" style=3D"max-width: 100%; padding-bottom: 0=
+; display: inline !important; vertical-align: bottom; height: auto; outline=
+: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0;"=
+ class=3D"mcnImage"/></a>
+
+
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+</table>
+                                      </td>
+                                  </tr>
+                          </tbody>
+                      </table></td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </td>
+              </tr>
+          </tbody></table>
+          <!-- // END COLUMNS -->
+      </td>
+  </tr>
+  <!-- END STANDALONE IMAGE -->
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%; border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 0px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"max-width: 100%; min-width: 100%; border-collapse: c=
+ollapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextCon=
+tentContainer">
+                    <tbody>
+<tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; word-break: break-word; color: #404040; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 13px; line-height: 150%; text-align:=
+ left; font-weight: normal; padding: 0 18px 9px;" align=3D"left">
+
+                          <a href=3D"http://email.notifications.workana.com=
+/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFR=
+kCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ=
+5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8=
+d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFmP2TiLn8JYyiPfXvMiUkV4r5nZ3uqzIsuM8Sj2=
+y0ruCo-2B2qWiH7v0PSAA4b6KKT-2F3PFeA4nvAT3GZsO-2FeIVEMFcliwsZPVVibQR0GuBU1KY=
+ypzKerrLuaK3K2O4eYnXtdSdbe6PT8iBHBzQRzaVdxgwfNOcn0DNBWUfGGOtLhYUMTB4jr2Zpc8=
+dHTiWCprrXLs6IMBS9ALOqZKa-2FgEgaoXZSqBS4B-2BHxvAEQqZGToVJBjsaHmWv-2FR9-2Bb1=
+Nz3WdT-2FXbKYjFIWeMt9Z8SvQuC1-2FKOh5WL5aILp3xBirGzdCF4Zh1a6gCPoeIkD9jW078nq=
+xdhtR-2FDHaZW1Pf-2BbZ-2BFc9Misa1W2L4xTrWTQ3LAzN8Hjvl9-2FkpTKLHnIvQDT5vadNvi=
+fjwxXWHKalrYAOVKJhs_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FC=
+d5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2=
+F5cyB5Sx4qATSWFr7d3cvUoaoUjaLGHRqiNzcim7ClGKwuMn56w45h2vGAt7D8rvvldshyJGhH7=
+XV44UuVdDPlN2Ysz4gHyqI8BxWFgq6wjnqDd-2F29fnUgOHaX6pLJ7bU1SarkfyN1-2B8DD2IVM=
+fA-2B0kgsJSge9PAUmWtrX4ywOcFkDfJYsKYvbTct7y36pvDZAS1k-2FpO" style=3D"text-d=
+ecoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; color: #253556; font-weight: normal;">  <h=
+3 style=3D"text-align: center !important; display: block; text-transform: n=
+one; color: #4A4A4A !important; font-family: Arial, Helvetica, sans-serif; =
+font-size: 18px; font-style: normal; font-weight: 400; line-height: 150%; l=
+etter-spacing: -.5px; margin: 0; padding: 10px 0px;" align=3D"center !impor=
+tant">15 conselhos para obter melhores
+ resultados trabalhando com freelancers da Workana
+</h3></a>
+                          <p style=3D"text-align: center !important; mso-li=
+ne-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; color: #404040; font-family: Arial, Helvetica, sans-serif; font-s=
+ize: 13px; line-height: 150%; font-weight: normal; margin: 10px 0; padding:=
+ 0;" align=3D"center !important">Muito provavelmente voc=C3=AA j=C3=A1 saib=
+a e conhe=C3=A7a as vantagens de se trabalhar com freelancers. Uma grande q=
+uantidade de empresas est=C3=A3o confiando seus projetos para estes profiss=
+ionais com a finalidade de alcan=C3=A7ar o sucesso.
+Hoje vamos te dar 15 conselhos para que voc=C3=AA possa desfrutar dos benef=
+=C3=ADcios da contrata=C3=A7=C3=A3o freelancer e obter os melhores resultad=
+os.
+</p>
+
+</td>
+                    </tr>
+                </tbody>
+</table>
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; padding: 18px;" valign=3D"top" ali=
+gn=3D"center" class=3D"mcnButtonBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnButtonContentContainer" style=3D"border-collapse: separate !import=
+ant; border-radius: 3px; background-color: #253556; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;" bgcolor=3D"#253556">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=3D=
+"mcnButtonContent" style=3D"font-family: Arial, Helvetica, sans-serif; colo=
+r: #FFFFFF; font-size: 13px; mso-line-height-rule: exactly; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; padding: 15px;">
+                                <a class=3D"mcnButton" title=3D"" href=3D"h=
+ttp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi=
+0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXA=
+j0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rY=
+K3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFm=
+P2TiLn8JYyiPfXvMiUkV4r5nZ3uqzIsuM8Sj2y0ruCo-2B2qWiH7v0PSAA4b6KKT-2F3PFeA4nv=
+AT3GZsO-2FeIVEMFcliwsZPVVibQR0GuBU1KYypzKerrLuaK3K2O4eYnXtdSdbe6PT8iBHBzQRz=
+aVdxgwfNOcn0DNBWUfGGOtLhYUMTB4jr2Zpc8dHTiWCprrXLs6IMBS9ALOqZKa-2FgEgaoXZSqB=
+S4B-2BHxvAEQqZGToVJBjsaHmWv-2FR9-2Bb1Nz3WdT-2FXbKYjFIWeMt9Z8SvQuC1-2FKOh5WL=
+5aILp3xBirGzdCF4aqPo5Z7TClOKqfTadJM6-2BJ7oJ1aVq6mt8yiuSwHFfEIqJNLCaMsdQPHG6=
+QLCGgwBvKvtr2kQyIZ-2Fjepy2Px-2BqZhJpIQficUc7Xv2gWh-2FX-2FV_zxu-2BTqkwsyvChm=
+oPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z=
+3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLHIOl7Z3=
+XwkMsRHdJqviAuRQYC-2FTSCVkCr-2BES58BGonl4-2BIhv1LRlVPdKPJSs6t0X7Kn8evwUUM9b=
+l4-2BdtAxsxxoF16mgdS2NTUSutLuAxjuhTr-2BHkoN5rVo-2Bg7m7JMkpE0SiiawakobVIsUTm=
+yoMpKu11W-2B60VBSgD4SWWPIesM" target=3D"_self" style=3D"text-transform: upp=
+ercase; font-weight: bold; letter-spacing: normal; line-height: 100%; text-=
+align: center; text-decoration: none; color: #FFFFFF; mso-line-height-rule:=
+ exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; displ=
+ay: block;">Leia mais</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%; background-color: #EFEFEF; bor=
+der-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height=3D"40px" bgc=
+olor=3D"#EFEFEF">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 9px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- BEGIN BODY // -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+  <!-- STANDALONE IMAGE -->
+  <tbody><tr>
+      <td align=3D"center" valign=3D"top" style=3D"mso-line-height-rule: ex=
+actly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <!-- BEGIN COLUMNS // -->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" id=3D"templateColumns" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; background-color: transparent; border-top-width: 0; bo=
+rder-bottom-width: 0;" bgcolor=3D"transparent">
+              <tbody><tr>
+                  <td align=3D"center" valign=3D"top" style=3D"padding-top:=
+ 0px; padding-bottom: 10px; mso-line-height-rule: exactly; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%;">
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"600" class=3D"templateContainer" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%;">
+                          <tbody><tr>
+                              <td align=3D"left" valign=3D"top" class=3D"co=
+lumnsContainer" width=3D"100%" style=3D"mso-line-height-rule: exactly; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                  <table align=3D"left" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                      <tbody><tr>
+                                          <td valign=3D"top" class=3D"leftC=
+olumnContainer" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"mi=
+n-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                          <tbody class=3D"mcnImageBlockOuter">
+                                  <tr>
+                                      <td valign=3D"top" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; padding: 0px;" class=3D"mcnImageBlockInner">
+                                          <table align=3D"left" width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageConte=
+ntContainer" style=3D"min-width: 100%; border-collapse: collapse; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;">
+                                              <tbody>
+<tr>
+                                                  <td class=3D"mcnImageCont=
+ent" valign=3D"top" style=3D"text-align: center; mso-line-height-rule: exac=
+tly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 0=
+ 0px;" align=3D"center">
+
+
+                                                              <a href=3D"ht=
+tp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0=
+BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj=
+0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK=
+3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFl2=
+H039jqhwWgEi-2BjQy07nzMhdsw5hLYILszjF89l050R74j94GEIUJYFo7vvXEz5UvE28ZUkaDC=
+Xg1r1BmT0cDG58fxNZUDqjVxyrlaNIKPJ6fhO5qJVbJhUTwTFJQnt-2B3i50ftytqf9KzdgtpEi=
+BE0h5Ore9jsr0jsHcrzHZ4D5SkjaePzHzC7PEkjA2TfACrcNGBtjZ6oNP4dT9jr-2BUAIvrKK3D=
+f2tKwoQ6vlaj9f8x1nyMJydcPaxCuA2wtJMhQh9rSx52xYvG-2BwzKwnR50YemNejUhyvnWm-2F=
+XbshEPbO8yRr1VfbR5LjaWZxd5XCiX4GbT2P1hIaMZ3D1kRp52Tqln79ZJkGpSt36DCzUdrfy-2=
+FkcCKzVeaKwbU-2B-2BJlChZu1oISWEdhRH7BWVSpmBve_zxu-2BTqkwsyvChmoPe5L2OqL71PN=
+Pqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbd=
+iQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLOunD9TKQLjoMYRjDbEG-=
+2BB9PRdXzbtF7eUBOzFRh5L1Q3NaK3AMyET4WoaUW5gPBC6kLvs1-2FA3AkqO0xvoBlE6cR9l2C=
+8gCE9quWpw-2FuvfXtJRfzS-2BAB107ZtzqGUbY678IIIG2Wpcmz5ePMeNFZ-2BXo6ev6zoBNxD=
+zFAZ742hM89" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;"><img align=3D"center" alt=3D"" src=
+=3D"https://s3.amazonaws.com/images.workana.com/newsletter-images/Week10-19=
+/mujer-pt.png" width=3D"100%" style=3D"max-width: 100%; padding-bottom: 0; =
+display: inline !important; vertical-align: bottom; height: auto; outline: =
+none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0;" c=
+lass=3D"mcnImage"/></a>
+
+
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+</table>
+                                      </td>
+                                  </tr>
+                          </tbody>
+                      </table></td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </td>
+              </tr>
+          </tbody></table>
+          <!-- // END COLUMNS -->
+      </td>
+  </tr>
+  <!-- END STANDALONE IMAGE -->
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%; border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 0px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"max-width: 100%; min-width: 100%; border-collapse: c=
+ollapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextCon=
+tentContainer">
+                    <tbody>
+<tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; word-break: break-word; color: #404040; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 13px; line-height: 150%; text-align:=
+ left; font-weight: normal; padding: 0 18px 9px;" align=3D"left">
+
+                          <a href=3D"http://email.notifications.workana.com=
+/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFR=
+kCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ=
+5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8=
+d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFl2H039jqhwWgEi-2BjQy07nzMhdsw5hLYILszj=
+F89l050R74j94GEIUJYFo7vvXEz5UvE28ZUkaDCXg1r1BmT0cDG58fxNZUDqjVxyrlaNIKPJ6fh=
+O5qJVbJhUTwTFJQnt-2B3i50ftytqf9KzdgtpEiBE0h5Ore9jsr0jsHcrzHZ4D5SkjaePzHzC7P=
+EkjA2TfACrcNGBtjZ6oNP4dT9jr-2BUAIvrKK3Df2tKwoQ6vlaj9f8x1nyMJydcPaxCuA2wtJMh=
+Qh9rSx52xYvG-2BwzKwnR50YemNejUhyvnWm-2FXbshEPbGz0OtPb8Jz-2B-2F9R51wvwfxWO7D=
+zYnZSMZ69qXoX-2Frqlty-2FN8ObYaayHHCN7m8FpDs43-2FsORSPzp-2B95dmJqIOuu9aBFN5H=
+uCbfsMeFXz7tSoW_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-=
+2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cy=
+B5Sx4qATSWFr7d3cvUoaoUjaLDqthgRVwAP3QuMY-2F-2BFS72Mhf3pO72qlqgkDB11pRNILbCj=
+kODpjyPmNnBDkDhJ1hoXCVUrlG68wtbRNVwGtukvdEKUJhViTKwRouZVyVykdOBSpj61y-2Fzrz=
+3gFVsy0IzQAQMWkMWJuX56xHM-2FEGJT2SBlXiZ59Gf7DGhHqgHWY9" style=3D"text-decor=
+ation: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%; color: #253556; font-weight: normal;">  <h3 st=
+yle=3D"text-align: center !important; display: block; text-transform: none;=
+ color: #4A4A4A !important; font-family: Arial, Helvetica, sans-serif; font=
+-size: 18px; font-style: normal; font-weight: 400; line-height: 150%; lette=
+r-spacing: -.5px; margin: 0; padding: 10px 0px;" align=3D"center !important=
+">Te apresentando algumas mulheres
+ de destaque na Workana!=20
+</h3></a>
+                          <p style=3D"text-align: center !important; mso-li=
+ne-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; color: #404040; font-family: Arial, Helvetica, sans-serif; font-s=
+ize: 13px; line-height: 150%; font-weight: normal; margin: 10px 0; padding:=
+ 0;" align=3D"center !important">Neste m=C3=AAs da mulher, queremos que voc=
+=C3=AA conhe=C3=A7a as mulheres profissionais melhor ranqueadas em nossa pl=
+ataforma. A quantidade de projetos conclu=C3=ADdos, as avalia=C3=A7=C3=B5es=
+ de seus clientes e o n=C3=ADvel que cada uma delas j=C3=A1 alcan=C3=A7ou s=
+=C3=A3o provas infal=C3=ADveis da excel=C3=AAncia de cada uma delas. Est=C3=
+=A1 pronto para conhec=C3=AA-las e contrat=C3=A1-las?
+</p>
+
+</td>
+                    </tr>
+                </tbody>
+</table>
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; padding: 18px;" valign=3D"top" ali=
+gn=3D"center" class=3D"mcnButtonBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnButtonContentContainer" style=3D"border-collapse: separate !import=
+ant; border-radius: 3px; background-color: #253556; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;" bgcolor=3D"#253556">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=3D=
+"mcnButtonContent" style=3D"font-family: Arial, Helvetica, sans-serif; colo=
+r: #FFFFFF; font-size: 13px; mso-line-height-rule: exactly; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; padding: 15px;">
+                                <a class=3D"mcnButton" title=3D"" href=3D"h=
+ttp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi=
+0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXA=
+j0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rY=
+K3Cao479IbGtFiDAGQrNeHVUcTQqR9aN-2Fd8d7NnN-2BAH-2FPcne861L8pQLLJm71UdQzbPFl=
+2H039jqhwWgEi-2BjQy07nzMhdsw5hLYILszjF89l050R74j94GEIUJYFo7vvXEz5UvE28ZUkaD=
+CXg1r1BmT0cDG58fxNZUDqjVxyrlaNIKPJ6fhO5qJVbJhUTwTFJQnt-2B3i50ftytqf9KzdgtpE=
+iBE0h5Ore9jsr0jsHcrzHZ4D5SkjaePzHzC7PEkjA2TfACrcNGBtjZ6oNP4dT9jr-2BUAIvrKK3=
+Df2tKwoQ6vlaj9f8x1nyMJydcPaxCuA2wtJMhQh9rSx52xYvG-2BwzKwnR50YemNejUhyvnWm-2=
+FXbshEPbFOOg6WDgYZSOHFjJFzzmniS5CEKyLD3n21BV6-2B2oGTK0zh6BtClkYxZEo1CxqWYy3=
+h-2F5yfPco-2BxZCYtEUH1A2enxnrtW-2BuFrPWHX6Viavau_zxu-2BTqkwsyvChmoPe5L2OqL7=
+1PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROk=
+GbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLKx1scfc-2BtZkmHBy=
+ZA0tp3lSdJs-2BuSyj18O-2Fe3wDQj5tvQi72erkuNbc-2BznnZ8N-2Bj2F7p3WAiweVyEBON9z=
+vbZC29RNfF6CpaBCw2YZB-2B2N-2Bxn8WXSUdl4DMYNnIr7rz3JlRqundSzVR-2F3-2Bgxfy1cl=
+Gs1BKsaRA5ebi7YXSw3R6N" target=3D"_self" style=3D"text-transform: uppercase=
+; font-weight: bold; letter-spacing: normal; line-height: 100%; text-align:=
+ center; text-decoration: none; color: #FFFFFF; mso-line-height-rule: exact=
+ly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; display: bl=
+ock;">Leia mais</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%; background-color: #EFEFEF; bor=
+der-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height=3D"40px" bgc=
+olor=3D"#EFEFEF">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 9px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- BEGIN BODY // -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+  <!-- STANDALONE IMAGE -->
+  <tbody><tr>
+      <td align=3D"center" valign=3D"top" style=3D"mso-line-height-rule: ex=
+actly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <!-- BEGIN COLUMNS // -->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" id=3D"templateColumns" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; background-color: transparent; border-top-width: 0; bo=
+rder-bottom-width: 0;" bgcolor=3D"transparent">
+              <tbody><tr>
+                  <td align=3D"center" valign=3D"top" style=3D"padding-top:=
+ 0px; padding-bottom: 10px; mso-line-height-rule: exactly; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%;">
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"600" class=3D"templateContainer" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%;">
+                          <tbody><tr>
+                              <td align=3D"left" valign=3D"top" class=3D"co=
+lumnsContainer" width=3D"100%" style=3D"mso-line-height-rule: exactly; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                  <table align=3D"left" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                      <tbody><tr>
+                                          <td valign=3D"top" class=3D"leftC=
+olumnContainer" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=3D"mi=
+n-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                          <tbody class=3D"mcnImageBlockOuter">
+                                  <tr>
+                                      <td valign=3D"top" style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; padding: 0px;" class=3D"mcnImageBlockInner">
+                                          <table align=3D"left" width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageConte=
+ntContainer" style=3D"min-width: 100%; border-collapse: collapse; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;">
+                                              <tbody>
+<tr>
+                                                  <td class=3D"mcnImageCont=
+ent" valign=3D"top" style=3D"text-align: center; mso-line-height-rule: exac=
+tly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 0=
+ 0px;" align=3D"center">
+
+
+                                                              <a href=3D"ht=
+tp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0=
+BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj=
+0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK=
+3Car-2BaWOiWJYPglANgLTiyt6SiCV5CG5PvUgbFQ-2FjmvKmArKIgoeiuZl-2FC-2Fh8sTM7Hl=
+7zWjyDWU4bTlWTNiUM3ZQ9qyab3eCkmrs5pstmO6ORZzMh8ZGxClYchw00HDzY8rFWxfX4xAbi6=
+Rnrxsh1D2lM-2B1PdWB-2BJnDarYtRB4Dtpx6-2FWOODOFYLIeTIoxcZYAlpT-2BpwJoQ0frGGI=
+yGHRIfDU4lJFbtNcLe-2FKdwzapd34GmuPANCj1CAYJfflW6CVyqemUlC5qHFUbO4BTHQW5FdvH=
+Ime2CvXuWX9Ha3PMoxhxtTXNGaZ8VFkCEImcl9Y0mM-3D_zxu-2BTqkwsyvChmoPe5L2OqL71PN=
+Pqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbd=
+iQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLEI5Sy6OsW4q2UOdPW3rD=
+MmJ2pM4plnu0KSDnwOUWgyhpPh56inTr8rDuQ8IKwQS6bJsAIK7nGx-2BNvAAoBbA-2BkZJGEyI=
+DcyLNBIgJPYPD4ZxWA4n85rBDL7KlZ-2F9-2FHVRo8h44xMjwOaTjqx1yVaNzCDdFKU2065tS8i=
+sbQ-2FfRROJ" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;"><img align=3D"center" alt=3D"" src=
+=3D"https://s3.amazonaws.com/images.workana.com/customerio-images/MyTeam+PT=
+.PNG" width=3D"100%" style=3D"max-width: 100%; padding-bottom: 0; display: =
+inline !important; vertical-align: bottom; height: auto; outline: none; tex=
+t-decoration: none; -ms-interpolation-mode: bicubic; border: 0;" class=3D"m=
+cnImage"/></a>
+
+
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+</table>
+                                      </td>
+                                  </tr>
+                          </tbody>
+                      </table></td>
+                                      </tr>
+                                  </tbody></table>
+                              </td>
+                          </tr>
+                      </tbody></table>
+                  </td>
+              </tr>
+          </tbody></table>
+          <!-- // END COLUMNS -->
+      </td>
+  </tr>
+  <!-- END STANDALONE IMAGE -->
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%; border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top: 0px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%;">
+                <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"max-width: 100%; min-width: 100%; border-collapse: c=
+ollapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextCon=
+tentContainer">
+                    <tbody>
+<tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; word-break: break-word; color: #404040; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 13px; line-height: 150%; text-align:=
+ left; font-weight: normal; padding: 0 18px 9px;" align=3D"left">
+
+                          <a href=3D"http://email.notifications.workana.com=
+/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFR=
+kCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ=
+5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rYK3Car-2BaWOiWJYPglANgLTiyt6SiCV5CG5Pv=
+UgbFQ-2FjmvKmArKIgoeiuZl-2FC-2Fh8sTM7Hl7zWjyDWU4bTlWTNiUM3ZQ9qyab3eCkmrs5ps=
+tmO6ORZzMh8ZGxClYchw00HDzY8rFWxfX4xAbi6Rnrxsh1D2lM-2B1PdWB-2BJnDarYtRB4Dtpx=
+6-2FWOODOFYLIeTIoxcZYAlpT-2BpwJoQ0frGGIyGHRIfDUgIe5i2nCZZFXZL4YLZ-2BsdCM217=
+F0s00c1VZtw30-2BfwM-2F-2Fpmu1MWobOoCxv1YTRhcUAZFEZDwY3FPXlpvFkt2R-2FhQky7ex=
+MaWItB0YXEe6-2FI-3D_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FC=
+d5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2=
+F5cyB5Sx4qATSWFr7d3cvUoaoUjaLN8IrNHw6DajeEywzt1lmxIrNU7NJ-2FOtzhfC-2BcLZNAJ=
+NtsV5nl-2BpVihb3C6uNllYPB-2BYRQhIB4UFoUj19aO0G-2FpAigi6FajYcjE8aY8mdgschNnN=
+kyDiC6w6qjhe1imLN11dFlt8UkVlfV2o4zKAbW5skoAS4fCPv-2BRUmLvmKUAA" style=3D"te=
+xt-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; color: #253556; font-weight: normal;">=
+  <h3 style=3D"text-align: center !important; display: block; text-transfor=
+m: none; color: #4A4A4A !important; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 18px; font-style: normal; font-weight: 400; line-height: 150=
+%; letter-spacing: -.5px; margin: 0; padding: 10px 0px;" align=3D"center !i=
+mportant">Lan=C3=A7amento de nova se=C3=A7=C3=A3o chamada Minha Equipe!=20
+</h3></a>
+                          <p style=3D"text-align: center !important; mso-li=
+ne-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; color: #404040; font-family: Arial, Helvetica, sans-serif; font-s=
+ize: 13px; line-height: 150%; font-weight: normal; margin: 10px 0; padding:=
+ 0;" align=3D"center !important">Muitas vezes =C3=A9 melhor trabalhar com a=
+lgu=C3=A9m com quem voc=C3=AA j=C3=A1 trabalhou e que voc=C3=AA j=C3=A1 con=
+hece ao inv=C3=A9s de contratar algu=C3=A9m novo.
+
+Sabemos que para isso, =C3=A9 importante poder acessar de forma f=C3=A1cil =
+a lista de seus freelancers.
+
+Agora na Workana voc=C3=AA j=C3=A1 pode ver todos eles na nova se=C3=A7=C3=
+=A3o chamada Minha Equipe! L=C3=A1 voc=C3=AA poder=C3=A1 enxergar todos os =
+freelancers com quem voc=C3=AA j=C3=A1 trabalhou, seus freelancers favorito=
+s e acess=C3=A1-los facilmente para voltar a contrat=C3=A1-los!
+</p>
+
+</td>
+                    </tr>
+                </tbody>
+</table>
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnButtonBlock" style=3D"min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; padding: 18px;" valign=3D"top" ali=
+gn=3D"center" class=3D"mcnButtonBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnButtonContentContainer" style=3D"border-collapse: separate !import=
+ant; border-radius: 3px; background-color: #253556; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;" bgcolor=3D"#253556">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=3D=
+"mcnButtonContent" style=3D"font-family: Arial, Helvetica, sans-serif; colo=
+r: #FFFFFF; font-size: 13px; mso-line-height-rule: exactly; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; padding: 15px;">
+                                <a class=3D"mcnButton" title=3D"" href=3D"h=
+ttp://email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi=
+0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXA=
+j0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2BGHcd3UC2ntaEr8rY=
+K3Car-2BaWOiWJYPglANgLTiyt6SiCV5CG5PvUgbFQ-2FjmvKmArKIgoeiuZl-2FC-2Fh8sTM7H=
+l7zWjyDWU4bTlWTNiUM3ZQ9qyab3eCkmrs5pstmO6ORZzMh8ZGxClYchw00HDzY8rFWxfX4xAbi=
+6Rnrxsh1D2lM-2B1PdWB-2BJnDarYtRB4Dtpx6-2FWOODOFYLIeTIoxcZYAlpT-2BpwJoQ0frGG=
+IyGHRIfDUESgFw6ceqLfGXVmSLs4zW9VdIKMCSUJK2HjrIMJOA4RmjduZHbrEjrByytNapwyg01=
+Pgv-2FHON50u8IswAgIFbSn7rs8-2B5FA4h4xcCLV25f0-3D_zxu-2BTqkwsyvChmoPe5L2OqL7=
+1PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROk=
+GbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLGhOl3LWhh-2FQgO42=
+2BXNDWT1Bu3fl26w-2F2WJOntIN9wSlCVHJazDaVTvLVHY7AMLRiG4wagg974qXwUtcx-2FDVOk=
+-2FiAQgLYWf13RxY06MqjepAbqRxSafa-2BFsipR5bKHSwplrsVq4lQw87C1otQKuWNgvdgx5UF=
+BnRbmgTFCOA5N1" target=3D"_self" style=3D"text-transform: uppercase; font-w=
+eight: bold; letter-spacing: normal; line-height: 100%; text-align: center;=
+ text-decoration: none; color: #FFFFFF; mso-line-height-rule: exactly; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; display: block;">QU=
+ERO VOLTAR A TRABALHAR COM MEUS FREELANCERS</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br/><br/>
+<!-- Help Blue Element -->
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock blue" style=3D"min-width: 100%; margin-top: 9px; border-c=
+ollapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-s=
+ize-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #2F9AEE=
+; color: #FFFFFF;" bgcolor=3D"#2F9AEE">
+  <tbody class=3D"mcnTextBlockOuter">
+    <tr>
+      <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: =
+19px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;">
+        <!--[if mso]>
+        <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100%;">
+        <tr>
+        <![endif]-->
+
+        <!--[if mso]>
+        <td valign=3D"top" width=3D"600" style=3D"width:600px;">
+        <![endif]-->
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"max-width: 100%; min-width: 100%; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContai=
+ner">
+          <tbody>
+            <tr>
+              <td style=3D"mso-line-height-rule: exactly; -ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%;">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 100%; border-collaps=
+e: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%;">
+                  <tbody class=3D"mcnTextBlockOuter">
+                    <tr>
+                      <td valign=3D"top" class=3D"mcnTextBlockInner" style=
+=3D"padding-top: 9px; mso-line-height-rule: exactly; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;">
+                        <!--[if mso]>
+                        <table align=3D"left" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">
+                        <tr>
+                        <![endif]-->
+
+                        <!--[if mso]>
+                        <td valign=3D"top" width=3D"600" style=3D"width:600=
+px;">
+                        <![endif]-->
+                        <table align=3D"left" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"max-width: 100%; min-width: 100%; border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnT=
+extContentContainer">
+                          <tbody>
+                            <tr>
+                              <td valign=3D"top" class=3D"mcnTextContent" s=
+tyle=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%; word-break: break-word; color: #FFFFFF; font-family=
+: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 150%; text-al=
+ign: left; font-weight: normal; padding: 0 18px 9px;" align=3D"left">
+    <a href=3D"http://email.notifications.workana.com/wf/click?upn=3DpAC8kx=
+U84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZ=
+EhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2B=
+nUp78cIk0NBA2iDJ9ntumsq1EOqjMYnXs09U9d5v8UWGOlrRaZ7S-2BxEQM4bzycqazfpxXrttu=
+Mw8SKVCLvvwnObX6-2BFysYLhzquwLnuFJ2GmAE3Hz-2BK9poyQsr7brAvDVyXwvMoaLolWSdpx=
+DWhXhQLHRjBNbfAIRj4jOoJszu41z3JRtZMKvkIfWDp-2B-2BaBUEADVRYsyicNubfuTojqa2Qm=
+BGr4MangSwptYpfIPfY5j0WLNTj-2FM3dBvbxnJ-2F9VylyXPm7c7uad6N5RQ6t1sUXAhpYkeSl=
+iDspfzZswusurgZju7XNbYFwI2ZtilJixI-2BGYlZAUh80DaV7TVNqIGjOacAgN0TVGk-2Fl1ED=
+0OV98_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F=
+7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSW=
+Fr7d3cvUoaoUjaLNt8z7-2FfDmsxWu5W2UkXACH3iTKPDsSKAhRVoY81cj-2F35i69YlaLrNGwh=
+nfuFjpCK9wxABd-2BeB4gY5k-2FltgnlWP7a4pINzEJXd-2BsSAdcom1DoFngT5w-2FY-2BZCKs=
+0Z3BSdLzPv7AWtOnjHKV9j34jYVYc4EbOwJlUdC4YmJgZvjSW7" style=3D"text-decoratio=
+n: none !important; color: #FFFFFF; mso-line-height-rule: exactly; -ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal;">
+                                <img src=3D"https://s3.amazonaws.com/images=
+.workana.com/newsletter-images/Week07-19/Potentials/linkedin.png" width=3D"=
+18px" alt=3D"LinkedIn" style=3D"max-width: 18px; height: auto !important; o=
+utline: none; text-decoration: none; -ms-interpolation-mode: bicubic; borde=
+r: 0;"/></a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if mso]>
+                        </td>
+                        <![endif]-->
+
+                        <!--[if mso]>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td valign=3D"top" class=3D"mcnTextContent" style=3D"mso-line=
+-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%; word-break: break-word; color: #FFFFFF; font-family: Arial, Helveti=
+ca, sans-serif; font-size: 13px; line-height: 150%; text-align: left; font-=
+weight: normal; padding: 0 18px 9px;" align=3D"left">
+                <a href=3D"http://email.notifications.workana.com/wf/click?=
+upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmq=
+nfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaF=
+dnpg5ygzh-2BnUp78cIk0NBA2iDJ9ntumsq1EOqjMYnXs09U9d5v8UWGOlrRaZ7S-2BxEQM4bzy=
+cqazfpxXrttuMw8SKVCLvvwnObX6-2BFysYLhzquwLnuFJ2GmAE3Hz-2BK9poyQsr7brAvDVyXw=
+vMoaLolWSdpxDWhXhQLHRjBNbfAIRj4jOoJszu41z3JRtZMKvkIfWDp-2B-2BaBUEADVRYsyicN=
+ubfuTojqa2QmBGr4MangSwptYpfIPfY5j0WLNTj-2FM3dBvbxnJ-2F9V-2FaiB1fqXY-2Fwzl1o=
+uGOqiOr1BueKNfVat9zmMXTfgn07ZK-2FgnPS21PgoSUQ-2Fb6d4m1xNs-2BmF7uXuZUwBxdA1I=
+xQYLBZiqlBBN5M7mWlV7SFA_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY=
+-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJo=
+uA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLLZN6dCjFylEmLU68fA-2FAyL7yd-2BluTv8F2aj1Q3=
+nskhkgyRr2OxG0ehoshsS17Uld4PCI7-2B8H58ZByy2PLMjMe0Jza6-2FjkHOjFDluQ68SHSGDV=
+C0qNhh9RWk0NLsoT-2BvbKLm1avibawK43LjoHIXj5Ay7jJMSikdDzvUKYrhrR2R" style=3D"=
+text-decoration: none !important; color: #FFFFFF; mso-line-height-rule: exa=
+ctly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weig=
+ht: normal;"><h4 style=3D"display: block; text-transform: none; color: #FFF=
+FFF !important; font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ font-style: normal; font-weight: bold; line-height: 100%; letter-spacing: =
+normal; text-align: left; margin: 0; padding: 10px 0px;" align=3D"left">Sig=
+a-nos no LinkedIn</h4></a>
+
+    <a href=3D"http://email.notifications.workana.com/wf/click?upn=3DpAC8kx=
+U84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZ=
+EhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh-2B=
+nUp78cIk0NBA2iDJ9ntumsq1EOqjMYnXs09U9d5v8UWGOlrRaZ7S-2BxEQM4bzycqazfpxXrttu=
+Mw8SKVCLvvwnObX6-2BFysYLhzquwLnuFJ2GmAE3Hz-2BK9poyQsr7brAvDVyXwvMoaLolWSdpx=
+DWhXhQLHRjBNbfAIRj4jOoJszu41z3JRtZMKvkIfWDp-2B-2BaBUEADVRYsyicNubfuTojqa2Qm=
+BGr4MangSwptYpfIPfY5j0WLNTj-2FM3dBvbxnJ-2F9V6yMKuuGuWaN68nMelnFi8Gd2Z9C8cqo=
+o7tfJbnx-2FILeIr6q2pZTYIk9jowi-2F2VWD42sFFIAgl-2BzhSX3aiIGfihQQtvwdeG3wlUnD=
+wzjKv9-2B_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt=
+6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4q=
+ATSWFr7d3cvUoaoUjaLNZHzecTz2K9R9laz14Ryxfu3RcEcpunLtlnsrEVdciJSrHuWwnhX4EIG=
+Tc4TGyyDtba-2BHH7R9rL-2Blrv5p5fVRREeiSrHRrv7ePnz55ItyNK1L0w7exRCPgxtuuA5GlG=
+1hs4rYOiu7RVEEM0qkad2kfxiGgPYTf9VYh6UETfcFLP" style=3D"text-decoration: non=
+e !important; color: #FFFFFF; mso-line-height-rule: exactly; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal;"><p styl=
+e=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; color: #FFFFFF; font-family: Arial, Helvetica, sans-se=
+rif; font-size: 13px; line-height: 150%; text-align: left; font-weight: nor=
+mal; margin: 10px 0; padding: 0;" align=3D"left">Saiba mais novidades do mu=
+ndo empreendedor e as melhores dicas para fazer o seu neg=C3=B3cio crescer<=
+/p></a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!--[if mso]>
+        </td>
+        <![endif]-->
+
+        <!--[if mso]>
+        </tr>
+        </table>
+        <![endif]-->
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- END Help Blue Element -->
+
+                                    <!-- END CONTENIDO -->
+
+                                  </td>
+                                                                </tr>
+                                                            </tbody></table>
+
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!-- // END COLUMNS -->
+                                </td>
+                            </tr>
+                            <!-- END TEMPLATE -->
+
+
+
+
+
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding-bottom: 0px; mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; background-color: transparent=
+; border-top-width: 0; border-bottom-width: 0;" bgcolor=3D"transparent">
+                                        <tbody><tr>
+                                            <td align=3D"center" valign=3D"=
+top" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%;">
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" styl=
+e=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                    <tbody><tr>
+                                                        <td valign=3D"top" =
+class=3D"footerContainer" style=3D"padding-top: 30px; padding-bottom: 10px;=
+ mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 100%; border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                <tbody class=3D"mcnTextBlockOuter">
+                                    <tr>
+                                        <td valign=3D"top" class=3D"mcnText=
+BlockInner" style=3D"padding-top: 9px; mso-line-height-rule: exactly; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                            <!--[if mso]>
+                                    <table align=3D"left" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">
+                                    <tr>
+                                    <![endif]-->
+
+                                    <!--[if mso]>
+                                    <td valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+                                    <![endif]-->
+                                            <table align=3D"left" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-width: 100%; min-width=
+: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" width=3D=
+"100%" class=3D"mcnTextContentContainer">
+                                                <tbody>
+<tr>
+
+                                                    <td valign=3D"top" clas=
+s=3D"mcnTextContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; color=
+: #686868; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line=
+-height: 125%; text-align: left; padding: 0 18px 18px;" align=3D"left">
+
+
+                                          <a href=3D"http://email.notificat=
+ions.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-=
+2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA=
+-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh0nOCK4uIYxIKhDTktnlNYnx0A7SEC1FcqpFqduJo=
+Cpvt6DtVEohFn0bq-2Br-2Fwf-2Bv31wkSuXx-2FIjKin0NRhZzlG4Hk4YZmg4KFj4lO6pAkx5l=
+AU-2BVjDIa8WTqmVhCGolMRvp49lN2PteBtYZUt4ICUbT3i2G28NIa1XViTXWl1hWXEtpHSow9C=
+-2BE8fh4OGZLUqQ-3D-3D_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2=
+FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA=
+-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLHUoaaEoWPMOw7aMf2kY3KG-2BbkPDvON48Z96gqaa6pr=
+MJreAIdFqfPzD7uGl9YTDQ7V2T7eGn-2B1WaEnvDtnE9WBSWfUQvNNd6wWEuIuK-2BbA2Qll0gw=
+2Pr-2FYgjB2BI9uGtYeYjNKZ7SLJbA8vLljP4Nz1NPIWGD3bMtdO1LXDfCd5" target=3D"_bl=
+ank" alt=3D"Workana" style=3D"mso-line-height-rule: exactly; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; color: #AAAAAA; font-weight: =
+normal; text-decoration: underline;">
+                                                          <img src=3D"https=
+://gallery.mailchimp.com/fddb141830b67e52809a5a1c3/images/28c1a066-0802-4f4=
+c-9e39-be89e97f6293.png" width=3D"30" style=3D"max-width: 30px; padding-bot=
+tom: 0; display: inline !important; vertical-align: bottom; height: auto !i=
+mportant; outline: none; text-decoration: none; -ms-interpolation-mode: bic=
+ubic; border: 0;" class=3D"mcnImage"/>
+                                                        </a>
+
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign=3D"top" clas=
+s=3D"mcnTextContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; color=
+: #686868; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line=
+-height: 125%; text-align: left; padding: 0 18px 9px;" align=3D"left">
+
+                                                        <p style=3D"font-si=
+ze: 11px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webki=
+t-text-size-adjust: 100%; color: #686868; font-family: Arial, Helvetica, sa=
+ns-serif; line-height: 125%; text-align: left; margin: 10px 0; padding: 0;"=
+ align=3D"left">
+                                                         =C2=A9 2012 - 2019=
+ | Workana
+
+
+                                                        </p>
+                                                        <p style=3D"font-si=
+ze: 11px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webki=
+t-text-size-adjust: 100%; color: #686868; font-family: Arial, Helvetica, sa=
+ns-serif; line-height: 125%; text-align: left; margin: 10px 0; padding: 0;"=
+ align=3D"left">
+
+                                                           <a href=3D"http:=
+//email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0Bxo=
+KWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qM=
+if4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh5LhJmk2E6-2BqzIyC5xsU-2=
+FMPa7o0dWvdOfyF2CamEXPqzrWAeQ4g2pTu-2FzhorDxes3RUg0OYP5R5oLNUKm6JcNumMdqg3Q=
+PucNCqlSXBF9yJt2bL8eXWvL2anibwjrJZIvVzbIRhZWtmEzXeb4jFna6IzlMuXUS0OcRCbF-2B=
+ftOaGx3GsrjJKdnSa4F0DumWT2Kw-3D-3D_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJU=
+nBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FB=
+OirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLG3i1DLFUZcBNuxEoFlz8nnohGcMEFSf=
+4oSyOI38BSOeyJVbNDEsHgS1REn9NOl5e1EmdiPRctyCmLCUZ5yBMgFGp-2Boz5pHGOkI0kw8o5=
+XYQd1POupo7y23Dcf7bGpkFBgZXFibI7vOaPj0GYABjEuGzm-2B2UfKKfHHA2mDcv3qhN" targ=
+et=3D"_blank" alt=3D"Twitter" style=3D"text-decoration: none; padding-right=
+: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%; color: #AAAAAA; font-weight: normal;">
+                                                            <img src=3D"htt=
+ps://gallery.mailchimp.com/fddb141830b67e52809a5a1c3/images/680af8d8-99fd-4=
+24a-bbc9-7f497a697a97.png" width=3D"22" style=3D"max-width: 22px; padding-b=
+ottom: 0; display: inline !important; vertical-align: bottom; height: auto =
+!important; outline: none; text-decoration: none; -ms-interpolation-mode: b=
+icubic; border: 0;" class=3D"mcnImage"/>
+                                                          </a>
+
+
+                                                          <a href=3D"http:/=
+/email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoK=
+WpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMi=
+f4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzhxoNUAD81UGDXB9PoQcpNbfg7=
+zGasaaInBs6bsXvqmoYMDwQLamm4KuWx8MguCE19gvrGu-2FFIXPff5IqOBKBmQ-2F1ukj6GVOO=
+e4xBH7Y5TUt3D-2BObu-2FxcGy8X5zXtIkX3or78xbHeQOyZEzYdkcTUo5P9TuJb0eS8hwxolZv=
+SmyZIg33uIqJLSHosmXnlrYrjCG3OY0hvjuRuC8771E49mro-3D_zxu-2BTqkwsyvChmoPe5L2O=
+qL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2pe=
+ROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLElLCax7SiPl22x=
+-2FtS5leZZacOUTNc4zYbsFFkZO2BZAQuYVZfBfDtjtfQ4jzAkMnQxBapCtdKt6R-2BAyO9m9wD=
+RAD7wenVOAQhmXzxPthorBYhp-2BHyBQF-2BRC-2FTLpifFCNzi8N2i9LE1QpdROsXSDWyTrnct=
+5ZbD2GyXbOoAzVoZF" target=3D"_blank" alt=3D"Facebook" style=3D"text-decorat=
+ion: none; padding-right: 20px; mso-line-height-rule: exactly; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; color: #AAAAAA; font-weight=
+: normal;">
+                                                            <img src=3D"htt=
+ps://gallery.mailchimp.com/fddb141830b67e52809a5a1c3/images/9fc24e66-6bba-4=
+c71-b0ec-354ebddf682e.png" width=3D"9" style=3D"max-width: 9px; padding-bot=
+tom: 0; display: inline !important; vertical-align: bottom; height: auto !i=
+mportant; outline: none; text-decoration: none; -ms-interpolation-mode: bic=
+ubic; border: 0;" class=3D"mcnImage"/>
+                                                          </a>
+
+                                                          <a href=3D"http:/=
+/email.notifications.workana.com/wf/click?upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoK=
+WpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmqnfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMi=
+f4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaFdnpg5ygzh4IeSfixFPHszzCtbYlCJA4pk=
+MXnpxP-2FHHbJa17EzuVx8sq1-2FefDu4J9nd20mpiAY5zjIGcfyEkOVsMX8Kvamx-2BezvayHb=
+iLAHDnAunk9cdZilTm7YDipc-2F-2Fyc19ZXhm2oIKSnP7y797ATudZbKTQKQutE9lF75425BQR=
+eIB8-2F170UNtzmCxAXSJHLD6RXajZGY-2B3mxHgKKAWtW05jd9tAE-3D_zxu-2BTqkwsyvChmo=
+Pe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3=
+UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLLFhmQQRX=
+ynh9k2OuZgKdnuqwDkE4QBornZIZU3255TdBFDIzMgdPqAfEv8oYaKWW9HOjfQZTuCfMbnbSmE6=
+OkKnoR7k-2BIDFr-2Blr-2BjgRE97UFGCOElMnsBqWs4bL80977pFI61v07GMXcZLHGj37Xo1fk=
+B4j1aREKUQRw6vIxcFw" target=3D"_blank" alt=3D"Instagram" style=3D"text-deco=
+ration: none; padding-right: 20px; mso-line-height-rule: exactly; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #AAAAAA; font-wei=
+ght: normal;">
+                                                            <img src=3D"htt=
+ps://gallery.mailchimp.com/fddb141830b67e52809a5a1c3/images/6aaf2983-ae6b-4=
+422-b644-d38a743afdeb.png" width=3D"18" style=3D"max-width: 18px; padding-b=
+ottom: 0; display: inline !important; vertical-align: bottom; height: auto =
+!important; outline: none; text-decoration: none; -ms-interpolation-mode: b=
+icubic; border: 0;" class=3D"mcnImage"/>
+                                                          </a>
+
+
+                                                        </p>
+                                          <p style=3D"font-size: 11px; mso-=
+line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%; color: #686868; font-family: Arial, Helvetica, sans-serif; line=
+-height: 125%; text-align: left; margin: 10px 0; padding: 0;" align=3D"left=
+">
+                                            Feito com amor e talento pelos =
+freelancers da Am=C3=A9rica Latina.
+                                          </p>
+                                          <p style=3D"font-size: 11px; mso-=
+line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%; color: #686868; font-family: Arial, Helvetica, sans-serif; line=
+-height: 125%; text-align: left; margin: 10px 0; padding: 0;" align=3D"left=
+">
+                                            Voc=C3=AA n=C3=A3o quer receber=
+ estes e-mails? <a href=3D"http://email.notifications.workana.com/wf/click?=
+upn=3DpAC8kxU84Ffm05TEXYJQEi0BxoKWpYcw6xahhnCQxE-2F3yVwh4pY6x2tFRkCpfGCmMmq=
+nfjxj4tjLdwZEhkkH5a3JbXGAkXAj0qMif4d5k5h1YP6tJIGA-2B74ezEX3CF2sWJ5ycLDHyjaF=
+dnpg5ygzh-2BGHcd3UC2ntaEr8rYK3CarAKF0pRCC1sBDrbNih2UdAkSfpMrSib6FhLPvLqOUHK=
+kOdCbepD6URt3qm-2BeDIyNfTYR2acfGxupqKMQUjGF-2FsVWx-2B9QSLLWjPWNI9-2FS0Ob-2F=
+Y0mdl0isaMXh0yFBC5Cvo-2F6iPlMfqlh-2FqDP1X474AR52YaGhtoK2QSkb-2FSWU-2BDLeR9K=
+MLSc8qUS4rlRLWqLUnUAnQii539N7iYjY1gQ3iiEHgMpotgJSTPzO8Tt8D5nb4p3EPfBHYShKz6=
+OKcOTkKhzpb4-2F-2BTalbdx33zH1vqHun0gr-2Fvnw3o0hLn4z2B9Nb5HpbrFXzVprGEt-2FXP=
+l1h8fxPhiQW2a4Hj7ReO4OXnVSBG2B5XQuXBpgItOQfD2a-2FfqQQ6mWbRJMlRCVf7FBt8py1zD=
+g2hSl0zyb580zMY-2F_zxu-2BTqkwsyvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd=
+5L-2BENYt6w0F7uYyWLG46yJ7QhXTZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F=
+5cyB5Sx4qATSWFr7d3cvUoaoUjaLMAqASwuGU95efPBhPW-2BrG1d0pwRiTymZZnhzmN7NgXRd3=
+bKi6G5abTKl43Ef5EZifTJXRQI-2BazhAxFpa1YYuRn9Wg-2F-2BGIspauZ-2BleNYzVSXHftt7=
+SPWnKCTh3nmO4O-2F3IdLQN-2FjdAIshVHxUsutg-2FIgidWcytg59mEZ-2Bj-2B-2FcuQJ" st=
+yle=3D"color: #686868; display: inline-block; mso-line-height-rule: exactly=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: =
+normal; text-decoration: underline;">Modifique as suas notifica=C3=A7=C3=B5=
+es</a>
+                                          </p>
+
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+</table>
+                                    <!--[if mso]>
+                                    </td>
+                                    <![endif]-->
+
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </tbody></table>
+        </center>
+=20=20=20=20
+
+<img src=3D"http://e.customeriomail.com/e/o/eyJlbWFpbF9pZCI6IlJQRXlBd0FCYVh=
+5QTVjY0VhWU5QUHdRcXdDdmoifQ=3D=3D" style=3D"height: 1px !important; max-hei=
+ght: 1px !important; max-width: 1px !important; width: 1px !important"/>
+<img src=3D"http://email.notifications.workana.com/wf/open?upn=3Dzxu-2BTqkw=
+syvChmoPe5L2OqL71PNPqr6oIjfbJUnBtrmsaoATY-2FCd5L-2BENYt6w0F7uYyWLG46yJ7QhXT=
+ZVZ49Z3UxX2peROkGbdiQ4Kc9w-2FBOirDrvCDZJouA-2F5cyB5Sx4qATSWFr7d3cvUoaoUjaLM=
+X97uoenzxRpSeIRSWER2jNitPGUDV4jwHVmKgKxMUOLVNHB56aN0aNA29OnByHE052KY5D1Q6Ul=
+pJUyObITz1pBlVygTL-2F9S52vpw8xzLk188wctngRXUmQkPw7lcA3L0VplpiP9WO54EpX6Ueak=
+TmN5C7GFxihOp8i4faO9uN" alt=3D"" width=3D"1" height=3D"1" border=3D"0" styl=
+e=3D"height:1px !important;width:1px !important;border-width:0 !important;m=
+argin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important=
+;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !import=
+ant;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>
+
+--7438897087bf4657a889579c8cc4699c6e8078581e1c515987d896aea921--
+
+.

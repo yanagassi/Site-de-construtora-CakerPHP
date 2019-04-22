@@ -1,0 +1,11 @@
+.ms-icon.color-constru {
+    color: #fff!important;
+    background-color:#155f77;
+}
+h4.color-constru {
+    color:rgba(0,75,85,.85)!important;
+}
+.ms-hero-bg-dark:after
+{
+    background-color: rgba(2,2,2,.35); /* - */
+}

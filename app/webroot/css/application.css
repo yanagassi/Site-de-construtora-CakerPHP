@@ -1,0 +1,43 @@
+.fa {
+    margin-right: 5px;
+}
+.alert {
+    padding: 20px!important;
+}
+
+.alert-success {
+    padding: 20px!important;
+}
+.text-center
+{
+    text-align: center!important;
+}
+.table td.fit,.table th.fit
+{
+    white-space: nowrap;
+    width: 1%;
+}
+.table td.fit,.table th.fit-50px
+{
+    white-space: nowrap;
+    width:50px;
+}
+.tabs-style-bar nav ul li.tab-current a {
+    background: #00c292;
+    color: #fff;
+}
+.tabs-style-bar nav ul li a:hover{
+    color:#000
+}
+hr
+{
+    border-color: rgba(120,130,140,0.50);
+}
+.myadmin-alert {
+    padding: 20px 30px 20px 12px;
+    text-align: center;
+}
+
+.myadmin-alert .closed {
+    padding: 16px 10px 4px 4px;
+}

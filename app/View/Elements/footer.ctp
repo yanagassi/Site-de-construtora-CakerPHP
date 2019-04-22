@@ -1,0 +1,1 @@
+    <footer class="footer text-center"> <?php echo date('Y') ?> &copy; Construlista - Todos os direitos reservados</footer>

@@ -1,0 +1,348 @@
+Return-Path: <bounces+18674-42fb-construlista=construlista.com.br@email2.pipedrive.com>
+X-Original-To: construlista@construlista.com.br
+Delivered-To: construlista@construlista.com.br
+Received: from o1.email.pipedrive.com (o1.email.pipedrive.com [208.117.52.78])
+	by usve264997.serverprofi24.com (Postfix) with ESMTPS id 6F2EBB5
+	for <construlista@construlista.com.br>; Wed, 27 Feb 2019 18:44:06 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pipedrive.com; 
+	h=from:to:reply-to:subject:mime-version:content-type; s=s1; 
+	bh=G8O/map0K2JEuWUnwJamyUSgEP0=; b=pgY3CMORYYvng/Vz5AfjT/vxch5za
+	MDjdUKWcfBLX4u9zAR7TmIVY39IDjQUUEXwXrHDweZG21om987XX1iwTHuKJz6DQ
+	Vc0v54Ox9wCRBDdapMKANwe/wbQ1mgk3PW8Nht8vRyw5BtRLa97n/errFJGXQvTN
+	6g1ptrJo3WiQLQ=
+Received: by filter0835p1las1.sendgrid.net with SMTP id filter0835p1las1-17751-5C766933-8
+        2019-02-27 10:40:51.597971846 +0000 UTC m=+457426.484117338
+Received: from ~^.*\.pipedrive.com$ (unknown [161.47.139.4])
+	by ismtpd0042p1mdw1.sendgrid.net (SG) with ESMTP id qOfO6b5iR7K15KzUBbxobQ
+	for <construlista@construlista.com.br>; Wed, 27 Feb 2019 10:40:51.545 +0000 (UTC)
+User-Agent: Pipedrive
+Date: Wed, 27 Feb 2019 10:40:51 +0000 (UTC)
+From: "Pipedrive" <notifications@pipedrive.com>
+To: construlista@construlista.com.br
+Reply-To: "Pipedrive" <notifications@pipedrive.com>
+Subject: =?utf-8?Q?Lembrete_de_atividade?=
+X-Sender: notifications@pipedrive.com
+X-Mailer: Pipedrive
+X-Priority: 3 (Normal)
+Message-ID: <5c7669337af8a@pipedrive.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5c7669337afcb"
+X-SG-EID: aDfxDd5iagqbMh/CHC3MGvDeGQvIHlrg6ExLKqvTYRsWnCqa9p7mnq7LU2eM00OXaDyXIbopHL6l8M
+ Uy5POHsRybSzJ3dCgDPKSyxFpsTIysrr0EiPnzJ8WBK/6LN70/joXLy94tAng64IgbkKQZer/nTtq2
+ KrS97er+ukRfoFIbgVBRzqZbUJuH3/5VgNMClt+XF6iWodOi+OojjiX64rQO3AMB3T3RwD0f7DSg2d
+ ScQs1XKOJcZFso9hcQKn8Q
+X-SG-ID: n7VK+R0jpeT+VWqNFtZ1BbzLt7BwtRygE1/f+Cm7kxg=
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+--B_ALT_5c7669337afcb
+Content-Type: text/plain; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+Ol=C3=A1, Plinio Gundim!Aqui est=C3=A3o suas atividades atuais no Pipedrive=
+:=0D
+QUARTA-FEIRA, 27 DE FEVEREIRO DE 2019=0D
+	O DIA TODO	Ligar	Abra=C3=A3o Corretor Alphavile	Faxer novo contato com o=
+=0D
+Abra=C3=A3o.=0D
+=0D
+https://construlista.pipedrive.com=0D
+The sales person will convince you that even though the glass is half=0D
+full/empty you are getting more than your money&apos;s worth compared to=0D
+buying a full glass.=0D
+Pipedrive Inc. =C2=B7 http://blog.pipedrive.com/=0D
+460 Park Ave South, New York, NY 10016, USA=0D
+Voc=C3=AA pode alterar suas defini=C3=A7=C3=B5es de notifica=C3=A7=C3=B5es =
+a qualquer momento.=0D
+https://construlista.pipedrive.com/settings/personal/activities=0D
+
+
+--B_ALT_5c7669337afcb
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+	<title>Activity reminder</title>
+
+	<style>
+		@media screen and (max-width: 320px) {
+			table {
+				border-radius: 0 !important;
+				border-left: 0 !important;
+			}
+			.icon-wrapper {
+				border-radius: 100% !important;
+			}
+			.note {
+				font-size: 13px !important;
+			}
+			.parties {
+				font-size: 14px !important;
+			}
+			.subject {
+				font-size: 16px !important;
+			}
+			.activity {
+				padding: 20px 0 0 0 !important;
+			}
+		}
+		@media screen and (min-width: 481px) {
+			.quote {
+				padding: 0 50px;
+			}
+		}
+		@media screen and (max-width: 480px) {
+			.activities, .container {
+				padding-left: 0 !important;
+				padding-right: 0 !important;
+			}
+			.button {
+				padding-left: 20px;
+				padding-right: 20px;
+			}
+			.note {
+				font-size: 14px !important;
+			}
+			.parties {
+				font-size: 14px !important;
+			}
+			.subject {
+				font-size: 16px !important;
+			}
+		}
+		td {
+			font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+			color: #3D4145;
+		}
+	</style>
+</head>
+<body>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"outerWrapp=
+er" style=3D"background-color: #F3F5F6;"
+	 bgcolor=3D"#F3F5F6" width=3D"100%">
+	<tr>
+		<td style=3D"padding: 0;">
+			<div class=3D"container" style=3D"padding: 0 10px;" width=3D"100%" align=
+=3D"center">
+				<!--[if (gte mso 9)|(IE)]>
+				<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"font-size: 18px;">
+					<tr>
+						<td>
+				<![endif]-->
+				<table bgcolor=3D"#F3F5F6" align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"max-width: 640px; font-size: 18px;" width=3D=
+"100%">
+					<tr align=3D"center">
+						<td style=3D"padding: 35px 0 30px 0;" align=3D"center" height=3D"40">
+							<img src=3D"https://cdn.pipedriveassets.com/statikos/img/emails/pipe=
+drive_logo2360x80.png" alt=3D"pipedrive" style=3D"display: inline-block; wi=
+dth: 180px; height: 40px;" width=3D"180" height=3D"40"/>
+						</td>
+					</tr>
+					<tr>
+						<td style=3D"padding: 0;" align=3D"left">
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"con=
+tent" bgcolor=3D"#ffffff" align=3D"center" width=3D"100%" style=3D"border-r=
+adius: 5px; font-family: HelveticaNeue-Light, HelveticaNeue, Segoe UI Semil=
+ight, Arial; line-height: 24px; font-size: 18px;">
+								<tr>
+									<td class=3D"td" style=3D"color: #3D4145; font-family: HelveticaNe=
+ue, Segoe UI, Arial; font-size: 26px; padding: 20px 20px 15px 20px;">Ol=C3=
+=A1, Plinio Gundim!</td>
+								</tr>
+								<tr>
+									<td style=3D"color: #3D4145; font-family: HelveticaNeue-Light, Hel=
+veticaNeue, Arial; padding: 0 20px 20px 20px">Aqui est=C3=A3o suas <strong =
+style=3D"font-family: HelveticaNeue, Segoe UI Semilight, Arial;">atividades=
+</strong> atuais no Pipedrive:</td>
+								</tr>
+								<tr>
+									<td class=3D"activities" style=3D"padding: 0 20px;">
+										<table bgcolor=3D"#F3F5F6" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"border-radius: 5px;">
+											<tr>
+												<td style=3D"padding: 9px 18px 9px 18px; font-family: Helvetica=
+Neue, Segoe UI, Arial; border-bottom: 2px solid #fff">QUARTA-FEIRA, 27 DE F=
+EVEREIRO DE 2019</td>
+											</tr>
+																																		<tr>
+													<td style=3D"padding: 20px 20px 0 20px;" class=3D"activity">
+														<table bgcolor=3D"#f9fafa" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" style=3D"font-family: HelveticaNeue-Light, HelveticaNeue, Se=
+goe UI Semilight, Arial; border-top-right-radius: 4px; border-top-left-radi=
+us: 4px;">
+															<tr>
+																<td style=3D"font-size: 17px; padding: 9px 15px;">O DIA TOD=
+O</td>
+															</tr>
+														</table>
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcol=
+or=3D"#ffffff" width=3D"100%" style=3D"border-top-right-radius: 4px;">
+															<tr>
+																<td width=3D"40" style=3D"padding: 20px 0 20px 20px; vertic=
+al-align: middle;">
+																	<table class=3D"icon-wrapper" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" bgcolor=3D"#E0E4E7" width=3D"40" height=3D"40" style=
+=3D"border-radius: 100%;" align=3D"center" valign=3D"middle">
+																		<tr>
+																			<td width=3D"40" height=3D"40" align=3D"center" valign=
+=3D"middle" style=3D"line-height: 12px; vertical-align: middle; padding: 0;=
+">
+																				<img src=3D"https://cdn.pipedriveassets.com/statikos/li=
+b/img/emails/icons/activity_call_48.png" width=3D"20" height=3D"20" valign=
+=3D"middle" />
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+																<td style=3D" padding: 20px 20px 20px 16px;">
+																	<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+																		<tr>
+																			<td style=3D"color: #3D4145; font-family: HelveticaNeue,=
+ Segoe UI, Arial; padding: 0;">
+																				<div class=3D"subject" style=3D"font-size: 18px;"><a st=
+yle=3D"color: #3D4145; text-decoration: none;" href=3D"https://construlista=
+.pipedrive.com/activities#dialog:/activity/edit/793">Ligar</a></div>
+																			</td>
+																		</tr>
+																		<tr>
+																			<td style=3D"font-family: HelveticaNeue-Light, Helvetica=
+Neue, Segoe UI Semilight, Arial; color: #727272; padding: 0;">
+																				<div class=3D"parties" style=3D"font-size: 16px;">
+																																										<a style=3D"text-decoration: none=
+; color: #727272;" href=3D"https://construlista.pipedrive.com/person/3405">=
+Abra=C3=A3o Corretor Alphavile</a>																				</div>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+																													<table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" bgcolor=3D"#FFFFDD" width=3D"100%" style=3D"border-bottom-right-r=
+adius: 4px; border-bottom-left-radius: 4px;">
+																<tr>
+																	<td style=3D"color: #727272; padding: 11px 17px;">
+																		<div class=3D"note" style=3D"font-size: 16px; font-family=
+: HelveticaNeue-Light, HelveticaNeue, Arial;">Faxer novo contato com o Abra=
+=C3=A3o.</div>
+																	</td>
+																</tr>
+															</table>
+																											</td>
+												</tr>
+																						<tr>
+												<td style=3D"line-height: 18px; height: 18px; font-size: 1px; c=
+olor: #f9fafa; padding: 0;">.</td>
+											</tr>
+										</table>
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=
+=3D"#ffffff" width=3D"100%">
+											<tr>
+												<td class=3D"button" width=3D"100%" style=3D"color: #3D4145; bo=
+rder-radius: 5px; font-family: HelveticaNeue-Light, HelveticaNeue, Segoe UI=
+ Semilight, Arial; font-size: 20px; padding: 20px 0;">
+													<!--[if mso]>
+													<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://construlista.pip=
+edrive.com" style=3D"height:45px;v-text-anchor:middle; width: 560px; font-s=
+ize: 20px;" arcsize=3D"3%" strokecolor=3D"#4bc465" fillcolor=3D"#4bc465">
+														<w:anchorlock/>
+														<center style=3D"color:#ffffff;font-family: HelveticaNeue-Lig=
+ht, HelveticaNeue, Segoe UI Semilight, Arial;">Leve-me ao Pipedrive</center>
+													</v:roundrect>
+													<![endif]-->
+													<a href=3D"https://construlista.pipedrive.com" style=3D"backgr=
+ound-color:#4bc465;border:1px solid #4bc465;border-radius:3px;color:#ffffff=
+;display:block;font-family: HelveticaNeue-Light, HelveticaNeue, Segoe UI Se=
+milight, Arial;line-height:45px;text-align:center;text-decoration:none;-web=
+kit-text-size-adjust:none;mso-hide:all; font-weight: 300;">Leve-me ao Piped=
+rive</a>
+												</td>
+											</tr>
+											<tr>
+												<td class=3D"td" height=3D"2" width=3D"100%" style=3D"font-size=
+: 2px; line-height: 2px; padding: 0;">
+													<div style=3D"color: #F3F3F5; background-color:#F3F3F5; height=
+: 2px;">.</div>
+												</td>
+											</tr>
+											<tr align=3D"center">
+												<td class=3D"quote" style=3D"padding: 20px 20px 0 20px;">
+													<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+														<tr height=3D"10">
+															<td style=3D"color: #3D4145; padding: 0 13px 20px 0; font-fa=
+mily: HelveticaNeue, Segoe UI Semilight, Arial;">
+																<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+																	<tr align=3D"right">
+																		<td style=3D"font-family: HelveticaNeue, Segoe UI Semilig=
+ht, Arial; font-size: 16px; color: #3D4145; padding: 0;">The sales person w=
+ill convince you that even though the glass is half full/empty you are gett=
+ing more than your money&apos;s worth compared to buying a full glass.</td>
+																																																				</tr>
+
+																</table>
+															</td>
+															<td style=3D"padding: 0; vertical-align: top;" valign=3D"top=
+">
+																<img src=3D"https://cdn.pipedriveassets.com/statikos/img/em=
+ails/quote_sign76x76.png" alt=3D"pipedrive" width=3D"36" height=3D"36"/>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center=
+" style=3D"font-size: 18px;" bgcolor=3D"#F3F5F6" width=3D"100%">
+					<tr>
+						<td style=3D"padding: 60px 0 0 0;" align=3D"center">
+							<table style=3D"font-size: 14px; color: #3D4145;" align=3D"center">
+								<tr align=3D"center">
+									<td style=3D"color: #3D4145; font-family: HelveticaNeue-Light, Hel=
+veticaNeue, Segoe UI Semilight, Arial; padding: 0;">
+										Pipedrive Inc. =C2=B7 <a href=3D"http://blog.pipedrive.com/" styl=
+e=3D"color: #4BC465; text-decoration: none;">Nosso blog</a>
+									</td>
+								</tr>
+								<tr align=3D"center">
+									<td style=3D"color: #3D4145; font-family: HelveticaNeue-Light, Hel=
+veticaNeue, Segoe UI Semilight, Arial; padding: 0;">
+										460 Park Ave South, New York, NY 10016, USA
+									</td>
+								</tr>
+								<tr align=3D"center">
+									<td style=3D"padding: 0 0 20px 0; color: #3D4145; font-family: Hel=
+veticaNeue-Light, HelveticaNeue, Segoe UI Semilight, Arial;">Voc=C3=AA pode=
+ alterar suas <a href=3D"https://construlista.pipedrive.com/settings/?utm_s=
+ource=3Demail&amp;utm_medium=3Dreminder&amp;utm_term=3Dreminder&amp;utm_cam=
+paign=3DReminder#activities" style=3D"color: #4BC465; text-decoration: none=
+;">configura=C3=A7=C3=B5es de notifica=C3=A7=C3=A3o</a> a qualquer momento.=
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				<!--[if (gte mso 9)|(IE)]>
+				</table>
+				<![endif]-->
+			</div>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+
+--B_ALT_5c7669337afcb--

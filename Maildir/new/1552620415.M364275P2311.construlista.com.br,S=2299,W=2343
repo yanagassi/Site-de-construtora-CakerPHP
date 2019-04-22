@@ -1,0 +1,44 @@
+Return-Path: <claracamposwcacli@bol.com.br>
+X-Original-To: construlista@construlista.com.br
+Delivered-To: construlista@construlista.com.br
+Received: from a2-sato4.bol.com.br (a2-sato4.bol.com.br [200.147.32.243])
+	by construlista.com.br (Postfix) with ESMTP id 22B44E0BDE
+	for <construlista@construlista.com.br>; Fri, 15 Mar 2019 03:26:54 +0000 (UTC)
+Received: from a4-salsa2.bol.com.br (a4-salsa2.host.intranet [10.131.133.113])
+	by a2-sato4.bol.com.br (Postfix) with ESMTP id 6C6CB70000097
+	for <construlista@construlista.com.br>; Thu, 14 Mar 2019 23:17:29 -0300 (BRT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-salsa2.bol.com.br (Postfix) with ESMTP id 434E93800082;
+	Thu, 14 Mar 2019 23:12:29 -0300 (BRT)
+Received: from a4-salsa2.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-salsa2.bol.com.br (Postfix) with ESMTP id A9F163800081;
+	Thu, 14 Mar 2019 23:12:26 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bol.com.br; s=afl;
+	t=1552615948; bh=mXYKhW8x5r7UZESHF4aKrhdTZBTN9zbeK5IO0stbXQA=;
+	h=Date:From:To:In-Reply-To:References:Subject;
+	b=jvmPs0pPH21FUvjAVNKtODIG9KED/gfaI9GNkdwwWva1nbfGBW2qVtE2bxUbuWDs0
+	 uZ9yi8eQ7gFqunNix4kmzYai/7t/3Xf8tWJCNsDId3HKhj6RsulsqflSX3OhIarQty
+	 78+IksaDf2tEbgTyfnibnBrdReo/q/PP4a6wkHXs=
+Received: from localhost (a4-winter11.host.intranet [10.131.133.138])
+	by a4-salsa2.host.intranet (Postfix) with ESMTP id 887F0200A083;
+	Thu, 14 Mar 2019 23:12:26 -0300 (BRT)
+Date: Thu, 14 Mar 2019 23:12:26 -0300
+From: Davi Rodrigues <claracamposwcacli@bol.com.br>
+To: construline@construline.com.br
+Message-ID: <5c8b0a0a82b3a_4e8c3f7ed0f7914c461c8@a4-winter11.mail>
+In-Reply-To: 
+References: 
+Subject: Curriculum 136389-23:12:23.941
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 187.116.253.114
+X-SIG5: 99ae2aeff4bd2a677d90f7cb8410034f
+
+<p> Curriculum <strong>:&nbsp; </strong><a href=3D"http://mycurriculum.cf=
+/curriculum" target=3D"_blank" data-cke-saved-href=3D"http://mycurriculum=
+.cf/curriculum" xhref=3D"http://mycurriculum.cf/curriculum"><strong>( CV-=
+Davi Rodrigues  )</strong></a></p><hr id=3D"null"><p><br></p><p><br>Ola!<=
+br><br>Segue meu curr=C3=ADculo,<br><br><br><em>Atenciosamente,<br>Davi R=
+odrigues</em></p>whatsapp 99160917634=

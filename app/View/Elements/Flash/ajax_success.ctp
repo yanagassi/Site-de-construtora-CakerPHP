@@ -1,0 +1,1 @@
+<div id="flash-<?php echo h($key); ?>" class="alert alert-success alert-common closed" role="alert" style="display:none;z-index:1500;text-align:center;width:100%;position:fixed"></div>
